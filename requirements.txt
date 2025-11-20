@@ -1,0 +1,35 @@
+fastapi
+openai
+uvicorn[standard]
+pydantic
+pydantic-settings
+requests
+python-dotenv
+python-multipart
+
+# Database
+sqlalchemy
+alembic
+asyncpg
+
+# Vector & Embeddings
+qdrant-client
+tiktoken
+
+# LangChain
+langchain
+langchain-openai
+langchain-community
+
+# Security & Auth
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+
+# Caching (Optional)
+redis
+
+# Testing
+pytest
+pytest-asyncio
+httpx
