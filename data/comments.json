@@ -1,0 +1,52 @@
+{
+  "comments": [
+    {
+      "id": "j50e8400-e29b-41d4-a716-446655440001",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+      "user_id": "750e8400-e29b-41d4-a716-446655440003",
+      "parent_id": null,
+      "content": "Cho hỏi nếu không có xương bò thì có thể dùng xương gà thay thế được không ạ?",
+      "helpful_count": 8
+    },
+    {
+      "id": "j50e8400-e29b-41d4-a716-446655440002",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "parent_id": "j50e8400-e29b-41d4-a716-446655440001",
+      "content": "Dùng xương gà thì sẽ thành phở gà chứ không phải phở bò nhé bạn. Nước dùng sẽ có hương vị khác hẳn, nhẹ hơn và ngọt hơn.",
+      "helpful_count": 15
+    },
+    {
+      "id": "j50e8400-e29b-41d4-a716-446655440003",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440003",
+      "user_id": "750e8400-e29b-41d4-a716-446655440004",
+      "parent_id": null,
+      "content": "Can I make this ahead of time? How long can I store the spring rolls?",
+      "helpful_count": 12
+    },
+    {
+      "id": "j50e8400-e29b-41d4-a716-446655440004",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440003",
+      "user_id": "750e8400-e29b-41d4-a716-446655440005",
+      "parent_id": "j50e8400-e29b-41d4-a716-446655440003",
+      "content": "Gỏi cuốn nên ăn ngay để ngon nhất. Nếu để lâu bánh tráng sẽ cứng lại. Nếu muốn chuẩn bị trước thì có thể luộc tôm, thịt và rau sẵn, để riêng rồi cuốn khi ăn.",
+      "helpful_count": 18
+    },
+    {
+      "id": "j50e8400-e29b-41d4-a716-446655440005",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440002",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "parent_id": null,
+      "content": "Cơm gà này ngon tuyệt! Mình đã làm theo hướng dẫn và cả nhà đều khen. Nước sốt gừng rất đặc biệt.",
+      "helpful_count": 21
+    },
+    {
+      "id": "j50e8400-e29b-41d4-a716-446655440006",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+      "user_id": "750e8400-e29b-41d4-a716-446655440005",
+      "parent_id": null,
+      "content": "Mình đã thử làm món này với nồi áp suất và rất thành công. Tiết kiệm thời gian mà vẫn ngon!",
+      "helpful_count": 25
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "chats": [
+    {
+      "id": "d50e8400-e29b-41d4-a716-446655440001",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "title": "Hỏi về món phở",
+      "context_type": "recipe",
+      "context_id": "850e8400-e29b-41d4-a716-446655440001",
+      "last_message_at": "2025-11-25T14:30:00Z"
+    },
+    {
+      "id": "d50e8400-e29b-41d4-a716-446655440002",
+      "user_id": "750e8400-e29b-41d4-a716-446655440004",
+      "title": "Tư vấn thực đơn healthy",
+      "context_type": "general",
+      "context_id": null,
+      "last_message_at": "2025-11-25T10:15:00Z"
+    }
+  ]
+}

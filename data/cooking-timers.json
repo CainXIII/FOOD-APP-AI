@@ -1,0 +1,29 @@
+{
+  "cooking_timers": [
+    {
+      "id": "c50e8400-e29b-41d4-a716-446655440001",
+      "cooking_session_id": "b50e8400-e29b-41d4-a716-446655440001",
+      "step_number": 3,
+      "label_vi": "Hầm nước phở",
+      "label_en": "Simmering broth",
+      "total_seconds": 43200,
+      "remaining_seconds": 21600,
+      "status": "running",
+      "alert_sound": "cooking_bell",
+      "started_at": "2025-11-25T08:00:00Z"
+    },
+    {
+      "id": "c50e8400-e29b-41d4-a716-446655440002",
+      "cooking_session_id": "b50e8400-e29b-41d4-a716-446655440002",
+      "step_number": 1,
+      "label_vi": "Luộc nguyên liệu",
+      "label_en": "Boiling ingredients",
+      "total_seconds": 1200,
+      "remaining_seconds": 0,
+      "status": "completed",
+      "alert_sound": "soft_chime",
+      "started_at": "2025-11-24T17:00:00Z",
+      "completed_at": "2025-11-24T17:20:00Z"
+    }
+  ]
+}

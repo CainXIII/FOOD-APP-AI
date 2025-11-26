@@ -1,0 +1,74 @@
+{
+  "trending_keywords": [
+    {
+      "id": "g50e8400-e29b-41d4-a716-446655440001",
+      "keyword": "phở",
+      "search_count": 1245,
+      "language": "vi",
+      "trend_score": 0.95
+    },
+    {
+      "id": "g50e8400-e29b-41d4-a716-446655440002",
+      "keyword": "món chay",
+      "search_count": 892,
+      "language": "vi",
+      "trend_score": 0.87
+    },
+    {
+      "id": "g50e8400-e29b-41d4-a716-446655440003",
+      "keyword": "healthy recipes",
+      "search_count": 756,
+      "language": "en",
+      "trend_score": 0.82
+    },
+    {
+      "id": "g50e8400-e29b-41d4-a716-446655440004",
+      "keyword": "cơm gà",
+      "search_count": 634,
+      "language": "vi",
+      "trend_score": 0.78
+    },
+    {
+      "id": "g50e8400-e29b-41d4-a716-446655440005",
+      "keyword": "món ăn nhanh",
+      "search_count": 523,
+      "language": "vi",
+      "trend_score": 0.71
+    },
+    {
+      "id": "g50e8400-e29b-41d4-a716-446655440006",
+      "keyword": "gỏi cuốn",
+      "search_count": 445,
+      "language": "vi",
+      "trend_score": 0.68
+    },
+    {
+      "id": "g50e8400-e29b-41d4-a716-446655440007",
+      "keyword": "gluten free",
+      "search_count": 389,
+      "language": "en",
+      "trend_score": 0.65
+    },
+    {
+      "id": "g50e8400-e29b-41d4-a716-446655440008",
+      "keyword": "bún bò",
+      "search_count": 356,
+      "language": "vi",
+      "trend_score": 0.62
+    },
+    {
+      "id": "g50e8400-e29b-41d4-a716-446655440009",
+      "keyword": "món nướng",
+      "search_count": 298,
+      "language": "vi",
+      "trend_score": 0.58
+    },
+    {
+      "id": "g50e8400-e29b-41d4-a716-446655440010",
+      "keyword": "Vietnamese cuisine",
+      "search_count": 267,
+      "language": "en",
+      "trend_score": 0.54
+    }
+  ]
+}

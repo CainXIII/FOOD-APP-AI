@@ -1,0 +1,36 @@
+{
+  "recipe_lists": [
+    {
+      "id": "i50e8400-e29b-41d4-a716-446655440001",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "name": "Món ăn cuối tuần",
+      "description": "Các món ăn yêu thích nấu vào cuối tuần cho gia đình",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-e29b-41d4-a716-446655440001",
+        "850e8400-e29b-41d4-a716-446655440002"
+      ]
+    },
+    {
+      "id": "i50e8400-e29b-41d4-a716-446655440002",
+      "user_id": "750e8400-e29b-41d4-a716-446655440004",
+      "name": "Healthy Meal Prep",
+      "description": "Gluten-free and nutritious recipes for weekly meal prep",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-e29b-41d4-a716-446655440001",
+        "850e8400-e29b-41d4-a716-446655440003"
+      ]
+    },
+    {
+      "id": "i50e8400-e29b-41d4-a716-446655440003",
+      "user_id": "750e8400-e29b-41d4-a716-446655440005",
+      "name": "Món ăn nhanh 30 phút",
+      "description": "Các món ăn nhanh cho ngày bận rộn",
+      "is_public": false,
+      "recipe_ids": [
+        "850e8400-e29b-41d4-a716-446655440003"
+      ]
+    }
+  ]
+}

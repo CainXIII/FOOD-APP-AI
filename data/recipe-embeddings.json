@@ -1,0 +1,28 @@
+{
+  "recipe_embeddings": [
+    {
+      "id": "l50e8400-e29b-41d4-a716-446655440001",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+      "content_type": "full_recipe",
+      "content_text": "Phở Bò Hà Nội - Hanoi Beef Pho. Món phở bò truyền thống Hà Nội với nước dùng thơm ngon, được hầm từ xương bò trong nhiều giờ. Kèm theo thịt bò tái, chín và các loại rau thơm đặc trưng. Nguyên liệu: Xương bò, thịt bò, gừng, hành tây, bánh phở, muối, đường, nước mắm, hành lá, ngò rí. Các bước nấu: Chuẩn bị nguyên liệu, chần xương, hầm nước dùng 10-12 tiếng, nêm nếm, trình bày và thưởng thức.",
+      "embedding": null,
+      "embedding_model": "text-embedding-3-small"
+    },
+    {
+      "id": "l50e8400-e29b-41d4-a716-446655440002",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440002",
+      "content_type": "full_recipe",
+      "content_text": "Cơm Gà Hải Nam - Hainanese Chicken Rice. Món cơm gà Hải Nam với thịt gà luộc mềm, cơm thơm béo nấu với nước luộc gà và mỡ gà. Ăn kèm nước sốt gừng và tương ớt. Nguyên liệu: Thịt gà, gạo, gừng, tỏi, dầu ăn, muối. Các bước nấu: Luộc gà với gừng, nấu cơm với nước luộc gà, làm nước sốt gừng và tỏi, trình bày và thưởng thức.",
+      "embedding": null,
+      "embedding_model": "text-embedding-3-small"
+    },
+    {
+      "id": "l50e8400-e29b-41d4-a716-446655440003",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440003",
+      "content_type": "full_recipe",
+      "content_text": "Gỏi Cuốn Tôm Thịt - Vietnamese Spring Rolls. Gỏi cuốn tươi ngon với tôm, thịt heo luộc, bún tươi và rau thơm đặc trưng. Ăn kèm nước chấm chua ngọt. Nguyên liệu: Tôm, thịt heo, bún, ngò rí, bánh tráng. Các bước làm: Luộc tôm và thịt, chuẩn bị bún và rau, cuốn gỏi với bánh tráng, làm nước chấm và thưởng thức.",
+      "embedding": null,
+      "embedding_model": "text-embedding-3-small"
+    }
+  ]
+}

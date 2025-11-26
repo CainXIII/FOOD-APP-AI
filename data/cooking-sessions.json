@@ -1,0 +1,56 @@
+{
+  "cooking_sessions": [
+    {
+      "id": "b50e8400-e29b-41d4-a716-446655440001",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+      "status": "in_progress",
+      "current_step": 3,
+      "servings_adjusted": 4,
+      "session_data": {
+        "completed_steps": [1, 2],
+        "active_timers": [
+          {
+            "timer_id": "timer_001",
+            "step_number": 3,
+            "label": "Hầm nước phở",
+            "total_seconds": 43200,
+            "remaining_seconds": 21600,
+            "started_at": "2025-11-25T08:00:00Z"
+          }
+        ],
+        "notes": "Đã tăng lượng xương thêm 200g để nước dùng đậm đà hơn",
+        "modifications": [
+          {
+            "step": 3,
+            "change": "Tăng thời gian hầm từ 10 tiếng lên 12 tiếng"
+          }
+        ],
+        "ingredient_substitutions": []
+      }
+    },
+    {
+      "id": "b50e8400-e29b-41d4-a716-446655440002",
+      "user_id": "750e8400-e29b-41d4-a716-446655440003",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440003",
+      "status": "completed",
+      "current_step": 4,
+      "servings_adjusted": 3,
+      "session_data": {
+        "completed_steps": [1, 2, 3, 4],
+        "active_timers": [],
+        "notes": "Rất ngon và dễ làm!",
+        "modifications": [],
+        "ingredient_substitutions": [
+          {
+            "original_ingredient": "Thịt heo",
+            "substitute": "Đậu phụ",
+            "reason": "Chế độ ăn chay"
+          }
+        ]
+      },
+      "rating_given": 5,
+      "completed_at": "2025-11-24T18:30:00Z"
+    }
+  ]
+}

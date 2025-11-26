@@ -1,0 +1,105 @@
+{
+  "chat_messages": [
+    {
+      "id": "e50e8400-e29b-41d4-a716-446655440001",
+      "chat_id": "d50e8400-e29b-41d4-a716-446655440001",
+      "role": "user",
+      "content": "Tôi có thể dùng nồi áp suất để hầm xương phở được không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false
+      }
+    },
+    {
+      "id": "e50e8400-e29b-41d4-a716-446655440002",
+      "chat_id": "d50e8400-e29b-41d4-a716-446655440001",
+      "role": "assistant",
+      "content": "Chắc chắn rồi! Bạn có thể dùng nồi áp suất để rút ngắn thời gian hầm xương từ 10-12 giờ xuống còn 2-3 giờ. Đây là cách làm:\n\n1. Sau khi chần xương sạch, cho vào nồi áp suất cùng gừng, hành nướng\n2. Đổ nước ngập xương, đậy nắp\n3. Hầm ở áp suất cao trong 2-3 tiếng\n4. Sau đó xả áp suất tự nhiên, mở nắp và nêm nếm\n\nLưu ý: Nước dùng từ nồi áp suất có thể đục hơn một chút so với cách hầm truyền thống, nhưng vẫn rất thơm ngon và đậm đà. Nếu muốn nước dùng trong hơn, bạn có thể lọc qua vải mỏng hoặc giấy bếp.\n\nChúc bạn nấu phở thành công! 🍜",
+      "metadata": {
+        "model": "gpt-4o",
+        "tokens_used": 245,
+        "rag_sources": [
+          {
+            "type": "recipe_step",
+            "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+            "step_number": 3,
+            "similarity_score": 0.92
+          }
+        ],
+        "response_time_ms": 1850
+      }
+    },
+    {
+      "id": "e50e8400-e29b-41d4-a716-446655440003",
+      "chat_id": "d50e8400-e29b-41d4-a716-446655440001",
+      "role": "user",
+      "content": "Cảm ơn! Cho tôi hỏi thêm về gia vị nêm nước phở thì nên cho bao nhiêu là vừa?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": true,
+        "transcription_confidence": 0.95
+      }
+    },
+    {
+      "id": "e50e8400-e29b-41d4-a716-446655440004",
+      "chat_id": "d50e8400-e29b-41d4-a716-446655440001",
+      "role": "assistant",
+      "content": "Với 4 lít nước dùng phở, đây là công thức nêm nếm cơ bản:\n\n**Gia vị chính:**\n- Muối: 2 muỗng canh (khoảng 30g)\n- Đường: 1 muỗng canh (15g)\n- Nước mắm: 3 muỗng canh (45ml)\n\n**Cách nêm đúng:**\n1. Bắt đầu với 2/3 lượng gia vị trên\n2. Khuấy đều và nếm thử\n3. Từ từ thêm gia vị cho đến khi đạt vị ưng ý\n4. Nhớ rằng: Dễ thêm nhưng khó bớt!\n\n**Mẹo:**\n- Nêm khi nước dùng đang nóng\n- Vị nước dùng nên hơi mặn một chút vì khi ăn với bánh phở và rau sẽ vừa vặn\n- Nếu thấy mặn quá, thêm một chút đường để cân bằng\n- Nước mắm cho vào cuối để giữ hương thơm\n\nChúc bạn nấu ăn vui vẻ! 👨‍🍳",
+      "metadata": {
+        "model": "gpt-4o",
+        "tokens_used": 312,
+        "rag_sources": [
+          {
+            "type": "recipe_step",
+            "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+            "step_number": 4,
+            "similarity_score": 0.88
+          },
+          {
+            "type": "recipe_ingredients",
+            "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+            "similarity_score": 0.85
+          }
+        ],
+        "response_time_ms": 2100,
+        "tts_generated": true,
+        "tts_audio_url": "https://storage.cooking.app/tts/response_004.mp3"
+      }
+    },
+    {
+      "id": "e50e8400-e29b-41d4-a716-446655440005",
+      "chat_id": "d50e8400-e29b-41d4-a716-446655440002",
+      "role": "user",
+      "content": "Can you suggest a healthy meal plan for someone with gluten allergy?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false
+      }
+    },
+    {
+      "id": "e50e8400-e29b-41d4-a716-446655440006",
+      "chat_id": "d50e8400-e29b-41d4-a716-446655440002",
+      "role": "assistant",
+      "content": "I'd be happy to help you create a healthy gluten-free meal plan! Based on your dietary preferences and the recipes available, here are some excellent options:\n\n**Breakfast:**\n- Vietnamese chicken rice (Cơm Gà) - naturally gluten-free\n- Fresh fruit smoothie with chia seeds\n- Rice porridge with lean protein\n\n**Lunch:**\n- Hanoi beef pho (Phở Bò) - made with rice noodles (gluten-free)\n- Fresh spring rolls (Gỏi Cuốn) with rice paper\n- Grilled protein with steamed vegetables and rice\n\n**Dinner:**\n- Steamed fish with ginger and rice\n- Stir-fried vegetables with tofu and rice noodles\n- Vietnamese braised dishes with rice\n\n**Snacks:**\n- Fresh spring rolls\n- Fresh fruits\n- Rice crackers with vegetables\n\n**Important tips:**\n1. Always check soy sauce labels - use tamari or gluten-free soy sauce\n2. Avoid wheat-based noodles - stick to rice noodles or vermicelli\n3. Be careful with seasoning powders - some contain gluten\n4. Rice is your best friend - it's naturally gluten-free and versatile\n\nWould you like me to provide detailed recipes for any of these meals?",
+      "metadata": {
+        "model": "gpt-4o",
+        "tokens_used": 398,
+        "rag_sources": [
+          {
+            "type": "user_preferences",
+            "user_id": "750e8400-e29b-41d4-a716-446655440004",
+            "similarity_score": 0.94
+          },
+          {
+            "type": "recipe_collection",
+            "filters": {
+              "is_gluten_free": true
+            },
+            "similarity_score": 0.89
+          }
+        ],
+        "response_time_ms": 2450
+      }
+    }
+  ]
+}

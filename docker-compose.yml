@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  # Redis Cache (Optional - for caching)
+  redis:
+    image: redis:7.2-alpine
+    container_name: cooking_assistant_redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - cooking_assistant
+    profiles:
+      - optional
+
+  # Redis Commander (Redis Management - Optional)
+  redis-commander:
+    image: rediscommander/redis-commander:latest
+    container_name: cooking_assistant_redis_commander
+    environment:
+      REDIS_HOSTS: local:redis:6379
+    ports:
+      - "8081:8081"
+    depends_on:
+      - redis
+    networks:
+      - cooking_assistant
+    profiles:
+      - optional
+
+volumes:
+  redis_data:
+
+networks:
+  cooking_assistant:
+    driver: bridge

@@ -1,0 +1,70 @@
+{
+  "nutrition_facts": [
+    {
+      "id": "k50e8400-e29b-41d4-a716-446655440001",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+      "serving_size": "1 tô",
+      "calories": 450,
+      "protein_g": 35,
+      "carbs_g": 58,
+      "fat_g": 8,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "sodium_mg": 1800,
+      "cholesterol_mg": 85,
+      "saturated_fat_g": 3,
+      "trans_fat_g": 0,
+      "vitamins": {
+        "vitamin_a_mcg": 120,
+        "vitamin_c_mg": 15,
+        "vitamin_d_mcg": 0,
+        "calcium_mg": 60,
+        "iron_mg": 4.5
+      }
+    },
+    {
+      "id": "k50e8400-e29b-41d4-a716-446655440002",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440002",
+      "serving_size": "1 phần",
+      "calories": 580,
+      "protein_g": 42,
+      "carbs_g": 65,
+      "fat_g": 15,
+      "fiber_g": 2,
+      "sugar_g": 1,
+      "sodium_mg": 850,
+      "cholesterol_mg": 125,
+      "saturated_fat_g": 4,
+      "trans_fat_g": 0,
+      "vitamins": {
+        "vitamin_a_mcg": 80,
+        "vitamin_c_mg": 8,
+        "vitamin_d_mcg": 0.3,
+        "calcium_mg": 35,
+        "iron_mg": 2.8
+      }
+    },
+    {
+      "id": "k50e8400-e29b-41d4-a716-446655440003",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440003",
+      "serving_size": "2 cuốn",
+      "calories": 185,
+      "protein_g": 18,
+      "carbs_g": 22,
+      "fat_g": 3,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "sodium_mg": 620,
+      "cholesterol_mg": 95,
+      "saturated_fat_g": 0.8,
+      "trans_fat_g": 0,
+      "vitamins": {
+        "vitamin_a_mcg": 150,
+        "vitamin_c_mg": 12,
+        "vitamin_d_mcg": 0,
+        "calcium_mg": 45,
+        "iron_mg": 1.8
+      }
+    }
+  ]
+}

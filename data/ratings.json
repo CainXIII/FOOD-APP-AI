@@ -1,0 +1,40 @@
+{
+  "ratings": [
+    {
+      "id": "950e8400-e29b-41d4-a716-446655440001",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "rating": 5,
+      "review": "Công thức phở rất chi tiết và dễ làm theo. Nước dùng thơm ngon, cả nhà đều khen. Sẽ làm lại nhiều lần!",
+      "helpful_count": 23,
+      "is_verified_cook": true
+    },
+    {
+      "id": "950e8400-e29b-41d4-a716-446655440002",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+      "user_id": "750e8400-e29b-41d4-a716-446655440003",
+      "rating": 4,
+      "review": "Món phở ngon nhưng hầm xương mất nhiều thời gian. Lần sau sẽ dùng nồi áp suất để tiết kiệm thời gian hơn.",
+      "helpful_count": 15,
+      "is_verified_cook": true
+    },
+    {
+      "id": "950e8400-e29b-41d4-a716-446655440003",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440002",
+      "user_id": "750e8400-e29b-41d4-a716-446655440004",
+      "rating": 5,
+      "review": "Perfect Hainanese chicken rice! The ginger sauce is amazing. My family loves this dish.",
+      "helpful_count": 31,
+      "is_verified_cook": true
+    },
+    {
+      "id": "950e8400-e29b-41d4-a716-446655440004",
+      "recipe_id": "850e8400-e29b-41d4-a716-446655440003",
+      "user_id": "750e8400-e29b-41d4-a716-446655440005",
+      "rating": 5,
+      "review": "Gỏi cuốn tươi ngon, cách cuốn dễ hiểu. Các bước hướng dẫn rõ ràng, lần đầu làm mà thành công!",
+      "helpful_count": 42,
+      "is_verified_cook": true
+    }
+  ]
+}

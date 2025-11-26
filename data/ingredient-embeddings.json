@@ -1,0 +1,39 @@
+{
+  "ingredient_embeddings": [
+    {
+      "id": "m50e8400-e29b-41d4-a716-446655440001",
+      "ingredient_id": "650e8400-e29b-41d4-a716-446655440001",
+      "content_text": "Xương bò - Beef bones. Xương hầm, xương ống dùng để nấu nước dùng phở. Giàu protein và khoáng chất. Calories: 150, Protein: 20g, Fat: 8g. Thích hợp cho món phở, canh, súp.",
+      "embedding": null,
+      "embedding_model": "text-embedding-3-small"
+    },
+    {
+      "id": "m50e8400-e29b-41d4-a716-446655440002",
+      "ingredient_id": "650e8400-e29b-41d4-a716-446655440005",
+      "content_text": "Tôm - Shrimp. Tôm sú, tôm thẻ dùng trong các món ăn. Giàu protein, ít calo. Calories: 99, Protein: 24g, Fat: 0.3g. Thích hợp cho món gỏi cuốn, canh, xào. Lưu ý dị ứng: shellfish.",
+      "embedding": null,
+      "embedding_model": "text-embedding-3-small"
+    },
+    {
+      "id": "m50e8400-e29b-41d4-a716-446655440003",
+      "ingredient_id": "650e8400-e29b-41d4-a716-446655440009",
+      "content_text": "Gừng - Ginger. Gừng tươi, củ gừng là gia vị quan trọng trong nấu ăn Việt. Calories: 80, Protein: 1.8g, Carbs: 18g. Thích hợp cho món phở, cơm gà, canh. Thuần chay, không gluten.",
+      "embedding": null,
+      "embedding_model": "text-embedding-3-small"
+    },
+    {
+      "id": "m50e8400-e29b-41d4-a716-446655440004",
+      "ingredient_id": "650e8400-e29b-41d4-a716-446655440018",
+      "content_text": "Bánh phở - Pho noodles. Bánh phở tươi, bánh phở khô làm từ bột gạo. Calories: 109, Protein: 1.8g, Carbs: 25g. Không chứa gluten. Thích hợp cho món phở, hủ tiếu.",
+      "embedding": null,
+      "embedding_model": "text-embedding-3-small"
+    },
+    {
+      "id": "m50e8400-e29b-41d4-a716-446655440005",
+      "ingredient_id": "650e8400-e29b-41d4-a716-446655440003",
+      "content_text": "Thịt gà - Chicken. Gà ta, gà công nghiệp giàu protein, ít chất béo. Calories: 165, Protein: 31g, Fat: 3.6g. Thích hợp cho món cơm gà, gà nướng, canh gà. Không chứa gluten.",
+      "embedding": null,
+      "embedding_model": "text-embedding-3-small"
+    }
+  ]
+}

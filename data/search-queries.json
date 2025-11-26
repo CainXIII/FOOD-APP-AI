@@ -1,0 +1,64 @@
+{
+  "search_queries": [
+    {
+      "id": "f50e8400-e29b-41d4-a716-446655440001",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "query_text": "món phở bò",
+      "filters": {
+        "category": null,
+        "difficulty": null,
+        "max_time_minutes": null,
+        "dietary": []
+      },
+      "results_count": 15
+    },
+    {
+      "id": "f50e8400-e29b-41d4-a716-446655440002",
+      "user_id": "750e8400-e29b-41d4-a716-446655440003",
+      "query_text": "món ăn chay",
+      "filters": {
+        "category": null,
+        "difficulty": null,
+        "max_time_minutes": null,
+        "dietary": ["vegetarian"]
+      },
+      "results_count": 42
+    },
+    {
+      "id": "f50e8400-e29b-41d4-a716-446655440003",
+      "user_id": "750e8400-e29b-41d4-a716-446655440004",
+      "query_text": "quick dinner recipes",
+      "filters": {
+        "category": null,
+        "difficulty": "easy",
+        "max_time_minutes": 30,
+        "dietary": []
+      },
+      "results_count": 28
+    },
+    {
+      "id": "f50e8400-e29b-41d4-a716-446655440004",
+      "user_id": "750e8400-e29b-41d4-a716-446655440005",
+      "query_text": "cơm gà",
+      "filters": {
+        "category": null,
+        "difficulty": null,
+        "max_time_minutes": null,
+        "dietary": []
+      },
+      "results_count": 8
+    },
+    {
+      "id": "f50e8400-e29b-41d4-a716-446655440005",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "query_text": "gỏi cuốn",
+      "filters": {
+        "category": "appetizers",
+        "difficulty": null,
+        "max_time_minutes": null,
+        "dietary": []
+      },
+      "results_count": 12
+    }
+  ]
+}

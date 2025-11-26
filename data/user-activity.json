@@ -1,0 +1,86 @@
+{
+  "user_activity": [
+    {
+      "id": "h50e8400-e29b-41d4-a716-446655440001",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-e29b-41d4-a716-446655440001",
+      "metadata": {
+        "source": "search",
+        "query": "món phở bò",
+        "time_spent_seconds": 245
+      }
+    },
+    {
+      "id": "h50e8400-e29b-41d4-a716-446655440002",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-e29b-41d4-a716-446655440001",
+      "metadata": {
+        "from_recipe_detail": true
+      }
+    },
+    {
+      "id": "h50e8400-e29b-41d4-a716-446655440003",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "activity_type": "cooking_start",
+      "target_id": "b50e8400-e29b-41d4-a716-446655440001",
+      "metadata": {
+        "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+        "servings": 4
+      }
+    },
+    {
+      "id": "h50e8400-e29b-41d4-a716-446655440004",
+      "user_id": "750e8400-e29b-41d4-a716-446655440003",
+      "activity_type": "recipe_rating",
+      "target_id": "950e8400-e29b-41d4-a716-446655440002",
+      "metadata": {
+        "recipe_id": "850e8400-e29b-41d4-a716-446655440001",
+        "rating": 4
+      }
+    },
+    {
+      "id": "h50e8400-e29b-41d4-a716-446655440005",
+      "user_id": "750e8400-e29b-41d4-a716-446655440004",
+      "activity_type": "chat_message",
+      "target_id": "e50e8400-e29b-41d4-a716-446655440005",
+      "metadata": {
+        "chat_id": "d50e8400-e29b-41d4-a716-446655440002",
+        "message_length": 67
+      }
+    },
+    {
+      "id": "h50e8400-e29b-41d4-a716-446655440006",
+      "user_id": "750e8400-e29b-41d4-a716-446655440005",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-e29b-41d4-a716-446655440003",
+      "metadata": {
+        "platform": "facebook",
+        "share_type": "social_media"
+      }
+    },
+    {
+      "id": "h50e8400-e29b-41d4-a716-446655440007",
+      "user_id": "750e8400-e29b-41d4-a716-446655440003",
+      "activity_type": "cooking_complete",
+      "target_id": "b50e8400-e29b-41d4-a716-446655440002",
+      "metadata": {
+        "recipe_id": "850e8400-e29b-41d4-a716-446655440003",
+        "total_time_seconds": 2400,
+        "rating_given": 5
+      }
+    },
+    {
+      "id": "h50e8400-e29b-41d4-a716-446655440008",
+      "user_id": "750e8400-e29b-41d4-a716-446655440002",
+      "activity_type": "search",
+      "target_id": "f50e8400-e29b-41d4-a716-446655440001",
+      "metadata": {
+        "query": "món phở bò",
+        "results_count": 15,
+        "clicked_result": "850e8400-e29b-41d4-a716-446655440001"
+      }
+    }
+  ]
+}
