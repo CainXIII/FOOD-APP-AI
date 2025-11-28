@@ -133,24 +133,20 @@ class SmartSuggestionsNotifier extends StateNotifier<SmartSuggestionsState> {
     }
 
     // Topic-specific suggestions
+    // TODO: Replace with API-driven suggestions from /search/suggestions endpoint
     for (final topic in topics) {
       switch (topic) {
         case 'chicken':
           suggestions.addAll([
             SmartSuggestion(
-              text: 'Công thức gà nướng khác',
+              text: 'Món gà khác',
               category: 'recipes',
               confidence: 0.9,
             ),
             SmartSuggestion(
-              text: 'Gà kho gừng',
-              category: 'recipes',
+              text: 'Cách ướp gà',
+              category: 'tips',
               confidence: 0.8,
-            ),
-            SmartSuggestion(
-              text: 'Canh gà',
-              category: 'recipes',
-              confidence: 0.7,
             ),
           ]);
           break;
@@ -158,19 +154,14 @@ class SmartSuggestionsNotifier extends StateNotifier<SmartSuggestionsState> {
         case 'vietnamese':
           suggestions.addAll([
             SmartSuggestion(
-              text: 'Phở bò',
+              text: 'Món Việt khác',
               category: 'recipes',
               confidence: 0.9,
             ),
             SmartSuggestion(
-              text: 'Bún riêu',
-              category: 'recipes',
+              text: 'Gia vị Việt Nam',
+              category: 'ingredients',
               confidence: 0.8,
-            ),
-            SmartSuggestion(
-              text: 'Cơm tấm',
-              category: 'recipes',
-              confidence: 0.7,
             ),
           ]);
           break;
@@ -178,19 +169,14 @@ class SmartSuggestionsNotifier extends StateNotifier<SmartSuggestionsState> {
         case 'vegetarian':
           suggestions.addAll([
             SmartSuggestion(
-              text: 'Đậu hũ nhồi thịt',
+              text: 'Món chay khác',
               category: 'recipes',
               confidence: 0.9,
             ),
             SmartSuggestion(
-              text: 'Canh rau',
-              category: 'recipes',
+              text: 'Thay thế protein',
+              category: 'tips',
               confidence: 0.8,
-            ),
-            SmartSuggestion(
-              text: 'Salad rau củ',
-              category: 'recipes',
-              confidence: 0.7,
             ),
           ]);
           break;
@@ -198,13 +184,13 @@ class SmartSuggestionsNotifier extends StateNotifier<SmartSuggestionsState> {
         case 'quick':
           suggestions.addAll([
             SmartSuggestion(
-              text: 'Món ăn dưới 30 phút',
+              text: 'Món nhanh 30 phút',
               category: 'time',
               confidence: 0.9,
             ),
             SmartSuggestion(
-              text: 'Công thức đơn giản',
-              category: 'difficulty',
+              text: 'Mẹo nấu nhanh',
+              category: 'tips',
               confidence: 0.8,
             ),
           ]);

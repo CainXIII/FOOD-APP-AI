@@ -44,44 +44,22 @@ class ChatHistoryNotifier extends StateNotifier<ChatHistoryState> {
     state = state.copyWith(isLoading: true, error: null);
 
     try {
-      // TODO: Implement API call to get chat sessions
-      // For now, using mock data
-      final mockSessions = [
-        ChatSession(
-          id: '1',
-          title: 'Công thức gà nướng',
-          createdAt: DateTime.now().subtract(const Duration(days: 1)),
-          lastMessageAt: DateTime.now().subtract(const Duration(hours: 2)),
-          messageCount: 12,
-          lastMessagePreview: 'Bạn có thể cho tôi công thức gà nướng mật ong không?',
-        ),
-        ChatSession(
-          id: '2',
-          title: 'Món ăn chay',
-          createdAt: DateTime.now().subtract(const Duration(days: 3)),
-          lastMessageAt: DateTime.now().subtract(const Duration(days: 1)),
-          messageCount: 8,
-          lastMessagePreview: 'Tôi cần ý tưởng món chay cho bữa tối gia đình',
-        ),
-        ChatSession(
-          id: '3',
-          title: 'Cách nấu phở',
-          createdAt: DateTime.now().subtract(const Duration(days: 5)),
-          lastMessageAt: DateTime.now().subtract(const Duration(days: 3)),
-          messageCount: 15,
-          lastMessagePreview: 'Hướng dẫn nấu phở bò từ A đến Z',
-        ),
-      ];
+      // Call backend API to get chat sessions
+      final chatsData = await _dataSource.getChats();
+      
+      final sessions = chatsData.map((chatJson) {
+        return ChatSession.fromJson(chatJson as Map<String, dynamic>);
+      }).toList();
 
       state = state.copyWith(
-        sessions: mockSessions,
-        filteredSessions: mockSessions,
+        sessions: sessions,
+        filteredSessions: sessions,
         isLoading: false,
       );
     } catch (e) {
       state = state.copyWith(
         isLoading: false,
-        error: 'Không thể tải lịch sử trò chuyện',
+        error: 'Không thể tải lịch sử trò chuyện: $e',
       );
     }
   }
@@ -102,18 +80,40 @@ class ChatHistoryNotifier extends StateNotifier<ChatHistoryState> {
   }
 
   Future<void> createNewChat() async {
-    // TODO: Implement create new chat
-    // This would typically navigate to chat screen with a new session
+    try {
+      final chatData = await _dataSource.createChat();
+      
+      // Add new chat to the list
+      final newSession = ChatSession.fromJson(chatData);
+      final updatedSessions = [newSession, ...state.sessions];
+      
+      state = state.copyWith(
+        sessions: updatedSessions,
+        filteredSessions: state.searchQuery.isEmpty 
+            ? updatedSessions 
+            : state.filteredSessions,
+      );
+      
+      return;
+    } catch (e) {
+      state = state.copyWith(error: 'Không thể tạo cuộc trò chuyện mới: $e');
+    }
   }
 
   Future<void> openChat(String chatId) async {
-    // TODO: Implement open specific chat
-    // This would load the chat session and navigate to chat screen
+    try {
+      // Load chat details if needed
+      await _dataSource.getChatDetails(chatId);
+      // Navigation will be handled by the UI
+    } catch (e) {
+      state = state.copyWith(error: 'Không thể mở cuộc trò chuyện: $e');
+    }
   }
 
   Future<void> renameChat(String chatId, String newTitle) async {
     try {
-      // TODO: Implement API call to rename chat
+      // Call API to rename chat
+      await _dataSource.updateChat(chatId: chatId, title: newTitle);
 
       final updatedSessions = state.sessions.map((session) {
         if (session.id == chatId) {
@@ -134,13 +134,14 @@ class ChatHistoryNotifier extends StateNotifier<ChatHistoryState> {
         filteredSessions: updatedFiltered,
       );
     } catch (e) {
-      state = state.copyWith(error: 'Không thể đổi tên cuộc trò chuyện');
+      state = state.copyWith(error: 'Không thể đổi tên cuộc trò chuyện: $e');
     }
   }
 
   Future<void> deleteChat(String chatId) async {
     try {
-      // TODO: Implement API call to delete chat
+      // Call API to delete chat
+      await _dataSource.deleteChat(chatId);
 
       final updatedSessions = state.sessions.where((session) => session.id != chatId).toList();
       final updatedFiltered = state.filteredSessions.where((session) => session.id != chatId).toList();
@@ -150,7 +151,7 @@ class ChatHistoryNotifier extends StateNotifier<ChatHistoryState> {
         filteredSessions: updatedFiltered,
       );
     } catch (e) {
-      state = state.copyWith(error: 'Không thể xóa cuộc trò chuyện');
+      state = state.copyWith(error: 'Không thể xóa cuộc trò chuyện: $e');
     }
   }
 }

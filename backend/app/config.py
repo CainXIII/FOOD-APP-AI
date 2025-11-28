@@ -58,15 +58,22 @@ class Settings(BaseSettings):
 
     # OpenAI - Chat Model
     OPENAI_API_KEY: str
-    OPENAI_BASE_URL: str = "https://api.openai.com/v1"
+    OPENAI_BASE_URL: str = "https://aiportalapi.stu-platform.live/jpe"
     OPENAI_MODEL: str = "gpt-4o"
     OPENAI_TEMPERATURE: float = 0.7
     OPENAI_MAX_TOKENS: int = 1000
     
     # OpenAI - Embedding Model
     OPENAI_EMBEDDING_API_KEY: Optional[str] = None
-    OPENAI_EMBEDDING_BASE_URL: str = "https://api.openai.com/v1"
+    OPENAI_EMBEDDING_BASE_URL: str = "https://aiportalapi.stu-platform.live/jpe"
     OPENAI_EMBEDDING_MODEL: str = "text-embedding-3-small"
+
+    # Qdrant Vector Database
+    QDRANT_URL: str = "http://localhost:6333"
+    QDRANT_API_KEY: Optional[str] = None  # For Qdrant Cloud
+    QDRANT_COLLECTION_NAME: str = "food_recipes"
+    QDRANT_VECTOR_SIZE: int = 1536  # text-embedding-3-small dimension
+    QDRANT_DISTANCE: str = "Cosine"  # Cosine, Euclid, or Dot
 
     # OAuth - Google
     GOOGLE_CLIENT_ID: Optional[str] = None

@@ -128,21 +128,18 @@ class VoiceInputNotifier extends StateNotifier<VoiceInputState> {
 
   Future<String?> _speechToText(String audioPath) async {
     try {
-      // For now, return mock text based on recording duration
-      // In a real implementation, you would send the audio file to a speech-to-text service
+      // TODO: Implement actual speech-to-text service integration
+      // This should call a real speech recognition API like:
+      // - Google Cloud Speech-to-Text
+      // - Azure Speech Services 
+      // - Amazon Transcribe
+      // - OpenAI Whisper API
+      
       await Future.delayed(const Duration(seconds: 2)); // Simulate processing
-
-      final file = File(audioPath);
-      final fileSize = await file.length();
-
-      // Mock responses based on file size (which correlates with recording duration)
-      if (fileSize > 50000) {
-        return 'Hãy cho tôi biết công thức nấu ăn nào bạn quan tâm?';
-      } else if (fileSize > 25000) {
-        return 'Tôi muốn học cách nấu phở';
-      } else {
-        return 'Gợi ý món ăn cho bữa tối';
-      }
+      
+      // For now, return a placeholder until speech service is integrated
+      state = state.copyWith(error: 'Speech-to-text service not yet implemented');
+      return null;
     } catch (e) {
       state = state.copyWith(error: 'Không thể chuyển đổi giọng nói thành văn bản');
       return null;

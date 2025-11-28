@@ -100,4 +100,27 @@ class ChatRemoteDataSource {
       );
     }
   }
+
+  /// Update chat title (rename)
+  Future<Map<String, dynamic>> updateChat({
+    required String chatId,
+    required String title,
+  }) async {
+    final response = await _dioClient.dio.put(
+      '/chat/$chatId',
+      data: {
+        'title': title,
+      },
+    );
+
+    if (response.statusCode == null || response.statusCode! < 200 || response.statusCode! >= 300) {
+      throw DioException(
+        requestOptions: response.requestOptions,
+        response: response,
+        type: DioExceptionType.badResponse,
+      );
+    }
+
+    return response.data as Map<String, dynamic>;
+  }
 }

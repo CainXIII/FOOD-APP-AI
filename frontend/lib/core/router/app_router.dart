@@ -10,6 +10,7 @@ import '../../features/auth/presentation/screens/register_screen.dart';
 import '../../features/home/presentation/screens/home_screen.dart';
 import '../../features/chat/presentation/screens/chat_screen.dart';
 import '../../features/chat/presentation/screens/chat_history_screen.dart';
+import '../../features/recipe/presentation/screens/recipe_detail_screen.dart';
 
 /// Router refresh stream - notifies GoRouter when to refresh
 class RouterRefreshStream extends ChangeNotifier {
@@ -135,12 +136,7 @@ final goRouterProvider = Provider<GoRouter>((ref) {
         name: 'recipe-detail',
         builder: (context, state) {
           final recipeId = state.pathParameters['id']!;
-          return Scaffold(
-            appBar: AppBar(title: Text('Recipe $recipeId')),
-            body: Center(
-              child: Text('Recipe Detail - ID: $recipeId'),
-            ),
-          );
+          return RecipeDetailScreen(recipeId: recipeId);
         },
       ),
 

@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:shimmer/shimmer.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
+import 'package:go_router/go_router.dart';
 import '../providers/home_providers.dart';
 import '../providers/favorites_notifier.dart';
 import '../../data/models/recipe_summary_model.dart';
@@ -112,8 +113,7 @@ class RecentRecipeCard extends StatelessWidget {
     return InkWell(
       onTap: () {
         final recipeId = recipe.id;
-        // TODO: Navigate to recipe detail
-        // context.go('/recipe/$recipeId');
+        context.go('/recipe/$recipeId');
       },
       borderRadius: BorderRadius.circular(16),
       child: Container(

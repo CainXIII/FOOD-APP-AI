@@ -25,6 +25,7 @@ from app.schemas.chat import (
 from app.schemas.base import MessageResponse
 from app.core.deps import get_current_user
 from app.services.rag import get_rag_context, generate_chat_response
+from app.services.langchain_rag import query_rag, search_recipes_semantic
 
 
 router = APIRouter()
@@ -218,13 +219,6 @@ async def send_message(
     db.add(user_message)
     await db.flush()  # Get user_message.id
     
-    # Get RAG context from database
-    rag_context = await get_rag_context(
-        query=message_data.content,
-        db=db,
-        top_k=3
-    )
-    
     # Get conversation history
     result = await db.execute(
         select(ChatMessage)
@@ -234,34 +228,74 @@ async def send_message(
     )
     history = result.scalars().all()
     
-    # Build message list for AI
-    messages = []
+    # Build conversation history for RAG
+    conversation_history = []
     for msg in history:
         if msg.id != user_message.id:  # Exclude current user message
-            messages.append({
+            conversation_history.append({
                 "role": msg.role,
                 "content": msg.content
             })
     
-    # Add current user message
-    messages.append({
-        "role": "user",
-        "content": message_data.content
-    })
+    # Build user context from current user profile
+    user_context = {}
+    if hasattr(current_user, 'dietary_preferences') and current_user.dietary_preferences:
+        user_context['dietary_preferences'] = current_user.dietary_preferences
+    if hasattr(current_user, 'allergies') and current_user.allergies:
+        user_context['allergies'] = current_user.allergies
     
-    # Generate AI response using OpenAI
-    assistant_content = await generate_chat_response(
-        messages=messages,
-        rag_context=rag_context,
-        stream=False
-    )
+    # Use LangChain RAG for response generation
+    try:
+        rag_result = await query_rag(
+            question=message_data.content,
+            conversation_history=conversation_history,
+            user_context=user_context if user_context else None,
+            personality="friendly",
+            top_k=5
+        )
+        
+        assistant_content = rag_result["answer"]
+        rag_context_data = {
+            "sources": rag_result.get("sources", []),
+            "total_sources": rag_result.get("total_sources", 0),
+            "enhanced_question": rag_result.get("enhanced_question", message_data.content)
+        }
+        
+    except Exception as e:
+        print(f"❌ LangChain RAG error: {e}, falling back to old RAG service")
+        # Fallback to old RAG service
+        rag_context = await get_rag_context(
+            query=message_data.content,
+            db=db,
+            top_k=3
+        )
+        
+        # Build message list for AI
+        messages = []
+        for msg in history:
+            if msg.id != user_message.id:
+                messages.append({
+                    "role": msg.role,
+                    "content": msg.content
+                })
+        messages.append({
+            "role": "user",
+            "content": message_data.content
+        })
+        
+        assistant_content = await generate_chat_response(
+            messages=messages,
+            rag_context=rag_context,
+            stream=False
+        )
+        rag_context_data = rag_context
     
     # Save assistant message
     assistant_message = ChatMessage(
         chat_id=chat_id,
         role="assistant",
         content=assistant_content,
-        rag_context=rag_context,
+        rag_context=rag_context_data,
         rag_query=message_data.content,
         prompt_tokens=0,  # TODO: Extract from OpenAI response
         completion_tokens=0,
@@ -320,28 +354,70 @@ async def stream_message(
         """Generate SSE events"""
         import json
         
-        # Mock streaming response
-        response_text = "I'm here to help you with cooking! This is a mock streaming response. RAG integration is pending."
-        
-        # Stream word by word
-        words = response_text.split()
-        for word in words:
-            chunk = {
-                "type": "token",
-                "content": word + " "
-            }
-            yield f"data: {json.dumps(chunk)}\n\n"
+        try:
+            # Get conversation history
+            result = await db.execute(
+                select(ChatMessage)
+                .where(ChatMessage.chat_id == chat_id)
+                .order_by(ChatMessage.created_at.asc())
+                .limit(10)
+            )
+            history = result.scalars().all()
             
-            # Small delay for streaming effect
-            import asyncio
-            await asyncio.sleep(0.1)
-        
-        # Send done event
-        done_chunk = {
-            "type": "done",
-            "message_id": str(chat_id)
-        }
-        yield f"data: {json.dumps(done_chunk)}\n\n"
+            # Build conversation history for RAG
+            conversation_history = []
+            for msg in history:
+                conversation_history.append({
+                    "role": msg.role,
+                    "content": msg.content
+                })
+            
+            # Build user context
+            user_context = {}
+            if hasattr(current_user, 'dietary_preferences') and current_user.dietary_preferences:
+                user_context['dietary_preferences'] = current_user.dietary_preferences
+            if hasattr(current_user, 'allergies') and current_user.allergies:
+                user_context['allergies'] = current_user.allergies
+            
+            # Use LangChain RAG
+            rag_result = await query_rag(
+                question=message_data.content,
+                conversation_history=conversation_history,
+                user_context=user_context if user_context else None,
+                personality="friendly",
+                top_k=5
+            )
+            
+            response_text = rag_result["answer"]
+            
+            # Stream word by word
+            words = response_text.split()
+            for word in words:
+                chunk = {
+                    "type": "token",
+                    "content": word + " "
+                }
+                yield f"data: {json.dumps(chunk)}\n\n"
+                
+                # Small delay for streaming effect
+                import asyncio
+                await asyncio.sleep(0.05)
+            
+            # Send done event
+            done_chunk = {
+                "type": "done",
+                "message_id": str(chat_id),
+                "sources": len(rag_result.get("sources", []))
+            }
+            yield f"data: {json.dumps(done_chunk)}\n\n"
+            
+        except Exception as e:
+            print(f"❌ Streaming error: {e}")
+            error_chunk = {
+                "type": "error",
+                "message": "Sorry, I encountered an error. Please try again."
+            }
+            yield f"data: {json.dumps(error_chunk)}\n\n"
     
     return StreamingResponse(
         event_generator(),
@@ -350,7 +426,7 @@ async def stream_message(
 
 
 @router.post("/rag/query", response_model=dict)
-async def rag_query(
+async def rag_query_endpoint(
     query_data: RAGQuery,
     db: AsyncSession = Depends(get_db),
     current_user: User = Depends(get_current_user)
@@ -362,18 +438,54 @@ async def rag_query(
     - **top_k**: Number of results
     - **min_similarity**: Minimum similarity threshold
     """
-    # Mock RAG response
-    return {
-        "query": query_data.query,
-        "contexts": [
-            {
-                "recipe_id": None,
+    try:
+        # Build user context
+        user_context = {}
+        if hasattr(current_user, 'dietary_preferences') and current_user.dietary_preferences:
+            user_context['dietary_preferences'] = current_user.dietary_preferences
+        if hasattr(current_user, 'allergies') and current_user.allergies:
+            user_context['allergies'] = current_user.allergies
+        
+        # Use LangChain RAG service
+        rag_result = await query_rag(
+            question=query_data.query,
+            conversation_history=None,
+            user_context=user_context if user_context else None,
+            personality="friendly",
+            top_k=query_data.top_k if hasattr(query_data, 'top_k') else 5
+        )
+        
+        # Format response
+        contexts = []
+        for source in rag_result.get("sources", []):
+            contexts.append({
+                "recipe_id": source.get("metadata", {}).get("recipe_id"),
                 "ingredient_id": None,
-                "title": "Mock Recipe",
-                "content": "This is a mock RAG context. Real implementation pending.",
-                "similarity_score": 0.95
-            }
-        ],
-        "answer": f"Based on your query '{query_data.query}', here's what I found... (Mock RAG response)",
-        "tokens_used": 200
-    }
+                "title": source.get("metadata", {}).get("title", "Unknown"),
+                "content": source.get("content", ""),
+                "similarity_score": source.get("score", 0.0)
+            })
+        
+        return {
+            "query": query_data.query,
+            "contexts": contexts,
+            "answer": rag_result["answer"],
+            "tokens_used": rag_result.get("total_sources", 0) * 100  # Approximate
+        }
+        
+    except Exception as e:
+        print(f"❌ LangChain RAG query error: {e}")
+        # Fallback to old RAG service
+        rag_context = await get_rag_context(
+            query=query_data.query,
+            db=db,
+            top_k=query_data.top_k if hasattr(query_data, 'top_k') else 5,
+            min_similarity=query_data.min_similarity if hasattr(query_data, 'min_similarity') else 0.7
+        )
+        
+        return {
+            "query": query_data.query,
+            "contexts": rag_context.get("contexts", []),
+            "answer": f"Based on your query '{query_data.query}', I found {len(rag_context.get('contexts', []))} relevant recipes.",
+            "tokens_used": 200
+        }

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:shimmer/shimmer.dart';
+import 'package:go_router/go_router.dart';
 import '../providers/home_providers.dart';
 import '../providers/favorites_notifier.dart';
 import '../../data/models/recipe_summary_model.dart';
@@ -106,8 +107,7 @@ class FeaturedRecipeCard extends StatelessWidget {
     return GestureDetector(
       onTap: () {
         final recipeId = recipe.id;
-        // TODO: Navigate to recipe detail
-        // context.go('/recipe/$recipeId');
+        context.go('/recipe/$recipeId');
       },
       child: Container(
         width: 300,

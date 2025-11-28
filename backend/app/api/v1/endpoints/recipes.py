@@ -208,6 +208,7 @@ async def list_recipes(
     difficulty: Optional[str] = None,
     is_vegetarian: Optional[bool] = None,
     is_vegan: Optional[bool] = None,
+    is_featured: Optional[bool] = None,
     search: Optional[str] = None,
     sort_by: str = Query("created_at", regex="^(created_at|average_rating|views_count)$"),
     sort_order: str = Query("desc", regex="^(asc|desc)$"),
@@ -223,6 +224,7 @@ async def list_recipes(
     - **difficulty**: Filter by difficulty (easy/medium/hard)
     - **is_vegetarian**: Filter vegetarian recipes
     - **is_vegan**: Filter vegan recipes
+    - **is_featured**: Filter featured recipes
     - **search**: Search in title and description
     - **sort_by**: Sort field (created_at, average_rating, views_count)
     - **sort_order**: Sort direction (asc, desc)
@@ -246,6 +248,9 @@ async def list_recipes(
     
     if is_vegan is not None:
         query = query.where(Recipe.is_vegan == is_vegan)
+    
+    if is_featured is not None:
+        query = query.where(Recipe.is_featured == is_featured)
     
     if search:
         search_term = f"%{search}%"

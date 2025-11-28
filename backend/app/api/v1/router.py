@@ -2,7 +2,7 @@
 API Router - aggregates all API endpoints
 """
 from fastapi import APIRouter
-from app.api.v1.endpoints import auth, recipes, chat, categories, favorites, ingredients, uploads
+from app.api.v1.endpoints import auth, recipes, chat, categories, favorites, ingredients, uploads, search, social, cooking
 
 api_router = APIRouter()
 
@@ -53,6 +53,27 @@ api_router.include_router(
     uploads.router,
     prefix="/uploads",
     tags=["File Uploads"]
+)
+
+# Include search endpoints
+api_router.include_router(
+    search.router,
+    prefix="/search",
+    tags=["Search"]
+)
+
+# Include social endpoints (ratings, comments, favorites, profiles)
+api_router.include_router(
+    social.router,
+    prefix="",
+    tags=["Social"]
+)
+
+# Include cooking session endpoints
+api_router.include_router(
+    cooking.router,
+    prefix="/cooking",
+    tags=["Cooking Sessions"]
 )
 
 # api_router.include_router(auth.router, prefix="/auth", tags=["Authentication"])

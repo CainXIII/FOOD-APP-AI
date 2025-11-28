@@ -12,11 +12,21 @@ class RecipeRemoteDataSource {
     int page = 1,
     int pageSize = 10,
   }) async {
+    final response = await getFeaturedRecipesResponse(page: page, pageSize: pageSize);
+    return response.items;
+  }
+
+  /// Get featured recipes response with pagination metadata
+  Future<RecipeListResponse> getFeaturedRecipesResponse({
+    int page = 1,
+    int pageSize = 10,
+  }) async {
     final response = await _dioClient.dio.get(
       '/recipes',
       queryParameters: {
         'page': page,
         'page_size': pageSize,
+        'is_featured': true,  // Filter by featured flag
         'sort_by': 'average_rating',
         'sort_order': 'desc',
       },
@@ -31,12 +41,20 @@ class RecipeRemoteDataSource {
       );
     }
 
-    final responseData = RecipeListResponse.fromJson(response.data);
-    return responseData.items;
+    return RecipeListResponse.fromJson(response.data);
   }
 
   /// Get popular recipes (high ratings)
   Future<List<RecipeSummaryModel>> getPopularRecipes({
+    int page = 1,
+    int pageSize = 10,
+  }) async {
+    final response = await getPopularRecipesResponse(page: page, pageSize: pageSize);
+    return response.items;
+  }
+
+  /// Get popular recipes response with pagination metadata
+  Future<RecipeListResponse> getPopularRecipesResponse({
     int page = 1,
     int pageSize = 10,
   }) async {
@@ -45,7 +63,7 @@ class RecipeRemoteDataSource {
       queryParameters: {
         'page': page,
         'page_size': pageSize,
-        'sort_by': 'average_rating',
+        'sort_by': 'views_count',  // Sort by popularity (views)
         'sort_order': 'desc',
       },
     );
@@ -58,12 +76,20 @@ class RecipeRemoteDataSource {
       );
     }
 
-    final responseData = RecipeListResponse.fromJson(response.data);
-    return responseData.items;
+    return RecipeListResponse.fromJson(response.data);
   }
 
   /// Get recent recipes (newly created)
   Future<List<RecipeSummaryModel>> getRecentRecipes({
+    int page = 1,
+    int pageSize = 10,
+  }) async {
+    final response = await getRecentRecipesResponse(page: page, pageSize: pageSize);
+    return response.items;
+  }
+
+  /// Get recent recipes response with pagination metadata
+  Future<RecipeListResponse> getRecentRecipesResponse({
     int page = 1,
     int pageSize = 10,
   }) async {
@@ -85,8 +111,7 @@ class RecipeRemoteDataSource {
       );
     }
 
-    final responseData = RecipeListResponse.fromJson(response.data);
-    return responseData.items;
+    return RecipeListResponse.fromJson(response.data);
   }
 
   /// Get recipes by category

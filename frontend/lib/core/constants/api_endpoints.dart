@@ -29,11 +29,13 @@ class ApiEndpoints {
   static String chatMessages(String id) => '/chat/$id/messages';
   static String chatStream(String id) => '/chat/$id/stream';
   
-  // Favorites & Ratings
-  static String recipeFavorite(String id) => '/recipes/$id/favorite';
-  static String recipeRating(String id) => '/recipes/$id/rating';
-  static String recipeRatings(String id) => '/recipes/$id/ratings';
-  static const String favorites = '/favorites';
+  // Social (Favorites, Ratings, Comments)
+  static const String favorites = '/social/favorites';
+  static String removeFavorite(String recipeId) => '/social/favorites/$recipeId';
+  static const String ratings = '/social/ratings';
+  static String recipeRatings(String recipeId) => '/social/recipes/$recipeId/ratings';
+  static const String comments = '/social/comments';
+  static String recipeComments(String recipeId) => '/social/recipes/$recipeId/comments';
   
   // Uploads
   static const String uploadAvatar = '/uploads/users/avatar';

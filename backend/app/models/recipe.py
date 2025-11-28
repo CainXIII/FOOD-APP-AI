@@ -104,8 +104,8 @@ class Recipe(Base):
     # search_vector: Mapped[Optional[str]] = mapped_column(Text)  # Skip for SQLite
     
     # Vector embedding for semantic search (OpenAI text-embedding-3-small: 1536 dimensions)
-    # Stored as JSON string for SQLite compatibility
-    # NOTE: Currently using text search fallback, vector search requires PostgreSQL with pgvector
+    # NOTE: Vector embeddings stored in Qdrant, metadata tracked in recipe_embeddings table
+    # This field is deprecated and kept for backward compatibility only
     embedding: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     
     # Additional data
