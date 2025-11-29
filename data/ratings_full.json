@@ -1,0 +1,1254 @@
+{
+  "ratings": [
+    {
+      "id": "950e8400-2122-4f5b-9409-9e747101fd16",
+      "recipe_id": "850e8400-b73f-40ca-9130-a44d4cbcf71c",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 4,
+      "review": null,
+      "images": [],
+      "helpful_count": 16,
+      "is_verified_cook": false,
+      "created_at": "2024-07-12T00:00:00Z",
+      "updated_at": "2024-12-10T00:00:00Z"
+    },
+    {
+      "id": "950e8400-3c9c-4b21-833a-20a81f4505f3",
+      "recipe_id": "850e8400-f714-42dc-9caa-619087b887fa",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 4,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [],
+      "helpful_count": 7,
+      "is_verified_cook": true,
+      "created_at": "2024-11-23T00:00:00Z",
+      "updated_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "950e8400-6fc3-4a9a-921b-7f540233944c",
+      "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": null,
+      "images": [],
+      "helpful_count": 6,
+      "is_verified_cook": false,
+      "created_at": "2024-11-03T00:00:00Z",
+      "updated_at": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": "950e8400-575f-4d4c-bafb-cc443dabb03f",
+      "recipe_id": "850e8400-4fb4-486b-87f2-13fdb06b35d8",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [],
+      "helpful_count": 24,
+      "is_verified_cook": true,
+      "created_at": "2024-07-17T00:00:00Z",
+      "updated_at": "2024-12-23T00:00:00Z"
+    },
+    {
+      "id": "950e8400-a912-4efb-8408-b3c8fb59ad59",
+      "recipe_id": "850e8400-e363-42b2-91f8-d88e044d1b23",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Món này ổn nhưng chưa đặc sắc lắm.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-8f67-443c-b7ed-718e8a390394.jpg"
+      ],
+      "helpful_count": 20,
+      "is_verified_cook": true,
+      "created_at": "2024-07-11T00:00:00Z",
+      "updated_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "950e8400-9193-443d-9f9d-8f8438b95938",
+      "recipe_id": "850e8400-f60f-4953-a1aa-3701da105e8a",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 5,
+      "review": null,
+      "images": [
+        "https://storage.cooking.app/reviews/img-9d4d-46a8-ba97-6e6a54f1c4a4.jpg"
+      ],
+      "helpful_count": 22,
+      "is_verified_cook": false,
+      "created_at": "2024-10-11T00:00:00Z",
+      "updated_at": "2024-12-06T00:00:00Z"
+    },
+    {
+      "id": "950e8400-2e29-4ced-b83a-ad4f715cd191",
+      "recipe_id": "850e8400-2664-4cc6-9108-1d69b6b6146f",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Công thức dễ làm, phù hợp cho người mới học nấu ăn.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-02c4-4cb3-9728-33d65a057ac5.jpg"
+      ],
+      "helpful_count": 12,
+      "is_verified_cook": true,
+      "created_at": "2024-12-05T00:00:00Z",
+      "updated_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "950e8400-0443-417a-ac08-eb192da8764b",
+      "recipe_id": "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 3,
+      "review": "Món này rất ngon! Gia đình tôi rất thích.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-9c92-44ec-8ba5-b2a5e03b43cb.jpg"
+      ],
+      "helpful_count": 9,
+      "is_verified_cook": false,
+      "created_at": "2024-07-07T00:00:00Z",
+      "updated_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "950e8400-4ec0-43bb-82b6-dc5ba1c0dafa",
+      "recipe_id": "850e8400-da65-494b-8a26-def5c1f4be65",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 3,
+      "review": null,
+      "images": [],
+      "helpful_count": 13,
+      "is_verified_cook": true,
+      "created_at": "2024-09-25T00:00:00Z",
+      "updated_at": "2024-12-04T00:00:00Z"
+    },
+    {
+      "id": "950e8400-4c6b-4fdf-b9d9-cb255b4d5162",
+      "recipe_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 3,
+      "review": "Công thức dễ làm, phù hợp cho người mới học nấu ăn.",
+      "images": [],
+      "helpful_count": 23,
+      "is_verified_cook": false,
+      "created_at": "2024-08-10T00:00:00Z",
+      "updated_at": "2024-12-21T00:00:00Z"
+    },
+    {
+      "id": "950e8400-5637-4fef-9295-7f4076b1b175",
+      "recipe_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 4,
+      "review": "Đã làm theo và rất thành công, cảm ơn!",
+      "images": [],
+      "helpful_count": 16,
+      "is_verified_cook": true,
+      "created_at": "2024-08-03T00:00:00Z",
+      "updated_at": "2024-12-13T00:00:00Z"
+    },
+    {
+      "id": "950e8400-1e5c-48a3-8f0e-574bfeef6e73",
+      "recipe_id": "850e8400-c8ef-4307-bb94-27dc01ef0722",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 4,
+      "review": "Đã làm theo và rất thành công, cảm ơn!",
+      "images": [],
+      "helpful_count": 13,
+      "is_verified_cook": true,
+      "created_at": "2024-11-29T00:00:00Z",
+      "updated_at": "2024-12-18T00:00:00Z"
+    },
+    {
+      "id": "950e8400-0b05-4b49-9e80-735d2e0ab43d",
+      "recipe_id": "850e8400-f60f-4953-a1aa-3701da105e8a",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 4,
+      "review": "Vị hơi nhạt, tôi đã tăng gia vị thêm.",
+      "images": [],
+      "helpful_count": 11,
+      "is_verified_cook": true,
+      "created_at": "2024-10-02T00:00:00Z",
+      "updated_at": "2024-12-12T00:00:00Z"
+    },
+    {
+      "id": "950e8400-77eb-4e91-a6f9-8407d147de4d",
+      "recipe_id": "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [],
+      "helpful_count": 8,
+      "is_verified_cook": true,
+      "created_at": "2024-12-27T00:00:00Z",
+      "updated_at": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": "950e8400-d090-4e72-b8c2-456ae57c1a67",
+      "recipe_id": "850e8400-d31f-44af-a75a-69210fd6e876",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 5,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [],
+      "helpful_count": 15,
+      "is_verified_cook": true,
+      "created_at": "2024-10-24T00:00:00Z",
+      "updated_at": "2024-12-14T00:00:00Z"
+    },
+    {
+      "id": "950e8400-6265-496f-a5e8-888d9396d989",
+      "recipe_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 21,
+      "is_verified_cook": true,
+      "created_at": "2024-12-04T00:00:00Z",
+      "updated_at": "2024-12-28T00:00:00Z"
+    },
+    {
+      "id": "950e8400-e246-4bab-abb8-79028bbd2449",
+      "recipe_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 1,
+      "is_verified_cook": false,
+      "created_at": "2024-09-14T00:00:00Z",
+      "updated_at": "2024-12-17T00:00:00Z"
+    },
+    {
+      "id": "950e8400-898f-424f-a775-967816f1615d",
+      "recipe_id": "850e8400-a473-4d7b-b03c-3578144b90f0",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 4,
+      "review": "Món ăn ngon nhưng hơi mất thời gian.",
+      "images": [],
+      "helpful_count": 19,
+      "is_verified_cook": true,
+      "created_at": "2024-09-20T00:00:00Z",
+      "updated_at": "2024-12-04T00:00:00Z"
+    },
+    {
+      "id": "950e8400-f070-4608-a503-a4ce1df9fa21",
+      "recipe_id": "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 5,
+      "review": "Món ăn ngon nhưng hơi mất thời gian.",
+      "images": [],
+      "helpful_count": 3,
+      "is_verified_cook": false,
+      "created_at": "2024-10-16T00:00:00Z",
+      "updated_at": "2024-12-18T00:00:00Z"
+    },
+    {
+      "id": "950e8400-2d63-4573-97c2-5a816398dd1d",
+      "recipe_id": "850e8400-2430-40dd-b89a-64070a6ac51d",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 4,
+      "review": "Công thức chi tiết, dễ hiểu.",
+      "images": [],
+      "helpful_count": 5,
+      "is_verified_cook": false,
+      "created_at": "2024-11-02T00:00:00Z",
+      "updated_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "950e8400-62bc-4fbd-b934-353537e91df0",
+      "recipe_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 3,
+      "review": "Vị hơi nhạt, tôi đã tăng gia vị thêm.",
+      "images": [],
+      "helpful_count": 23,
+      "is_verified_cook": false,
+      "created_at": "2024-08-24T00:00:00Z",
+      "updated_at": "2024-12-05T00:00:00Z"
+    },
+    {
+      "id": "950e8400-7754-47b8-8ad0-069290239ce2",
+      "recipe_id": "850e8400-e66a-416d-834e-e493ae280292",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Vị hơi nhạt, tôi đã tăng gia vị thêm.",
+      "images": [],
+      "helpful_count": 0,
+      "is_verified_cook": true,
+      "created_at": "2024-10-04T00:00:00Z",
+      "updated_at": "2024-12-09T00:00:00Z"
+    },
+    {
+      "id": "950e8400-a1a1-4f9f-9414-f8dfe99a5a67",
+      "recipe_id": "850e8400-d562-4490-8610-98fdfb5657bc",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 5,
+      "review": "Món này ổn nhưng chưa đặc sắc lắm.",
+      "images": [],
+      "helpful_count": 10,
+      "is_verified_cook": false,
+      "created_at": "2024-08-26T00:00:00Z",
+      "updated_at": "2024-12-06T00:00:00Z"
+    },
+    {
+      "id": "950e8400-cfdc-4b39-8836-0fc53e76910d",
+      "recipe_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": "Vị hơi nhạt, tôi đã tăng gia vị thêm.",
+      "images": [],
+      "helpful_count": 18,
+      "is_verified_cook": true,
+      "created_at": "2024-11-12T00:00:00Z",
+      "updated_at": "2024-12-02T00:00:00Z"
+    },
+    {
+      "id": "950e8400-061c-4ad0-af08-65e6824e9eab",
+      "recipe_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 4,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-e211-46a0-9cc8-05b6041942ec.jpg"
+      ],
+      "helpful_count": 4,
+      "is_verified_cook": true,
+      "created_at": "2024-11-26T00:00:00Z",
+      "updated_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "950e8400-c68a-4ef1-b862-6ec950c26fb8",
+      "recipe_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 3,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [],
+      "helpful_count": 7,
+      "is_verified_cook": false,
+      "created_at": "2024-08-14T00:00:00Z",
+      "updated_at": "2024-12-17T00:00:00Z"
+    },
+    {
+      "id": "950e8400-a1bd-4657-9455-0dba53726601",
+      "recipe_id": "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [],
+      "helpful_count": 18,
+      "is_verified_cook": false,
+      "created_at": "2024-10-09T00:00:00Z",
+      "updated_at": "2024-12-13T00:00:00Z"
+    },
+    {
+      "id": "950e8400-af70-4def-982e-6a9f517606a5",
+      "recipe_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 5,
+      "review": "Công thức dễ làm, phù hợp cho người mới học nấu ăn.",
+      "images": [],
+      "helpful_count": 1,
+      "is_verified_cook": false,
+      "created_at": "2024-10-15T00:00:00Z",
+      "updated_at": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": "950e8400-a7a2-4579-9c79-c0cd71a68cac",
+      "recipe_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 4,
+      "review": "Món này ổn nhưng chưa đặc sắc lắm.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-adb6-4e4c-b5cc-487c843a2ccd.jpg"
+      ],
+      "helpful_count": 16,
+      "is_verified_cook": true,
+      "created_at": "2024-12-20T00:00:00Z",
+      "updated_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "950e8400-187e-4b94-a241-0eee4ec99218",
+      "recipe_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 5,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [],
+      "helpful_count": 14,
+      "is_verified_cook": true,
+      "created_at": "2024-12-15T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "950e8400-762b-4e33-a399-06e45f2f4b17",
+      "recipe_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": null,
+      "images": [],
+      "helpful_count": 5,
+      "is_verified_cook": true,
+      "created_at": "2024-12-20T00:00:00Z",
+      "updated_at": "2024-12-24T00:00:00Z"
+    },
+    {
+      "id": "950e8400-237c-4a5a-9956-253b895315a4",
+      "recipe_id": "850e8400-eabb-4400-9ac1-95cb1160381f",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": "Công thức dễ làm, phù hợp cho người mới học nấu ăn.",
+      "images": [],
+      "helpful_count": 25,
+      "is_verified_cook": false,
+      "created_at": "2024-09-12T00:00:00Z",
+      "updated_at": "2024-12-27T00:00:00Z"
+    },
+    {
+      "id": "950e8400-19ba-4fb6-8c94-4b8a3f7fbb54",
+      "recipe_id": "850e8400-d084-4306-a24d-3c89589d4b02",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 4,
+      "review": "Món ăn ngon nhưng hơi mất thời gian.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-6772-4335-acce-5429f4c49117.jpg"
+      ],
+      "helpful_count": 21,
+      "is_verified_cook": false,
+      "created_at": "2024-09-11T00:00:00Z",
+      "updated_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "950e8400-11fb-4d9e-ba3c-e747fced9513",
+      "recipe_id": "850e8400-4fb4-486b-87f2-13fdb06b35d8",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": null,
+      "images": [
+        "https://storage.cooking.app/reviews/img-6e15-461a-98cd-58a5bc228213.jpg"
+      ],
+      "helpful_count": 2,
+      "is_verified_cook": true,
+      "created_at": "2024-10-26T00:00:00Z",
+      "updated_at": "2024-12-14T00:00:00Z"
+    },
+    {
+      "id": "950e8400-aca5-45d4-8b28-dea6ab81bce8",
+      "recipe_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": "Món này rất ngon! Gia đình tôi rất thích.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-1571-43df-b02e-8ad9370ffdea.jpg"
+      ],
+      "helpful_count": 16,
+      "is_verified_cook": false,
+      "created_at": "2024-09-18T00:00:00Z",
+      "updated_at": "2024-12-13T00:00:00Z"
+    },
+    {
+      "id": "950e8400-0a5b-456f-8b06-1242a578ad5e",
+      "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": "Món này ổn nhưng chưa đặc sắc lắm.",
+      "images": [],
+      "helpful_count": 5,
+      "is_verified_cook": true,
+      "created_at": "2024-07-22T00:00:00Z",
+      "updated_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "950e8400-625a-47ed-bfc9-0b8d36da3461",
+      "recipe_id": "850e8400-d2fd-4d8d-a426-04d051ec504b",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 0,
+      "is_verified_cook": false,
+      "created_at": "2024-10-30T00:00:00Z",
+      "updated_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "950e8400-9f48-4531-a637-1160db988066",
+      "recipe_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 4,
+      "review": "Công thức dễ làm, phù hợp cho người mới học nấu ăn.",
+      "images": [],
+      "helpful_count": 22,
+      "is_verified_cook": true,
+      "created_at": "2024-12-20T00:00:00Z",
+      "updated_at": "2024-12-07T00:00:00Z"
+    },
+    {
+      "id": "950e8400-0cfd-4ec5-be17-7d351982d925",
+      "recipe_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 23,
+      "is_verified_cook": true,
+      "created_at": "2024-11-14T00:00:00Z",
+      "updated_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "950e8400-9321-45f2-859e-6aab982ca9f8",
+      "recipe_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 3,
+      "review": "Vị hơi nhạt, tôi đã tăng gia vị thêm.",
+      "images": [],
+      "helpful_count": 22,
+      "is_verified_cook": false,
+      "created_at": "2024-07-22T00:00:00Z",
+      "updated_at": "2024-12-24T00:00:00Z"
+    },
+    {
+      "id": "950e8400-6556-496d-b70f-0b26c404755a",
+      "recipe_id": "850e8400-0193-4584-9397-8d62e5036077",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": null,
+      "images": [],
+      "helpful_count": 12,
+      "is_verified_cook": false,
+      "created_at": "2024-08-26T00:00:00Z",
+      "updated_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "950e8400-dae0-42b6-9d8e-1b1596a9e524",
+      "recipe_id": "850e8400-1271-428b-9f63-ec0f757900a3",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 17,
+      "is_verified_cook": true,
+      "created_at": "2024-08-19T00:00:00Z",
+      "updated_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "950e8400-7d46-4d36-8f86-61646ac71bbf",
+      "recipe_id": "850e8400-a473-4d7b-b03c-3578144b90f0",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-9646-4f54-a55e-f7e7a5f8b9a0.jpg"
+      ],
+      "helpful_count": 11,
+      "is_verified_cook": false,
+      "created_at": "2024-11-23T00:00:00Z",
+      "updated_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "950e8400-f13d-4798-9821-1a7f27f94c36",
+      "recipe_id": "850e8400-a473-4d7b-b03c-3578144b90f0",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": "Vị hơi nhạt, tôi đã tăng gia vị thêm.",
+      "images": [],
+      "helpful_count": 23,
+      "is_verified_cook": true,
+      "created_at": "2024-10-07T00:00:00Z",
+      "updated_at": "2024-12-17T00:00:00Z"
+    },
+    {
+      "id": "950e8400-1cc0-48bb-8c15-15d2667c4102",
+      "recipe_id": "850e8400-3162-4cfc-94fb-6635630de168",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 5,
+      "review": "Món này ổn nhưng chưa đặc sắc lắm.",
+      "images": [],
+      "helpful_count": 3,
+      "is_verified_cook": true,
+      "created_at": "2024-12-17T00:00:00Z",
+      "updated_at": "2024-12-12T00:00:00Z"
+    },
+    {
+      "id": "950e8400-d18b-47d2-9077-16ab5434fc77",
+      "recipe_id": "850e8400-da65-494b-8a26-def5c1f4be65",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 4,
+      "review": null,
+      "images": [],
+      "helpful_count": 18,
+      "is_verified_cook": true,
+      "created_at": "2024-12-15T00:00:00Z",
+      "updated_at": "2024-12-26T00:00:00Z"
+    },
+    {
+      "id": "950e8400-fad0-4e27-b7ea-5d5c60ef68d2",
+      "recipe_id": "850e8400-f714-42dc-9caa-619087b887fa",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 4,
+      "review": null,
+      "images": [],
+      "helpful_count": 10,
+      "is_verified_cook": true,
+      "created_at": "2024-10-13T00:00:00Z",
+      "updated_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "950e8400-2bb4-47a3-8a8a-a17d29244f57",
+      "recipe_id": "850e8400-bfa9-460b-a293-d725d09f56a7",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 4,
+      "review": "Món ăn ngon nhưng hơi mất thời gian.",
+      "images": [],
+      "helpful_count": 11,
+      "is_verified_cook": false,
+      "created_at": "2024-10-11T00:00:00Z",
+      "updated_at": "2024-12-07T00:00:00Z"
+    },
+    {
+      "id": "950e8400-7c2f-40ca-88cf-543ab27c1044",
+      "recipe_id": "850e8400-da65-494b-8a26-def5c1f4be65",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 3,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [],
+      "helpful_count": 3,
+      "is_verified_cook": false,
+      "created_at": "2024-08-10T00:00:00Z",
+      "updated_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "950e8400-25d5-4b1c-8423-570f758034f2",
+      "recipe_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 5,
+      "review": "Món này ổn nhưng chưa đặc sắc lắm.",
+      "images": [],
+      "helpful_count": 0,
+      "is_verified_cook": false,
+      "created_at": "2024-07-24T00:00:00Z",
+      "updated_at": "2024-12-02T00:00:00Z"
+    },
+    {
+      "id": "950e8400-b400-4b0b-9852-bad6de93e0ac",
+      "recipe_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": "Đã làm theo và rất thành công, cảm ơn!",
+      "images": [],
+      "helpful_count": 9,
+      "is_verified_cook": false,
+      "created_at": "2024-10-16T00:00:00Z",
+      "updated_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "950e8400-4f38-45be-9faf-bcbcd751638a",
+      "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": "Đã làm theo và rất thành công, cảm ơn!",
+      "images": [
+        "https://storage.cooking.app/reviews/img-aacc-4ef1-9efb-343fe583f245.jpg"
+      ],
+      "helpful_count": 6,
+      "is_verified_cook": false,
+      "created_at": "2024-11-09T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "950e8400-45db-4a67-8496-f2a9aadbfafb",
+      "recipe_id": "850e8400-3aab-4687-b856-428794d42775",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 5,
+      "review": "Công thức dễ làm, phù hợp cho người mới học nấu ăn.",
+      "images": [],
+      "helpful_count": 10,
+      "is_verified_cook": false,
+      "created_at": "2024-11-03T00:00:00Z",
+      "updated_at": "2024-12-17T00:00:00Z"
+    },
+    {
+      "id": "950e8400-ba53-48ab-b636-4f9ca2f099e8",
+      "recipe_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-e697-467e-b236-bd3c2b7cefc6.jpg"
+      ],
+      "helpful_count": 12,
+      "is_verified_cook": true,
+      "created_at": "2024-11-15T00:00:00Z",
+      "updated_at": "2024-12-11T00:00:00Z"
+    },
+    {
+      "id": "950e8400-1f85-4996-bfc6-3ceb6e309826",
+      "recipe_id": "850e8400-3aab-4687-b856-428794d42775",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 4,
+      "review": "Đã làm theo và rất thành công, cảm ơn!",
+      "images": [],
+      "helpful_count": 8,
+      "is_verified_cook": false,
+      "created_at": "2024-07-19T00:00:00Z",
+      "updated_at": "2024-12-23T00:00:00Z"
+    },
+    {
+      "id": "950e8400-9f8c-4d75-9493-0db34dea3df4",
+      "recipe_id": "850e8400-a473-4d7b-b03c-3578144b90f0",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 4,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [],
+      "helpful_count": 25,
+      "is_verified_cook": true,
+      "created_at": "2024-08-21T00:00:00Z",
+      "updated_at": "2024-12-11T00:00:00Z"
+    },
+    {
+      "id": "950e8400-26d4-48cb-8129-806d8be79109",
+      "recipe_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Món này ổn nhưng chưa đặc sắc lắm.",
+      "images": [],
+      "helpful_count": 12,
+      "is_verified_cook": false,
+      "created_at": "2024-07-17T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "950e8400-5fb5-444c-8313-79e567cab49a",
+      "recipe_id": "850e8400-2430-40dd-b89a-64070a6ac51d",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 4,
+      "review": "Món này rất ngon! Gia đình tôi rất thích.",
+      "images": [],
+      "helpful_count": 12,
+      "is_verified_cook": true,
+      "created_at": "2024-12-26T00:00:00Z",
+      "updated_at": "2024-12-31T00:00:00Z"
+    },
+    {
+      "id": "950e8400-1f3f-4c71-95c4-1164696fa6fc",
+      "recipe_id": "850e8400-e66a-416d-834e-e493ae280292",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 5,
+      "review": null,
+      "images": [
+        "https://storage.cooking.app/reviews/img-5a88-4031-a1e4-95c2c9ebd6de.jpg"
+      ],
+      "helpful_count": 9,
+      "is_verified_cook": false,
+      "created_at": "2024-12-16T00:00:00Z",
+      "updated_at": "2024-12-30T00:00:00Z"
+    },
+    {
+      "id": "950e8400-e288-4a00-91ec-54c627e75d7b",
+      "recipe_id": "850e8400-e363-42b2-91f8-d88e044d1b23",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 4,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [],
+      "helpful_count": 8,
+      "is_verified_cook": true,
+      "created_at": "2024-12-05T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "950e8400-8761-4c64-920e-4ebeb842cd8c",
+      "recipe_id": "850e8400-2664-4cc6-9108-1d69b6b6146f",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 22,
+      "is_verified_cook": true,
+      "created_at": "2024-11-10T00:00:00Z",
+      "updated_at": "2024-12-30T00:00:00Z"
+    },
+    {
+      "id": "950e8400-416a-400d-9a11-4c4391c65a4b",
+      "recipe_id": "850e8400-a473-4d7b-b03c-3578144b90f0",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 4,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-fe40-4a99-9199-3b2834497b1a.jpg"
+      ],
+      "helpful_count": 25,
+      "is_verified_cook": true,
+      "created_at": "2024-09-29T00:00:00Z",
+      "updated_at": "2024-12-14T00:00:00Z"
+    },
+    {
+      "id": "950e8400-1d01-4aef-a82f-860189a22fc6",
+      "recipe_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 4,
+      "review": "Món ăn ngon nhưng hơi mất thời gian.",
+      "images": [],
+      "helpful_count": 13,
+      "is_verified_cook": false,
+      "created_at": "2024-07-25T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z"
+    },
+    {
+      "id": "950e8400-d2c6-4cd7-a39a-f2aa4e0aca9c",
+      "recipe_id": "850e8400-1619-4a7f-b54b-7ab836cdf532",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": "Vị hơi nhạt, tôi đã tăng gia vị thêm.",
+      "images": [],
+      "helpful_count": 25,
+      "is_verified_cook": true,
+      "created_at": "2024-11-13T00:00:00Z",
+      "updated_at": "2024-12-20T00:00:00Z"
+    },
+    {
+      "id": "950e8400-e979-4217-831c-5d1bd2618ec8",
+      "recipe_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 4,
+      "review": null,
+      "images": [],
+      "helpful_count": 3,
+      "is_verified_cook": false,
+      "created_at": "2024-11-28T00:00:00Z",
+      "updated_at": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": "950e8400-311d-421c-bef4-7f33b12ec395",
+      "recipe_id": "850e8400-d6b0-4816-8b84-c899a0cbbd63",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": "Món này rất ngon! Gia đình tôi rất thích.",
+      "images": [],
+      "helpful_count": 21,
+      "is_verified_cook": false,
+      "created_at": "2024-08-16T00:00:00Z",
+      "updated_at": "2024-12-31T00:00:00Z"
+    },
+    {
+      "id": "950e8400-30d7-49e2-990e-3057c217623b",
+      "recipe_id": "850e8400-bfa9-460b-a293-d725d09f56a7",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-9e49-4bc9-bc16-0e4cf0e7c3a3.jpg"
+      ],
+      "helpful_count": 4,
+      "is_verified_cook": true,
+      "created_at": "2024-07-13T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z"
+    },
+    {
+      "id": "950e8400-5b6c-4c51-9891-df5e9085bd4b",
+      "recipe_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": null,
+      "images": [
+        "https://storage.cooking.app/reviews/img-4634-4461-b05d-2a91b91d1de3.jpg"
+      ],
+      "helpful_count": 13,
+      "is_verified_cook": true,
+      "created_at": "2024-11-24T00:00:00Z",
+      "updated_at": "2024-12-26T00:00:00Z"
+    },
+    {
+      "id": "950e8400-631e-4610-9dd4-ebf023933901",
+      "recipe_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 5,
+      "review": "Tuyệt vời! Ngon hơn ngoài hàng.",
+      "images": [],
+      "helpful_count": 13,
+      "is_verified_cook": false,
+      "created_at": "2024-07-16T00:00:00Z",
+      "updated_at": "2024-12-17T00:00:00Z"
+    },
+    {
+      "id": "950e8400-583d-4a6a-bbe5-6207264457f9",
+      "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-3aee-4e88-a326-2029591d50de.jpg"
+      ],
+      "helpful_count": 22,
+      "is_verified_cook": false,
+      "created_at": "2024-08-03T00:00:00Z",
+      "updated_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "950e8400-c69b-499e-a8ea-d3502c31a711",
+      "recipe_id": "850e8400-d6b0-4816-8b84-c899a0cbbd63",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": "Công thức dễ làm, phù hợp cho người mới học nấu ăn.",
+      "images": [],
+      "helpful_count": 16,
+      "is_verified_cook": true,
+      "created_at": "2024-10-31T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "950e8400-a88e-4ef4-9481-a7c985048e7c",
+      "recipe_id": "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 4,
+      "review": "Tuyệt vời! Ngon hơn ngoài hàng.",
+      "images": [],
+      "helpful_count": 18,
+      "is_verified_cook": true,
+      "created_at": "2024-10-11T00:00:00Z",
+      "updated_at": "2024-12-07T00:00:00Z"
+    },
+    {
+      "id": "950e8400-2dda-425b-8900-722ea8111de8",
+      "recipe_id": "850e8400-eabb-4400-9ac1-95cb1160381f",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 3,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [],
+      "helpful_count": 2,
+      "is_verified_cook": false,
+      "created_at": "2024-11-01T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z"
+    },
+    {
+      "id": "950e8400-de85-44f5-8fca-7e649e8f77f4",
+      "recipe_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 5,
+      "review": "Rất tuyệt vời! Sẽ làm lại nhiều lần.",
+      "images": [],
+      "helpful_count": 7,
+      "is_verified_cook": false,
+      "created_at": "2024-12-06T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "950e8400-b639-46c2-b245-1c6d40a482b0",
+      "recipe_id": "850e8400-ee15-4000-87d9-717756506057",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 3,
+      "is_verified_cook": true,
+      "created_at": "2024-10-13T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "950e8400-1fc2-4bc0-92a0-e586ec2191f8",
+      "recipe_id": "850e8400-ee15-4000-87d9-717756506057",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 4,
+      "review": "Vị hơi nhạt, tôi đã tăng gia vị thêm.",
+      "images": [],
+      "helpful_count": 22,
+      "is_verified_cook": false,
+      "created_at": "2024-10-27T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "950e8400-333f-4a0e-b91b-4502018af755",
+      "recipe_id": "850e8400-2430-40dd-b89a-64070a6ac51d",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": "Công thức dễ làm, phù hợp cho người mới học nấu ăn.",
+      "images": [],
+      "helpful_count": 12,
+      "is_verified_cook": false,
+      "created_at": "2024-07-07T00:00:00Z",
+      "updated_at": "2024-12-02T00:00:00Z"
+    },
+    {
+      "id": "950e8400-9fc9-4810-b6bc-67ba6ed98a7a",
+      "recipe_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Tuyệt vời! Ngon hơn ngoài hàng.",
+      "images": [],
+      "helpful_count": 4,
+      "is_verified_cook": false,
+      "created_at": "2024-11-07T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "950e8400-8eed-4ec2-9be0-771869e18c03",
+      "recipe_id": "850e8400-b73f-40ca-9130-a44d4cbcf71c",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Món ăn ngon nhưng hơi mất thời gian.",
+      "images": [],
+      "helpful_count": 15,
+      "is_verified_cook": false,
+      "created_at": "2024-07-31T00:00:00Z",
+      "updated_at": "2024-12-12T00:00:00Z"
+    },
+    {
+      "id": "950e8400-6c66-4627-abb0-a3e6250fb072",
+      "recipe_id": "850e8400-14a6-4010-8b45-64f562582691",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 23,
+      "is_verified_cook": false,
+      "created_at": "2024-09-12T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z"
+    },
+    {
+      "id": "950e8400-0057-4c99-b665-b35be485fbe3",
+      "recipe_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Tuyệt vời! Ngon hơn ngoài hàng.",
+      "images": [],
+      "helpful_count": 0,
+      "is_verified_cook": false,
+      "created_at": "2024-07-27T00:00:00Z",
+      "updated_at": "2024-12-28T00:00:00Z"
+    },
+    {
+      "id": "950e8400-37a3-4f9d-a303-3cff2a4ba16a",
+      "recipe_id": "850e8400-2430-40dd-b89a-64070a6ac51d",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [],
+      "helpful_count": 5,
+      "is_verified_cook": false,
+      "created_at": "2024-09-20T00:00:00Z",
+      "updated_at": "2024-12-26T00:00:00Z"
+    },
+    {
+      "id": "950e8400-7987-49e1-a068-86c0a7aa4c08",
+      "recipe_id": "850e8400-3162-4cfc-94fb-6635630de168",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": "Đã làm theo và rất thành công, cảm ơn!",
+      "images": [
+        "https://storage.cooking.app/reviews/img-f291-4214-8ca3-4e7e17bb6d91.jpg"
+      ],
+      "helpful_count": 23,
+      "is_verified_cook": false,
+      "created_at": "2024-12-04T00:00:00Z",
+      "updated_at": "2024-12-06T00:00:00Z"
+    },
+    {
+      "id": "950e8400-4383-4dab-bb4d-ea88cde2a6cd",
+      "recipe_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": null,
+      "images": [],
+      "helpful_count": 0,
+      "is_verified_cook": true,
+      "created_at": "2024-12-11T00:00:00Z",
+      "updated_at": "2024-12-06T00:00:00Z"
+    },
+    {
+      "id": "950e8400-8ed4-4716-8c3a-f8bfb90cf41c",
+      "recipe_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": "Món này ổn nhưng chưa đặc sắc lắm.",
+      "images": [],
+      "helpful_count": 1,
+      "is_verified_cook": true,
+      "created_at": "2024-09-18T00:00:00Z",
+      "updated_at": "2024-12-31T00:00:00Z"
+    },
+    {
+      "id": "950e8400-0fe0-4889-b6db-08b46321b2ed",
+      "recipe_id": "850e8400-14a6-4010-8b45-64f562582691",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 4,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [],
+      "helpful_count": 25,
+      "is_verified_cook": false,
+      "created_at": "2024-10-13T00:00:00Z",
+      "updated_at": "2024-12-23T00:00:00Z"
+    },
+    {
+      "id": "950e8400-a69b-47c3-b1a4-a6bc953373e9",
+      "recipe_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 3,
+      "is_verified_cook": true,
+      "created_at": "2024-12-20T00:00:00Z",
+      "updated_at": "2024-12-04T00:00:00Z"
+    },
+    {
+      "id": "950e8400-8bac-47a9-b2ef-758e0825b6ba",
+      "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-ca35-4452-9508-dffd95942405.jpg"
+      ],
+      "helpful_count": 24,
+      "is_verified_cook": false,
+      "created_at": "2024-10-09T00:00:00Z",
+      "updated_at": "2024-12-18T00:00:00Z"
+    },
+    {
+      "id": "950e8400-1e87-488c-a2e1-dd7f9cd3421c",
+      "recipe_id": "850e8400-2664-4cc6-9108-1d69b6b6146f",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 3,
+      "review": "Đã làm theo và rất thành công, cảm ơn!",
+      "images": [],
+      "helpful_count": 23,
+      "is_verified_cook": true,
+      "created_at": "2024-11-15T00:00:00Z",
+      "updated_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "950e8400-10d0-4e5b-bbe6-07f6a394e9c7",
+      "recipe_id": "850e8400-d084-4306-a24d-3c89589d4b02",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Tuyệt vời! Ngon hơn ngoài hàng.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-1fb9-4cec-ae4c-7d72a0081df6.jpg"
+      ],
+      "helpful_count": 12,
+      "is_verified_cook": false,
+      "created_at": "2024-08-31T00:00:00Z",
+      "updated_at": "2024-12-14T00:00:00Z"
+    },
+    {
+      "id": "950e8400-6c41-4034-bac9-bdf1706dab3f",
+      "recipe_id": "850e8400-d2fd-4d8d-a426-04d051ec504b",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 5,
+      "review": null,
+      "images": [
+        "https://storage.cooking.app/reviews/img-f885-4113-b8d1-1ce65041fab4.jpg"
+      ],
+      "helpful_count": 5,
+      "is_verified_cook": true,
+      "created_at": "2024-07-27T00:00:00Z",
+      "updated_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "950e8400-6644-4494-a85f-1cca574f175b",
+      "recipe_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "rating": 4,
+      "review": null,
+      "images": [
+        "https://storage.cooking.app/reviews/img-8372-4a0d-ae37-8d3b9de7800d.jpg"
+      ],
+      "helpful_count": 21,
+      "is_verified_cook": false,
+      "created_at": "2024-09-23T00:00:00Z",
+      "updated_at": "2024-12-28T00:00:00Z"
+    },
+    {
+      "id": "950e8400-5feb-4a73-aa3e-d89dcc48d867",
+      "recipe_id": "850e8400-1619-4a7f-b54b-7ab836cdf532",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Món này rất ngon! Gia đình tôi rất thích.",
+      "images": [],
+      "helpful_count": 12,
+      "is_verified_cook": true,
+      "created_at": "2024-08-24T00:00:00Z",
+      "updated_at": "2024-12-21T00:00:00Z"
+    },
+    {
+      "id": "950e8400-b0b8-410e-96d2-1fa670df35d3",
+      "recipe_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 4,
+      "review": "Món này ổn nhưng chưa đặc sắc lắm.",
+      "images": [],
+      "helpful_count": 17,
+      "is_verified_cook": true,
+      "created_at": "2024-12-16T00:00:00Z",
+      "updated_at": "2024-12-09T00:00:00Z"
+    },
+    {
+      "id": "950e8400-5729-4810-8a6e-52dd5d895ab7",
+      "recipe_id": "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 4,
+      "review": null,
+      "images": [
+        "https://storage.cooking.app/reviews/img-b002-4260-ac29-a4ddd6a9e98d.jpg"
+      ],
+      "helpful_count": 19,
+      "is_verified_cook": true,
+      "created_at": "2024-08-04T00:00:00Z",
+      "updated_at": "2024-12-05T00:00:00Z"
+    },
+    {
+      "id": "950e8400-3fe0-4d3b-abf0-48d8d56dbca1",
+      "recipe_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 0,
+      "is_verified_cook": false,
+      "created_at": "2024-07-06T00:00:00Z",
+      "updated_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "950e8400-77e7-4134-b243-72e4bd8727d2",
+      "recipe_id": "850e8400-d31f-44af-a75a-69210fd6e876",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "rating": 5,
+      "review": null,
+      "images": [],
+      "helpful_count": 23,
+      "is_verified_cook": true,
+      "created_at": "2024-10-16T00:00:00Z",
+      "updated_at": "2024-12-26T00:00:00Z"
+    },
+    {
+      "id": "950e8400-52fb-4989-9c23-efba214fc152",
+      "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "rating": 5,
+      "review": null,
+      "images": [
+        "https://storage.cooking.app/reviews/img-9dbd-4c5a-b538-618e6e6cf0a0.jpg"
+      ],
+      "helpful_count": 6,
+      "is_verified_cook": true,
+      "created_at": "2024-11-12T00:00:00Z",
+      "updated_at": "2024-12-10T00:00:00Z"
+    },
+    {
+      "id": "950e8400-f646-4165-8aa8-0d11ba7cbb03",
+      "recipe_id": "850e8400-d31f-44af-a75a-69210fd6e876",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "rating": 4,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [],
+      "helpful_count": 8,
+      "is_verified_cook": true,
+      "created_at": "2024-09-12T00:00:00Z",
+      "updated_at": "2024-12-17T00:00:00Z"
+    },
+    {
+      "id": "950e8400-bccb-4fa3-a4ea-6c029fef4b6f",
+      "recipe_id": "850e8400-e66a-416d-834e-e493ae280292",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "rating": 5,
+      "review": "Nước dùng thơm ngon, đúng vị truyền thống.",
+      "images": [
+        "https://storage.cooking.app/reviews/img-9ebd-41ea-842e-4f6a0191edd1.jpg"
+      ],
+      "helpful_count": 8,
+      "is_verified_cook": true,
+      "created_at": "2024-12-23T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z"
+    }
+  ]
+}

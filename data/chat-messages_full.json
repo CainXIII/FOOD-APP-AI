@@ -1,0 +1,2199 @@
+{
+  "chat_messages": [
+    {
+      "id": "e50e8400-4ec2-4dff-8294-ec0f811cf4c4",
+      "chat_id": "d50e8400-4606-4765-b10a-1ee8802003e1",
+      "role": "user",
+      "content": "Làm sao để nấu phở ngon?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-11T08:00:00Z"
+    },
+    {
+      "id": "e50e8400-7f14-481d-b98b-ff8c8cd206ef",
+      "chat_id": "d50e8400-4606-4765-b10a-1ee8802003e1",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 745,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-2430-40dd-b89a-64070a6ac51d",
+            "title": "Phở Gà",
+            "similarity_score": 0.62
+          },
+          {
+            "recipe_id": "850e8400-e66a-416d-834e-e493ae280292",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.81
+          },
+          {
+            "recipe_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.9
+          },
+          {
+            "recipe_id": "850e8400-a473-4d7b-b03c-3578144b90f0",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.69
+          }
+        ],
+        "response_time_ms": 1966,
+        "tts_generated": true,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-cb95-434f-aa5f-3817a9b2c1a3.mp3"
+      },
+      "created_at": "2024-12-22T07:57:00Z"
+    },
+    {
+      "id": "e50e8400-3fa4-40d1-8054-937fbd8f7c2b",
+      "chat_id": "d50e8400-4606-4765-b10a-1ee8802003e1",
+      "role": "user",
+      "content": "Tôi có thể thay thế thịt bò bằng gì?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.93
+      },
+      "created_at": "2024-11-02T11:56:00Z"
+    },
+    {
+      "id": "e50e8400-8dab-4721-a0d3-5564320b62f8",
+      "chat_id": "d50e8400-4606-4765-b10a-1ee8802003e1",
+      "role": "assistant",
+      "content": "Được! Bạn có thể giảm 30-50% lượng muối, rồi nêm nếm và điều chỉnh.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 617,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-da65-494b-8a26-def5c1f4be65",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.87
+          },
+          {
+            "recipe_id": "850e8400-f60f-4953-a1aa-3701da105e8a",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.78
+          }
+        ],
+        "response_time_ms": 2543,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-7deb-443d-8cf0-967741cd7097.mp3"
+      },
+      "created_at": "2024-10-19T02:53:00Z"
+    },
+    {
+      "id": "e50e8400-ac9f-46c7-84d9-f4d07260ebcb",
+      "chat_id": "d50e8400-4606-4765-b10a-1ee8802003e1",
+      "role": "user",
+      "content": "Món này phù hợp cho trẻ em không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-14T15:52:00Z"
+    },
+    {
+      "id": "e50e8400-d68a-41c6-adf8-f92690f0f72f",
+      "chat_id": "d50e8400-4606-4765-b10a-1ee8802003e1",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 244,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-d0dc-4563-aec2-b68baf0d7ab3",
+            "title": "Phở Gà",
+            "similarity_score": 0.64
+          },
+          {
+            "recipe_id": "850e8400-eabb-4400-9ac1-95cb1160381f",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.86
+          }
+        ],
+        "response_time_ms": 1411,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-5a89-4b18-83f8-654b0f289ad4.mp3"
+      },
+      "created_at": "2024-10-14T15:49:00Z"
+    },
+    {
+      "id": "e50e8400-4825-41b0-851e-2c85740751a8",
+      "chat_id": "d50e8400-198f-4f59-b9e2-c0396f0f60c9",
+      "role": "user",
+      "content": "Cách bảo quản món ăn thế nào?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.9
+      },
+      "created_at": "2024-11-22T05:00:00Z"
+    },
+    {
+      "id": "e50e8400-51b2-48eb-b621-bfefda8d2101",
+      "chat_id": "d50e8400-198f-4f59-b9e2-c0396f0f60c9",
+      "role": "assistant",
+      "content": "Được! Bạn có thể giảm 30-50% lượng muối, rồi nêm nếm và điều chỉnh.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 261,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-4fb4-486b-87f2-13fdb06b35d8",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.74
+          },
+          {
+            "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.88
+          },
+          {
+            "recipe_id": "850e8400-a473-4d7b-b03c-3578144b90f0",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.74
+          },
+          {
+            "recipe_id": "850e8400-f60f-4953-a1aa-3701da105e8a",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.72
+          }
+        ],
+        "response_time_ms": 1132,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-05T11:57:00Z"
+    },
+    {
+      "id": "e50e8400-5adf-458b-853d-f93bdb1b4d06",
+      "chat_id": "d50e8400-198f-4f59-b9e2-c0396f0f60c9",
+      "role": "user",
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-20T15:56:00Z"
+    },
+    {
+      "id": "e50e8400-a1d0-4949-964c-8a857f009b00",
+      "chat_id": "d50e8400-198f-4f59-b9e2-c0396f0f60c9",
+      "role": "assistant",
+      "content": "Để nấu phở ngon, bạn cần chú ý vào nước dùng. Hầm xương bò ít nhất 8-12 tiếng với gừng và hành nướng.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 260,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.78
+          },
+          {
+            "recipe_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+            "title": "Phở Gà",
+            "similarity_score": 0.67
+          }
+        ],
+        "response_time_ms": 939,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-25T06:53:00Z"
+    },
+    {
+      "id": "e50e8400-d2f1-4eec-aebb-dcfc8acfc15d",
+      "chat_id": "d50e8400-198f-4f59-b9e2-c0396f0f60c9",
+      "role": "user",
+      "content": "Có thể tăng gấp đôi khẩu phần không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-05T08:52:00Z"
+    },
+    {
+      "id": "e50e8400-409f-401c-94b8-3b02820b1a7d",
+      "chat_id": "d50e8400-198f-4f59-b9e2-c0396f0f60c9",
+      "role": "assistant",
+      "content": "Để trong hộp kín, bảo quản tủ lạnh 3-5 ngày. Có thể đông lạnh 1-2 tháng.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 308,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-ee15-4000-87d9-717756506057",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.62
+          },
+          {
+            "recipe_id": "850e8400-f60f-4953-a1aa-3701da105e8a",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.87
+          }
+        ],
+        "response_time_ms": 879,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-11-26T20:49:00Z"
+    },
+    {
+      "id": "e50e8400-5ae4-4334-8c9d-2cd9b2a253b4",
+      "chat_id": "d50e8400-519e-4f62-98c5-426077c6799e",
+      "role": "user",
+      "content": "Có thể giảm lượng muối không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.98
+      },
+      "created_at": "2024-10-31T12:00:00Z"
+    },
+    {
+      "id": "e50e8400-4b27-42f6-81bb-aa48e3893a1b",
+      "chat_id": "d50e8400-519e-4f62-98c5-426077c6799e",
+      "role": "assistant",
+      "content": "Bạn có thể thay thế thịt bò bằng thịt gà, thịt heo, hoặc đậu phụ cho món chay.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 650,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-2430-40dd-b89a-64070a6ac51d",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.85
+          },
+          {
+            "recipe_id": "850e8400-d2fd-4d8d-a426-04d051ec504b",
+            "title": "Phở Gà",
+            "similarity_score": 0.61
+          }
+        ],
+        "response_time_ms": 1877,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-19T11:57:00Z"
+    },
+    {
+      "id": "e50e8400-2950-4f45-8756-c009b3caf07a",
+      "chat_id": "d50e8400-519e-4f62-98c5-426077c6799e",
+      "role": "user",
+      "content": "Calo của món này là bao nhiêu?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.9
+      },
+      "created_at": "2024-11-07T09:56:00Z"
+    },
+    {
+      "id": "e50e8400-a898-46d5-aca9-19dbb5b83782",
+      "chat_id": "d50e8400-519e-4f62-98c5-426077c6799e",
+      "role": "assistant",
+      "content": "Món này ăn kèm với cơm trắng, rau sống, dưa muối, và nước chấm.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 649,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.7
+          },
+          {
+            "recipe_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.86
+          }
+        ],
+        "response_time_ms": 2745,
+        "tts_generated": true,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-2faa-490e-9263-21e1644bb74c.mp3"
+      },
+      "created_at": "2024-10-29T08:53:00Z"
+    },
+    {
+      "id": "e50e8400-b13e-4278-b20b-80139145e110",
+      "chat_id": "d50e8400-519e-4f62-98c5-426077c6799e",
+      "role": "user",
+      "content": "Cách bảo quản món ăn thế nào?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.96
+      },
+      "created_at": "2024-10-18T09:52:00Z"
+    },
+    {
+      "id": "e50e8400-2ece-45f3-a103-eed6263abfe2",
+      "chat_id": "d50e8400-519e-4f62-98c5-426077c6799e",
+      "role": "assistant",
+      "content": "Bạn nên rửa sạch rau, ướp thịt trước 30 phút, và chuẩn bị gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 640,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.6
+          },
+          {
+            "recipe_id": "850e8400-1619-4a7f-b54b-7ab836cdf532",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.6
+          },
+          {
+            "recipe_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.61
+          },
+          {
+            "recipe_id": "850e8400-4a40-4ad4-a5f5-5c5212168365",
+            "title": "Phở Gà",
+            "similarity_score": 0.75
+          }
+        ],
+        "response_time_ms": 1396,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-aeb9-4636-814a-cbb92ee02114.mp3"
+      },
+      "created_at": "2024-12-30T16:49:00Z"
+    },
+    {
+      "id": "e50e8400-749c-4a00-8f8f-243ebcf23189",
+      "chat_id": "d50e8400-519e-4f62-98c5-426077c6799e",
+      "role": "user",
+      "content": "Món này phù hợp cho trẻ em không?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-04T08:48:00Z"
+    },
+    {
+      "id": "e50e8400-dc33-4aa7-ab0e-0b2992ac699c",
+      "chat_id": "d50e8400-519e-4f62-98c5-426077c6799e",
+      "role": "assistant",
+      "content": "Để trong hộp kín, bảo quản tủ lạnh 3-5 ngày. Có thể đông lạnh 1-2 tháng.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 333,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.79
+          },
+          {
+            "recipe_id": "850e8400-3162-4cfc-94fb-6635630de168",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.61
+          }
+        ],
+        "response_time_ms": 2007,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-06T11:45:00Z"
+    },
+    {
+      "id": "e50e8400-d201-4223-9dcc-f491d8e6cabc",
+      "chat_id": "d50e8400-519e-4f62-98c5-426077c6799e",
+      "role": "user",
+      "content": "Có thể làm chay được không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-31T21:44:00Z"
+    },
+    {
+      "id": "e50e8400-b573-42cc-8177-b2cf37c99fec",
+      "chat_id": "d50e8400-8854-4c0f-a5c8-6b5ecaaecdeb",
+      "role": "user",
+      "content": "Cách bảo quản món ăn thế nào?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-16T10:00:00Z"
+    },
+    {
+      "id": "e50e8400-b951-492e-b1cb-6e8bc12e8042",
+      "chat_id": "d50e8400-8854-4c0f-a5c8-6b5ecaaecdeb",
+      "role": "assistant",
+      "content": "Món này có độ cay vừa phải. Bạn có thể bỏ ớt hoặc giảm lượng ớt.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 797,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.67
+          },
+          {
+            "recipe_id": "850e8400-1619-4a7f-b54b-7ab836cdf532",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.61
+          },
+          {
+            "recipe_id": "850e8400-bfa9-460b-a293-d725d09f56a7",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.71
+          }
+        ],
+        "response_time_ms": 967,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-10T19:57:00Z"
+    },
+    {
+      "id": "e50e8400-2817-4916-9526-5375d0fe1b02",
+      "chat_id": "d50e8400-8854-4c0f-a5c8-6b5ecaaecdeb",
+      "role": "user",
+      "content": "Tôi có thể thay thế thịt bò bằng gì?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-02T22:56:00Z"
+    },
+    {
+      "id": "e50e8400-83dc-4601-985b-468001ed2040",
+      "chat_id": "d50e8400-8854-4c0f-a5c8-6b5ecaaecdeb",
+      "role": "assistant",
+      "content": "Món này ăn kèm với cơm trắng, rau sống, dưa muối, và nước chấm.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 748,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-0193-4584-9397-8d62e5036077",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.75
+          },
+          {
+            "recipe_id": "850e8400-f60f-4953-a1aa-3701da105e8a",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.86
+          }
+        ],
+        "response_time_ms": 1144,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-11-25T03:53:00Z"
+    },
+    {
+      "id": "e50e8400-7238-4082-8d85-0722f4ab4aca",
+      "chat_id": "d50e8400-8854-4c0f-a5c8-6b5ecaaecdeb",
+      "role": "user",
+      "content": "Làm sao để nấu phở ngon?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.93
+      },
+      "created_at": "2024-12-26T23:52:00Z"
+    },
+    {
+      "id": "e50e8400-99b1-4b50-8363-07078a537ffc",
+      "chat_id": "d50e8400-8854-4c0f-a5c8-6b5ecaaecdeb",
+      "role": "assistant",
+      "content": "Để nấu phở ngon, bạn cần chú ý vào nước dùng. Hầm xương bò ít nhất 8-12 tiếng với gừng và hành nướng.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 594,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-b73f-40ca-9130-a44d4cbcf71c",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.78
+          },
+          {
+            "recipe_id": "850e8400-bfa9-460b-a293-d725d09f56a7",
+            "title": "Phở Gà",
+            "similarity_score": 0.87
+          },
+          {
+            "recipe_id": "850e8400-a473-4d7b-b03c-3578144b90f0",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.7
+          },
+          {
+            "recipe_id": "850e8400-eabb-4400-9ac1-95cb1160381f",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.89
+          }
+        ],
+        "response_time_ms": 1271,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-5164-4a7a-923f-6e944c0f4ec2.mp3"
+      },
+      "created_at": "2024-11-22T07:49:00Z"
+    },
+    {
+      "id": "e50e8400-47e6-4a5c-ba2f-aef66a4bd7ff",
+      "chat_id": "d50e8400-8854-4c0f-a5c8-6b5ecaaecdeb",
+      "role": "user",
+      "content": "Làm sao để nấu phở ngon?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-27T06:48:00Z"
+    },
+    {
+      "id": "e50e8400-680a-4eb5-a3b5-88357c502e3e",
+      "chat_id": "d50e8400-8854-4c0f-a5c8-6b5ecaaecdeb",
+      "role": "assistant",
+      "content": "Để trong hộp kín, bảo quản tủ lạnh 3-5 ngày. Có thể đông lạnh 1-2 tháng.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 773,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.83
+          },
+          {
+            "recipe_id": "850e8400-d562-4490-8610-98fdfb5657bc",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.72
+          },
+          {
+            "recipe_id": "850e8400-4a40-4ad4-a5f5-5c5212168365",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.85
+          }
+        ],
+        "response_time_ms": 1318,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-8c77-42e2-9ac8-3b98226c8aa4.mp3"
+      },
+      "created_at": "2024-10-24T18:45:00Z"
+    },
+    {
+      "id": "e50e8400-f4b1-4d9e-ba6b-8494a31d0706",
+      "chat_id": "d50e8400-8854-4c0f-a5c8-6b5ecaaecdeb",
+      "role": "user",
+      "content": "Mẹo để món ngon hơn?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-22T06:44:00Z"
+    },
+    {
+      "id": "e50e8400-3c36-4573-abe4-2eedb569b507",
+      "chat_id": "d50e8400-1395-4619-9190-e68b2867f979",
+      "role": "user",
+      "content": "Tôi cần chuẩn bị gì trước?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-18T21:00:00Z"
+    },
+    {
+      "id": "e50e8400-da44-452b-a7ee-39c7a20601bf",
+      "chat_id": "d50e8400-1395-4619-9190-e68b2867f979",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 707,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.88
+          },
+          {
+            "recipe_id": "850e8400-2664-4cc6-9108-1d69b6b6146f",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.69
+          }
+        ],
+        "response_time_ms": 1305,
+        "tts_generated": true,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-8f1d-4f5d-a29d-4657d48a6c13.mp3"
+      },
+      "created_at": "2024-10-18T16:57:00Z"
+    },
+    {
+      "id": "e50e8400-f83e-49e5-82b0-9cd5aa06c736",
+      "chat_id": "d50e8400-1395-4619-9190-e68b2867f979",
+      "role": "user",
+      "content": "Có thể tăng gấp đôi khẩu phần không?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-31T12:56:00Z"
+    },
+    {
+      "id": "e50e8400-b3fa-4a51-ba54-a8bc7af89724",
+      "chat_id": "d50e8400-1395-4619-9190-e68b2867f979",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 508,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-14a6-4010-8b45-64f562582691",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.88
+          },
+          {
+            "recipe_id": "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.73
+          },
+          {
+            "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.78
+          },
+          {
+            "recipe_id": "850e8400-b73f-40ca-9130-a44d4cbcf71c",
+            "title": "Phở Gà",
+            "similarity_score": 0.81
+          }
+        ],
+        "response_time_ms": 2062,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-26T01:53:00Z"
+    },
+    {
+      "id": "e50e8400-1057-4f96-8181-4852126f693e",
+      "chat_id": "d50e8400-1395-4619-9190-e68b2867f979",
+      "role": "user",
+      "content": "Món này có cay không?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.96
+      },
+      "created_at": "2024-11-17T06:52:00Z"
+    },
+    {
+      "id": "e50e8400-9f03-4ced-b345-04f3995167cf",
+      "chat_id": "d50e8400-1395-4619-9190-e68b2867f979",
+      "role": "assistant",
+      "content": "Món này có độ cay vừa phải. Bạn có thể bỏ ớt hoặc giảm lượng ớt.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 346,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-a473-4d7b-b03c-3578144b90f0",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.82
+          },
+          {
+            "recipe_id": "850e8400-d0dc-4563-aec2-b68baf0d7ab3",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.73
+          },
+          {
+            "recipe_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.82
+          },
+          {
+            "recipe_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+            "title": "Phở Gà",
+            "similarity_score": 0.88
+          }
+        ],
+        "response_time_ms": 1545,
+        "tts_generated": true,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-8113-4be2-82da-fecc858787a9.mp3"
+      },
+      "created_at": "2024-10-24T06:49:00Z"
+    },
+    {
+      "id": "e50e8400-df7d-420b-8ca6-8d2746bb9172",
+      "chat_id": "d50e8400-1395-4619-9190-e68b2867f979",
+      "role": "user",
+      "content": "Nguyên liệu nào quan trọng nhất?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.9
+      },
+      "created_at": "2024-12-04T17:48:00Z"
+    },
+    {
+      "id": "e50e8400-f107-455b-a575-98cfabb91c99",
+      "chat_id": "d50e8400-1395-4619-9190-e68b2867f979",
+      "role": "assistant",
+      "content": "Chuẩn bị mất khoảng 20-30 phút, nấu thêm 45-60 phút.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 760,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.8
+          },
+          {
+            "recipe_id": "850e8400-d6b0-4816-8b84-c899a0cbbd63",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.62
+          }
+        ],
+        "response_time_ms": 1290,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-12T17:45:00Z"
+    },
+    {
+      "id": "e50e8400-2000-4bbc-99d7-df8273919b1c",
+      "chat_id": "d50e8400-1395-4619-9190-e68b2867f979",
+      "role": "user",
+      "content": "Làm sao để nấu phở ngon?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.93
+      },
+      "created_at": "2024-11-12T03:44:00Z"
+    },
+    {
+      "id": "e50e8400-86e1-45d3-8a45-7438ada555e3",
+      "chat_id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "role": "user",
+      "content": "Thời gian chuẩn bị bao lâu?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.9
+      },
+      "created_at": "2024-10-20T09:00:00Z"
+    },
+    {
+      "id": "e50e8400-d201-4f46-b2ce-3b85c9b52952",
+      "chat_id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 541,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-d6b0-4816-8b84-c899a0cbbd63",
+            "title": "Phở Gà",
+            "similarity_score": 0.71
+          },
+          {
+            "recipe_id": "850e8400-2664-4cc6-9108-1d69b6b6146f",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.69
+          },
+          {
+            "recipe_id": "850e8400-1271-428b-9f63-ec0f757900a3",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.62
+          },
+          {
+            "recipe_id": "850e8400-d0dc-4563-aec2-b68baf0d7ab3",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.83
+          }
+        ],
+        "response_time_ms": 946,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-13T04:57:00Z"
+    },
+    {
+      "id": "e50e8400-c3da-44ea-b2aa-84641dca7a52",
+      "chat_id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "role": "user",
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-30T21:56:00Z"
+    },
+    {
+      "id": "e50e8400-41dc-4802-b236-81e151ec62c7",
+      "chat_id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 603,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-eabb-4400-9ac1-95cb1160381f",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.6
+          },
+          {
+            "recipe_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+            "title": "Phở Gà",
+            "similarity_score": 0.7
+          },
+          {
+            "recipe_id": "850e8400-d084-4306-a24d-3c89589d4b02",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.66
+          },
+          {
+            "recipe_id": "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.74
+          }
+        ],
+        "response_time_ms": 2239,
+        "tts_generated": true,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-bbbb-4297-9059-c19ad8c244df.mp3"
+      },
+      "created_at": "2024-10-22T19:53:00Z"
+    },
+    {
+      "id": "e50e8400-6f9c-4f5a-a308-e9d77b61cbb1",
+      "chat_id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "role": "user",
+      "content": "Có thể giảm lượng muối không?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.92
+      },
+      "created_at": "2024-11-11T03:52:00Z"
+    },
+    {
+      "id": "e50e8400-4ce4-4c25-9b65-4349c283e563",
+      "chat_id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 593,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-bfa9-460b-a293-d725d09f56a7",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.71
+          },
+          {
+            "recipe_id": "850e8400-ee15-4000-87d9-717756506057",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.77
+          },
+          {
+            "recipe_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.83
+          }
+        ],
+        "response_time_ms": 821,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-20T09:49:00Z"
+    },
+    {
+      "id": "e50e8400-41cd-4bd5-a055-3e11a6e3c67c",
+      "chat_id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "role": "user",
+      "content": "Cách bảo quản món ăn thế nào?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-21T22:48:00Z"
+    },
+    {
+      "id": "e50e8400-04f1-482f-be27-82e338a37bf2",
+      "chat_id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 445,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-f714-42dc-9caa-619087b887fa",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.72
+          },
+          {
+            "recipe_id": "850e8400-3162-4cfc-94fb-6635630de168",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.87
+          },
+          {
+            "recipe_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.71
+          }
+        ],
+        "response_time_ms": 1366,
+        "tts_generated": true,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-a74f-457d-adf1-60c117699175.mp3"
+      },
+      "created_at": "2024-12-21T03:45:00Z"
+    },
+    {
+      "id": "e50e8400-fc0e-42aa-a4f5-63d350fde57c",
+      "chat_id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "role": "user",
+      "content": "Làm sao để nấu phở ngon?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-16T06:44:00Z"
+    },
+    {
+      "id": "e50e8400-efd6-485c-a34d-12d7f57bb321",
+      "chat_id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "role": "assistant",
+      "content": "Bạn nên rửa sạch rau, ướp thịt trước 30 phút, và chuẩn bị gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 592,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+            "title": "Phở Gà",
+            "similarity_score": 0.66
+          },
+          {
+            "recipe_id": "850e8400-b73f-40ca-9130-a44d4cbcf71c",
+            "title": "Phở Gà",
+            "similarity_score": 0.8
+          },
+          {
+            "recipe_id": "850e8400-2664-4cc6-9108-1d69b6b6146f",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.71
+          }
+        ],
+        "response_time_ms": 1574,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-14T18:41:00Z"
+    },
+    {
+      "id": "e50e8400-c6ae-40e5-be02-2f823d9cc2b1",
+      "chat_id": "d50e8400-78f6-4c19-aace-9e75e83793bd",
+      "role": "user",
+      "content": "Món này có cay không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.95
+      },
+      "created_at": "2024-11-27T01:00:00Z"
+    },
+    {
+      "id": "e50e8400-f567-4f3b-b067-182f75c6da97",
+      "chat_id": "d50e8400-78f6-4c19-aace-9e75e83793bd",
+      "role": "assistant",
+      "content": "Để nấu phở ngon, bạn cần chú ý vào nước dùng. Hầm xương bò ít nhất 8-12 tiếng với gừng và hành nướng.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 390,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.87
+          },
+          {
+            "recipe_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.79
+          },
+          {
+            "recipe_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.7
+          },
+          {
+            "recipe_id": "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.81
+          }
+        ],
+        "response_time_ms": 1774,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-30T15:57:00Z"
+    },
+    {
+      "id": "e50e8400-b480-4bc7-8a21-da9128a02183",
+      "chat_id": "d50e8400-78f6-4c19-aace-9e75e83793bd",
+      "role": "user",
+      "content": "Nguyên liệu nào quan trọng nhất?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-22T02:56:00Z"
+    },
+    {
+      "id": "e50e8400-db73-4f6e-8135-0a06c210ba05",
+      "chat_id": "d50e8400-78f6-4c19-aace-9e75e83793bd",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 200,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-3aab-4687-b856-428794d42775",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.8
+          },
+          {
+            "recipe_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.8
+          }
+        ],
+        "response_time_ms": 2576,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-11-14T18:53:00Z"
+    },
+    {
+      "id": "e50e8400-959f-4e34-b5ae-a10f1889f031",
+      "chat_id": "d50e8400-78f6-4c19-aace-9e75e83793bd",
+      "role": "user",
+      "content": "Món này ăn với gì?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-24T11:52:00Z"
+    },
+    {
+      "id": "e50e8400-0cd6-4511-81da-415ab9cb76f5",
+      "chat_id": "d50e8400-78f6-4c19-aace-9e75e83793bd",
+      "role": "assistant",
+      "content": "Được! Bạn có thể giảm 30-50% lượng muối, rồi nêm nếm và điều chỉnh.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 526,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.72
+          },
+          {
+            "recipe_id": "850e8400-5508-4005-809a-b7b5d969ba29",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.86
+          }
+        ],
+        "response_time_ms": 882,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-e350-433a-9992-4144ed8cf211.mp3"
+      },
+      "created_at": "2024-10-14T04:49:00Z"
+    },
+    {
+      "id": "e50e8400-0ef4-4515-bb58-bc90e04814c0",
+      "chat_id": "d50e8400-78f6-4c19-aace-9e75e83793bd",
+      "role": "user",
+      "content": "Có thể làm chay được không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-30T14:48:00Z"
+    },
+    {
+      "id": "e50e8400-328c-4d54-ad45-c869d763e3ec",
+      "chat_id": "d50e8400-78f6-4c19-aace-9e75e83793bd",
+      "role": "assistant",
+      "content": "Bạn nên rửa sạch rau, ướp thịt trước 30 phút, và chuẩn bị gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 233,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-ee15-4000-87d9-717756506057",
+            "title": "Phở Gà",
+            "similarity_score": 0.87
+          },
+          {
+            "recipe_id": "850e8400-1271-428b-9f63-ec0f757900a3",
+            "title": "Phở Gà",
+            "similarity_score": 0.71
+          },
+          {
+            "recipe_id": "850e8400-5508-4005-809a-b7b5d969ba29",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.63
+          },
+          {
+            "recipe_id": "850e8400-3162-4cfc-94fb-6635630de168",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.6
+          }
+        ],
+        "response_time_ms": 2113,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-12T15:45:00Z"
+    },
+    {
+      "id": "e50e8400-b170-4f4b-93c3-5364f173d0c7",
+      "chat_id": "d50e8400-78f6-4c19-aace-9e75e83793bd",
+      "role": "user",
+      "content": "Món này ăn với gì?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-02T16:44:00Z"
+    },
+    {
+      "id": "e50e8400-4749-447d-a31c-3a827f6c6724",
+      "chat_id": "d50e8400-da43-44f3-acdf-7a926921227b",
+      "role": "user",
+      "content": "Món này có cay không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-25T14:00:00Z"
+    },
+    {
+      "id": "e50e8400-0343-4cf4-afc1-ae3d92e19e5b",
+      "chat_id": "d50e8400-da43-44f3-acdf-7a926921227b",
+      "role": "assistant",
+      "content": "Bạn có thể thay thế thịt bò bằng thịt gà, thịt heo, hoặc đậu phụ cho món chay.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 315,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.76
+          },
+          {
+            "recipe_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+            "title": "Phở Gà",
+            "similarity_score": 0.79
+          },
+          {
+            "recipe_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+            "title": "Phở Gà",
+            "similarity_score": 0.86
+          },
+          {
+            "recipe_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.78
+          }
+        ],
+        "response_time_ms": 1913,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-10T14:57:00Z"
+    },
+    {
+      "id": "e50e8400-5a80-40ab-891d-047eba9e02aa",
+      "chat_id": "d50e8400-da43-44f3-acdf-7a926921227b",
+      "role": "user",
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-08T23:56:00Z"
+    },
+    {
+      "id": "e50e8400-bf9b-4e2a-98d7-745be8aafcee",
+      "chat_id": "d50e8400-da43-44f3-acdf-7a926921227b",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 632,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+            "title": "Phở Gà",
+            "similarity_score": 0.68
+          },
+          {
+            "recipe_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.89
+          },
+          {
+            "recipe_id": "850e8400-3162-4cfc-94fb-6635630de168",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.6
+          },
+          {
+            "recipe_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.79
+          }
+        ],
+        "response_time_ms": 1905,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-7a50-4c0e-8e54-38aba3e16bd7.mp3"
+      },
+      "created_at": "2024-10-20T11:53:00Z"
+    },
+    {
+      "id": "e50e8400-4f3c-45e9-b1d7-eb68294644b3",
+      "chat_id": "d50e8400-da43-44f3-acdf-7a926921227b",
+      "role": "user",
+      "content": "Cách bảo quản món ăn thế nào?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-14T13:52:00Z"
+    },
+    {
+      "id": "e50e8400-d074-4a5b-9891-e31b44d51a7b",
+      "chat_id": "d50e8400-da43-44f3-acdf-7a926921227b",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 328,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-eabb-4400-9ac1-95cb1160381f",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.69
+          },
+          {
+            "recipe_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.68
+          },
+          {
+            "recipe_id": "850e8400-d2fd-4d8d-a426-04d051ec504b",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.89
+          }
+        ],
+        "response_time_ms": 1146,
+        "tts_generated": true,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-6a2e-43f0-ba18-7565ff156553.mp3"
+      },
+      "created_at": "2024-12-14T00:49:00Z"
+    },
+    {
+      "id": "e50e8400-cbdf-4c6e-802a-8382f2fcf54d",
+      "chat_id": "d50e8400-da43-44f3-acdf-7a926921227b",
+      "role": "user",
+      "content": "Tôi có thể thay thế thịt bò bằng gì?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-26T05:48:00Z"
+    },
+    {
+      "id": "e50e8400-043e-4e73-95c1-7d2ae20de662",
+      "chat_id": "d50e8400-da43-44f3-acdf-7a926921227b",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 304,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-d084-4306-a24d-3c89589d4b02",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.71
+          },
+          {
+            "recipe_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.6
+          },
+          {
+            "recipe_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.78
+          },
+          {
+            "recipe_id": "850e8400-d31f-44af-a75a-69210fd6e876",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.73
+          }
+        ],
+        "response_time_ms": 2303,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-11-02T09:45:00Z"
+    },
+    {
+      "id": "e50e8400-61b3-4809-99e4-ad10c81ee0a3",
+      "chat_id": "d50e8400-da43-44f3-acdf-7a926921227b",
+      "role": "user",
+      "content": "Nguyên liệu nào quan trọng nhất?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.86
+      },
+      "created_at": "2024-12-23T17:44:00Z"
+    },
+    {
+      "id": "e50e8400-473f-450a-b065-e16d4010ddce",
+      "chat_id": "d50e8400-00e7-43de-8287-39131bc0438d",
+      "role": "user",
+      "content": "Nguyên liệu nào quan trọng nhất?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-18T15:00:00Z"
+    },
+    {
+      "id": "e50e8400-7a6c-44bb-83e6-4bc2ab5a73d1",
+      "chat_id": "d50e8400-00e7-43de-8287-39131bc0438d",
+      "role": "assistant",
+      "content": "Bạn có thể thay thế thịt bò bằng thịt gà, thịt heo, hoặc đậu phụ cho món chay.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 489,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.79
+          },
+          {
+            "recipe_id": "850e8400-3aab-4687-b856-428794d42775",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.78
+          },
+          {
+            "recipe_id": "850e8400-1619-4a7f-b54b-7ab836cdf532",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.73
+          },
+          {
+            "recipe_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.62
+          }
+        ],
+        "response_time_ms": 833,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-28T02:57:00Z"
+    },
+    {
+      "id": "e50e8400-3266-40d0-ad82-c0125cb6291b",
+      "chat_id": "d50e8400-00e7-43de-8287-39131bc0438d",
+      "role": "user",
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-28T22:56:00Z"
+    },
+    {
+      "id": "e50e8400-c173-4785-b721-b6daa0957051",
+      "chat_id": "d50e8400-00e7-43de-8287-39131bc0438d",
+      "role": "assistant",
+      "content": "Có thể! Nồi áp suất sẽ giảm thời gian nấu xuống còn 1/3.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 287,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-d6b0-4816-8b84-c899a0cbbd63",
+            "title": "Phở Gà",
+            "similarity_score": 0.65
+          },
+          {
+            "recipe_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.65
+          }
+        ],
+        "response_time_ms": 2762,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-14T10:53:00Z"
+    },
+    {
+      "id": "e50e8400-b15f-4c58-8b2d-d726bc18652e",
+      "chat_id": "d50e8400-00e7-43de-8287-39131bc0438d",
+      "role": "user",
+      "content": "Calo của món này là bao nhiêu?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.98
+      },
+      "created_at": "2024-12-25T01:52:00Z"
+    },
+    {
+      "id": "e50e8400-0af3-43ed-b204-f890d3369205",
+      "chat_id": "d50e8400-00e7-43de-8287-39131bc0438d",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 300,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.67
+          },
+          {
+            "recipe_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.82
+          },
+          {
+            "recipe_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.64
+          }
+        ],
+        "response_time_ms": 2761,
+        "tts_generated": true,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-182a-462f-9d8f-93c28d663a49.mp3"
+      },
+      "created_at": "2024-11-15T12:49:00Z"
+    },
+    {
+      "id": "e50e8400-8ea2-4e74-969d-f4d4856320b7",
+      "chat_id": "d50e8400-00e7-43de-8287-39131bc0438d",
+      "role": "user",
+      "content": "Calo của món này là bao nhiêu?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-23T06:48:00Z"
+    },
+    {
+      "id": "e50e8400-5708-4c1a-9399-5d9477a52f29",
+      "chat_id": "d50e8400-00e7-43de-8287-39131bc0438d",
+      "role": "assistant",
+      "content": "Có thể! Nồi áp suất sẽ giảm thời gian nấu xuống còn 1/3.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 570,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.61
+          },
+          {
+            "recipe_id": "850e8400-c8ef-4307-bb94-27dc01ef0722",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.75
+          }
+        ],
+        "response_time_ms": 2893,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-11-05T04:45:00Z"
+    },
+    {
+      "id": "e50e8400-87cf-4b06-aee8-e410743fe042",
+      "chat_id": "d50e8400-a6a3-434c-948b-32e7a8d92e98",
+      "role": "user",
+      "content": "Có thể làm chay được không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-20T10:00:00Z"
+    },
+    {
+      "id": "e50e8400-1be1-4f10-9671-395cb54cad02",
+      "chat_id": "d50e8400-a6a3-434c-948b-32e7a8d92e98",
+      "role": "assistant",
+      "content": "Được! Bạn có thể giảm 30-50% lượng muối, rồi nêm nếm và điều chỉnh.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 516,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+            "title": "Phở Gà",
+            "similarity_score": 0.78
+          },
+          {
+            "recipe_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.69
+          }
+        ],
+        "response_time_ms": 2508,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-6792-4043-967f-cd4003ef3665.mp3"
+      },
+      "created_at": "2024-12-14T20:57:00Z"
+    },
+    {
+      "id": "e50e8400-eefa-474c-a8e9-7e93f54e8e0d",
+      "chat_id": "d50e8400-a6a3-434c-948b-32e7a8d92e98",
+      "role": "user",
+      "content": "Có thể tăng gấp đôi khẩu phần không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-20T06:56:00Z"
+    },
+    {
+      "id": "e50e8400-42ea-49b7-a025-bb656b9bfdb6",
+      "chat_id": "d50e8400-a6a3-434c-948b-32e7a8d92e98",
+      "role": "assistant",
+      "content": "Bạn có thể thay thế thịt bò bằng thịt gà, thịt heo, hoặc đậu phụ cho món chay.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 679,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.71
+          },
+          {
+            "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.76
+          }
+        ],
+        "response_time_ms": 2655,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-11-20T08:53:00Z"
+    },
+    {
+      "id": "e50e8400-15fe-4a47-870a-59a19f6325a1",
+      "chat_id": "d50e8400-a6a3-434c-948b-32e7a8d92e98",
+      "role": "user",
+      "content": "Làm sao để nấu phở ngon?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-07T18:52:00Z"
+    },
+    {
+      "id": "e50e8400-c9a7-4c7a-b5ce-e0b87b4ff042",
+      "chat_id": "d50e8400-a6a3-434c-948b-32e7a8d92e98",
+      "role": "assistant",
+      "content": "Để trong hộp kín, bảo quản tủ lạnh 3-5 ngày. Có thể đông lạnh 1-2 tháng.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 577,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-3aab-4687-b856-428794d42775",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.64
+          },
+          {
+            "recipe_id": "850e8400-e66a-416d-834e-e493ae280292",
+            "title": "Phở Gà",
+            "similarity_score": 0.79
+          }
+        ],
+        "response_time_ms": 2598,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-7c1f-408f-95e8-b53b649574b5.mp3"
+      },
+      "created_at": "2024-10-09T02:49:00Z"
+    },
+    {
+      "id": "e50e8400-f914-4e46-9458-5121997a6deb",
+      "chat_id": "d50e8400-a6a3-434c-948b-32e7a8d92e98",
+      "role": "user",
+      "content": "Món này có cay không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.88
+      },
+      "created_at": "2024-10-15T08:48:00Z"
+    },
+    {
+      "id": "e50e8400-004c-404b-9181-e9d01cdf74a0",
+      "chat_id": "d50e8400-a6a3-434c-948b-32e7a8d92e98",
+      "role": "assistant",
+      "content": "Món này có độ cay vừa phải. Bạn có thể bỏ ớt hoặc giảm lượng ớt.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 451,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.62
+          },
+          {
+            "recipe_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.68
+          },
+          {
+            "recipe_id": "850e8400-1271-428b-9f63-ec0f757900a3",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.8
+          },
+          {
+            "recipe_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.67
+          }
+        ],
+        "response_time_ms": 848,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-d037-476e-81b3-9e38f496473f.mp3"
+      },
+      "created_at": "2024-11-02T11:45:00Z"
+    },
+    {
+      "id": "e50e8400-06f5-4472-834b-aa1558b01d5d",
+      "chat_id": "d50e8400-a6a3-434c-948b-32e7a8d92e98",
+      "role": "user",
+      "content": "Món này có cay không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-24T02:44:00Z"
+    },
+    {
+      "id": "e50e8400-8860-427b-9bd9-f704e52a2354",
+      "chat_id": "d50e8400-8912-4b06-9bd2-7123d98ada8a",
+      "role": "user",
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-27T02:00:00Z"
+    },
+    {
+      "id": "e50e8400-8cd1-482b-ac3d-bd816880ac86",
+      "chat_id": "d50e8400-8912-4b06-9bd2-7123d98ada8a",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 212,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.86
+          },
+          {
+            "recipe_id": "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.71
+          },
+          {
+            "recipe_id": "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.86
+          }
+        ],
+        "response_time_ms": 1666,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-11T07:57:00Z"
+    },
+    {
+      "id": "e50e8400-6913-4a15-bbd9-316808baa968",
+      "chat_id": "d50e8400-8912-4b06-9bd2-7123d98ada8a",
+      "role": "user",
+      "content": "Calo của món này là bao nhiêu?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.91
+      },
+      "created_at": "2024-11-12T11:56:00Z"
+    },
+    {
+      "id": "e50e8400-397f-4de1-a08f-70831907b7ec",
+      "chat_id": "d50e8400-8912-4b06-9bd2-7123d98ada8a",
+      "role": "assistant",
+      "content": "Chuẩn bị mất khoảng 20-30 phút, nấu thêm 45-60 phút.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 666,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.75
+          },
+          {
+            "recipe_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.81
+          },
+          {
+            "recipe_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.71
+          },
+          {
+            "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.82
+          }
+        ],
+        "response_time_ms": 1594,
+        "tts_generated": true,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-ddc8-443f-a6f2-dd93c901928a.mp3"
+      },
+      "created_at": "2024-11-19T15:53:00Z"
+    },
+    {
+      "id": "e50e8400-eed4-402a-97ef-89086d07e46b",
+      "chat_id": "d50e8400-8912-4b06-9bd2-7123d98ada8a",
+      "role": "user",
+      "content": "Có thể giảm lượng muối không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-29T10:52:00Z"
+    },
+    {
+      "id": "e50e8400-0164-4d89-a15c-f48106cff42e",
+      "chat_id": "d50e8400-8912-4b06-9bd2-7123d98ada8a",
+      "role": "assistant",
+      "content": "Có thể! Nồi áp suất sẽ giảm thời gian nấu xuống còn 1/3.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 232,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.71
+          },
+          {
+            "recipe_id": "850e8400-f714-42dc-9caa-619087b887fa",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.67
+          }
+        ],
+        "response_time_ms": 2683,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-08T19:49:00Z"
+    },
+    {
+      "id": "e50e8400-df71-4af5-9318-f102cb4808ae",
+      "chat_id": "d50e8400-8912-4b06-9bd2-7123d98ada8a",
+      "role": "user",
+      "content": "Món này phù hợp cho trẻ em không?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-12T16:48:00Z"
+    },
+    {
+      "id": "e50e8400-932f-4211-8811-3fcf1b53fc48",
+      "chat_id": "d50e8400-02db-4121-84cd-e4ae773a11fb",
+      "role": "user",
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-09T00:00:00Z"
+    },
+    {
+      "id": "e50e8400-9262-43e6-8c60-182b1a46222a",
+      "chat_id": "d50e8400-02db-4121-84cd-e4ae773a11fb",
+      "role": "assistant",
+      "content": "Để trong hộp kín, bảo quản tủ lạnh 3-5 ngày. Có thể đông lạnh 1-2 tháng.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 401,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+            "title": "Phở Gà",
+            "similarity_score": 0.71
+          },
+          {
+            "recipe_id": "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.86
+          }
+        ],
+        "response_time_ms": 2777,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-08T04:57:00Z"
+    },
+    {
+      "id": "e50e8400-c687-4a8a-939c-f49fff5c8bff",
+      "chat_id": "d50e8400-02db-4121-84cd-e4ae773a11fb",
+      "role": "user",
+      "content": "Cách bảo quản món ăn thế nào?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-12-27T02:56:00Z"
+    },
+    {
+      "id": "e50e8400-49df-4dae-9a7e-b05bc46ad439",
+      "chat_id": "d50e8400-02db-4121-84cd-e4ae773a11fb",
+      "role": "assistant",
+      "content": "Để nấu phở ngon, bạn cần chú ý vào nước dùng. Hầm xương bò ít nhất 8-12 tiếng với gừng và hành nướng.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 302,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.63
+          },
+          {
+            "recipe_id": "850e8400-3162-4cfc-94fb-6635630de168",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.82
+          }
+        ],
+        "response_time_ms": 1717,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-12T10:53:00Z"
+    },
+    {
+      "id": "e50e8400-346a-4790-b495-9bfa9c10fada",
+      "chat_id": "d50e8400-8e9f-4108-b162-77bb0b825928",
+      "role": "user",
+      "content": "Mẹo để món ngon hơn?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-22T12:00:00Z"
+    },
+    {
+      "id": "e50e8400-abad-452b-9fe7-dcbe667732f8",
+      "chat_id": "d50e8400-8e9f-4108-b162-77bb0b825928",
+      "role": "assistant",
+      "content": "Món này có độ cay vừa phải. Bạn có thể bỏ ớt hoặc giảm lượng ớt.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 265,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.82
+          },
+          {
+            "recipe_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.7
+          },
+          {
+            "recipe_id": "850e8400-2664-4cc6-9108-1d69b6b6146f",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.68
+          },
+          {
+            "recipe_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.75
+          }
+        ],
+        "response_time_ms": 1860,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-47a0-4aa9-9957-967c584e8ffd.mp3"
+      },
+      "created_at": "2024-11-27T14:57:00Z"
+    },
+    {
+      "id": "e50e8400-ec45-43d7-8e84-8fb47bd77953",
+      "chat_id": "d50e8400-8e9f-4108-b162-77bb0b825928",
+      "role": "user",
+      "content": "Tôi cần chuẩn bị gì trước?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.9
+      },
+      "created_at": "2024-11-19T22:56:00Z"
+    },
+    {
+      "id": "e50e8400-7760-414a-a8d0-a68a643657a5",
+      "chat_id": "d50e8400-db9b-46aa-977b-4f06bed21879",
+      "role": "user",
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.93
+      },
+      "created_at": "2024-11-14T23:00:00Z"
+    },
+    {
+      "id": "e50e8400-1b7d-4fc1-b8aa-e58df9bb9f77",
+      "chat_id": "d50e8400-db9b-46aa-977b-4f06bed21879",
+      "role": "assistant",
+      "content": "Món này có độ cay vừa phải. Bạn có thể bỏ ớt hoặc giảm lượng ớt.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 524,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-1271-428b-9f63-ec0f757900a3",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.62
+          },
+          {
+            "recipe_id": "850e8400-4fb4-486b-87f2-13fdb06b35d8",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.78
+          }
+        ],
+        "response_time_ms": 2522,
+        "tts_generated": false,
+        "tts_audio_url": "https://storage.cooking.app/tts/audio-dd68-44c6-9676-fc7c11c809bf.mp3"
+      },
+      "created_at": "2024-12-14T08:57:00Z"
+    },
+    {
+      "id": "e50e8400-48b6-42b2-9657-052611c60b9d",
+      "chat_id": "d50e8400-db9b-46aa-977b-4f06bed21879",
+      "role": "user",
+      "content": "Món này có cay không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-10-08T05:56:00Z"
+    },
+    {
+      "id": "e50e8400-a92b-40b0-ab26-e8b8ced9ae12",
+      "chat_id": "d50e8400-15a0-4481-92da-cdc009005e15",
+      "role": "user",
+      "content": "Tôi có thể thay thế thịt bò bằng gì?",
+      "metadata": {
+        "voice_input": true,
+        "wake_word_triggered": false,
+        "transcription_confidence": null
+      },
+      "created_at": "2024-11-20T07:00:00Z"
+    },
+    {
+      "id": "e50e8400-6a54-4933-ad64-92132868a64a",
+      "chat_id": "d50e8400-15a0-4481-92da-cdc009005e15",
+      "role": "assistant",
+      "content": "Có thể! Nồi áp suất sẽ giảm thời gian nấu xuống còn 1/3.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 589,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.66
+          },
+          {
+            "recipe_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+            "title": "Phở Bò Hà Nội",
+            "similarity_score": 0.7
+          },
+          {
+            "recipe_id": "850e8400-da65-494b-8a26-def5c1f4be65",
+            "title": "Phở Gà",
+            "similarity_score": 0.69
+          }
+        ],
+        "response_time_ms": 1893,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-14T17:57:00Z"
+    },
+    {
+      "id": "e50e8400-2f6d-468d-b027-ff20e85da6bf",
+      "chat_id": "d50e8400-15a0-4481-92da-cdc009005e15",
+      "role": "user",
+      "content": "Món này có cay không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.89
+      },
+      "created_at": "2024-10-31T06:56:00Z"
+    },
+    {
+      "id": "e50e8400-016f-4b8c-b25e-5a66f1a6fb6a",
+      "chat_id": "d50e8400-15a0-4481-92da-cdc009005e15",
+      "role": "assistant",
+      "content": "Có! Món này phù hợp cho cả gia đình. Với trẻ em, bạn có thể giảm gia vị.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 532,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.65
+          },
+          {
+            "recipe_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.61
+          }
+        ],
+        "response_time_ms": 1076,
+        "tts_generated": true,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-12-07T05:53:00Z"
+    },
+    {
+      "id": "e50e8400-6b41-43d0-81d0-d4fdfcd7b488",
+      "chat_id": "d50e8400-15a0-4481-92da-cdc009005e15",
+      "role": "user",
+      "content": "Món này có cay không?",
+      "metadata": {
+        "voice_input": false,
+        "wake_word_triggered": false,
+        "transcription_confidence": 0.95
+      },
+      "created_at": "2024-10-06T15:52:00Z"
+    },
+    {
+      "id": "e50e8400-80d7-43d6-8f74-19d431f250f4",
+      "chat_id": "d50e8400-15a0-4481-92da-cdc009005e15",
+      "role": "assistant",
+      "content": "Có thể! Nồi áp suất sẽ giảm thời gian nấu xuống còn 1/3.",
+      "metadata": {
+        "model": "gpt-4o-mini",
+        "tokens_used": 742,
+        "rag_sources": [
+          {
+            "recipe_id": "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+            "title": "Bún Chả Hà Nội",
+            "similarity_score": 0.62
+          },
+          {
+            "recipe_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+            "title": "Bún Bò Huế",
+            "similarity_score": 0.86
+          },
+          {
+            "recipe_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+            "title": "Phở Gà",
+            "similarity_score": 0.75
+          },
+          {
+            "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+            "title": "Bún Riêu Cua",
+            "similarity_score": 0.69
+          }
+        ],
+        "response_time_ms": 2471,
+        "tts_generated": false,
+        "tts_audio_url": null
+      },
+      "created_at": "2024-10-12T17:49:00Z"
+    }
+  ]
+}

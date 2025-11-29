@@ -1,0 +1,4095 @@
+{
+  "ingredients": [
+    {
+      "id": "650e8400-32cd-49b1-92e2-f7f09832d620",
+      "name_vi": "Xương bò",
+      "name_en": "Beef bones",
+      "slug": "beef-bones",
+      "aliases_vi": [
+        "xương bò"
+      ],
+      "aliases_en": [
+        "beef bones"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/beef-bones.jpg",
+      "calories": 150,
+      "protein_g": 20,
+      "carbs_g": 0,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-c560-42d6-8a75-d4fc4dcd8dcf",
+      "name_vi": "Thịt bò",
+      "name_en": "Beef",
+      "slug": "beef",
+      "aliases_vi": [
+        "thịt bò"
+      ],
+      "aliases_en": [
+        "beef"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/beef.jpg",
+      "calories": 250,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 15,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-8c2a-405f-8f88-3c0f97edeaa4",
+      "name_vi": "Thịt gà",
+      "name_en": "Chicken",
+      "slug": "chicken",
+      "aliases_vi": [
+        "thịt gà"
+      ],
+      "aliases_en": [
+        "chicken"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/chicken.jpg",
+      "calories": 165,
+      "protein_g": 31,
+      "carbs_g": 0,
+      "fat_g": 3.6,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-e35b-4d0c-92c6-2fbe8c653d16",
+      "name_vi": "Thịt heo",
+      "name_en": "Pork",
+      "slug": "pork",
+      "aliases_vi": [
+        "thịt heo"
+      ],
+      "aliases_en": [
+        "pork"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/pork.jpg",
+      "calories": 242,
+      "protein_g": 27,
+      "carbs_g": 0,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-b44f-4529-9700-aba15f21a9a1",
+      "name_vi": "Thịt vịt",
+      "name_en": "Duck",
+      "slug": "duck",
+      "aliases_vi": [
+        "thịt vịt"
+      ],
+      "aliases_en": [
+        "duck"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/duck.jpg",
+      "calories": 337,
+      "protein_g": 19,
+      "carbs_g": 0,
+      "fat_g": 28,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-cd4d-4a2c-835c-b7114a7d87cf",
+      "name_vi": "Tôm",
+      "name_en": "Shrimp",
+      "slug": "shrimp",
+      "aliases_vi": [
+        "tôm"
+      ],
+      "aliases_en": [
+        "shrimp"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/shrimp.jpg",
+      "calories": 99,
+      "protein_g": 24,
+      "carbs_g": 0.2,
+      "fat_g": 0.3,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "shellfish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-8a74-42eb-aa0d-315c1e37a25b",
+      "name_vi": "Cá hồi",
+      "name_en": "Salmon",
+      "slug": "salmon",
+      "aliases_vi": [
+        "cá hồi"
+      ],
+      "aliases_en": [
+        "salmon"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/salmon.jpg",
+      "calories": 208,
+      "protein_g": 20,
+      "carbs_g": 0,
+      "fat_g": 13,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "fish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-d9e2-4c94-895a-c0cc22003bf2",
+      "name_vi": "Cá rô phi",
+      "name_en": "Tilapia",
+      "slug": "tilapia",
+      "aliases_vi": [
+        "cá rô phi"
+      ],
+      "aliases_en": [
+        "tilapia"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/tilapia.jpg",
+      "calories": 128,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 2.7,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "fish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-4813-4a69-8cc7-ed642e875798",
+      "name_vi": "Mực",
+      "name_en": "Squid",
+      "slug": "squid",
+      "aliases_vi": [
+        "mực"
+      ],
+      "aliases_en": [
+        "squid"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/squid.jpg",
+      "calories": 92,
+      "protein_g": 15.6,
+      "carbs_g": 3.1,
+      "fat_g": 1.4,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "shellfish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-ba4a-431e-91db-ca0bbb73534c",
+      "name_vi": "Nghêu",
+      "name_en": "Clams",
+      "slug": "clams",
+      "aliases_vi": [
+        "nghêu"
+      ],
+      "aliases_en": [
+        "clams"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/clams.jpg",
+      "calories": 74,
+      "protein_g": 12.8,
+      "carbs_g": 2.6,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "shellfish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-c719-4d3b-8e46-b20fff54ad0e",
+      "name_vi": "Trứng gà",
+      "name_en": "Chicken egg",
+      "slug": "chicken-egg",
+      "aliases_vi": [
+        "trứng gà"
+      ],
+      "aliases_en": [
+        "chicken egg"
+      ],
+      "category": "dairy",
+      "image_url": "https://storage.cooking.app/ingredients/chicken-egg.jpg",
+      "calories": 155,
+      "protein_g": 13,
+      "carbs_g": 1.1,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false,
+      "allergens": [
+        "egg"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-8123-435b-a90f-2f7fb583d2fd",
+      "name_vi": "Trứng vịt",
+      "name_en": "Duck egg",
+      "slug": "duck-egg",
+      "aliases_vi": [
+        "trứng vịt"
+      ],
+      "aliases_en": [
+        "duck egg"
+      ],
+      "category": "dairy",
+      "image_url": "https://storage.cooking.app/ingredients/duck-egg.jpg",
+      "calories": 185,
+      "protein_g": 13,
+      "carbs_g": 1.4,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false,
+      "allergens": [
+        "egg"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-3d89-4933-b730-9084110a79e2",
+      "name_vi": "Đậu phụ",
+      "name_en": "Tofu",
+      "slug": "tofu",
+      "aliases_vi": [
+        "đậu phụ"
+      ],
+      "aliases_en": [
+        "tofu"
+      ],
+      "category": "protein",
+      "image_url": "https://storage.cooking.app/ingredients/tofu.jpg",
+      "calories": 76,
+      "protein_g": 8,
+      "carbs_g": 1.9,
+      "fat_g": 4.8,
+      "fiber_g": 0.3,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "soy"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-63e6-4a1d-a7e6-d06f041e5a33",
+      "name_vi": "Đậu hũ non",
+      "name_en": "Silken tofu",
+      "slug": "silken-tofu",
+      "aliases_vi": [
+        "đậu hũ non"
+      ],
+      "aliases_en": [
+        "silken tofu"
+      ],
+      "category": "protein",
+      "image_url": "https://storage.cooking.app/ingredients/silken-tofu.jpg",
+      "calories": 55,
+      "protein_g": 4.8,
+      "carbs_g": 2.7,
+      "fat_g": 2.7,
+      "fiber_g": 0.2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "soy"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-8590-4efc-810b-ab34b1b91f7d",
+      "name_vi": "Chả cá",
+      "name_en": "Fish cake",
+      "slug": "fish-cake",
+      "aliases_vi": [
+        "chả cá"
+      ],
+      "aliases_en": [
+        "fish cake"
+      ],
+      "category": "processed",
+      "image_url": "https://storage.cooking.app/ingredients/fish-cake.jpg",
+      "calories": 113,
+      "protein_g": 12,
+      "carbs_g": 7.5,
+      "fat_g": 4.5,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [
+        "fish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-dbb3-46e8-8b36-3fb97a9fcc99",
+      "name_vi": "Chả lụa",
+      "name_en": "Vietnamese pork roll",
+      "slug": "vietnamese-pork-roll",
+      "aliases_vi": [
+        "chả lụa"
+      ],
+      "aliases_en": [
+        "vietnamese pork roll"
+      ],
+      "category": "processed",
+      "image_url": "https://storage.cooking.app/ingredients/vietnamese-pork-roll.jpg",
+      "calories": 160,
+      "protein_g": 14,
+      "carbs_g": 6,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7432-47a1-9c41-3f14d9b69469",
+      "name_vi": "Thịt xông khói",
+      "name_en": "Bacon",
+      "slug": "bacon",
+      "aliases_vi": [
+        "thịt xông khói"
+      ],
+      "aliases_en": [
+        "bacon"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/bacon.jpg",
+      "calories": 541,
+      "protein_g": 37,
+      "carbs_g": 1.4,
+      "fat_g": 42,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-260e-4260-be6a-0a88b6a4ef57",
+      "name_vi": "Xúc xích",
+      "name_en": "Sausage",
+      "slug": "sausage",
+      "aliases_vi": [
+        "xúc xích"
+      ],
+      "aliases_en": [
+        "sausage"
+      ],
+      "category": "processed",
+      "image_url": "https://storage.cooking.app/ingredients/sausage.jpg",
+      "calories": 301,
+      "protein_g": 12,
+      "carbs_g": 3.5,
+      "fat_g": 27,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-3a82-42de-ac4b-50472f78f0f0",
+      "name_vi": "Sườn heo",
+      "name_en": "Pork ribs",
+      "slug": "pork-ribs",
+      "aliases_vi": [
+        "sườn heo"
+      ],
+      "aliases_en": [
+        "pork ribs"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/pork-ribs.jpg",
+      "calories": 277,
+      "protein_g": 27,
+      "carbs_g": 0,
+      "fat_g": 18,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-ca5c-479d-8cec-fd45e7fa8b80",
+      "name_vi": "Thăn bò",
+      "name_en": "Beef tenderloin",
+      "slug": "beef-tenderloin",
+      "aliases_vi": [
+        "thăn bò"
+      ],
+      "aliases_en": [
+        "beef tenderloin"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/beef-tenderloin.jpg",
+      "calories": 201,
+      "protein_g": 29,
+      "carbs_g": 0,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-ff64-4660-9d35-1c2551a8cffd",
+      "name_vi": "Cà chua",
+      "name_en": "Tomato",
+      "slug": "tomato",
+      "aliases_vi": [
+        "cà chua"
+      ],
+      "aliases_en": [
+        "tomato"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/tomato.jpg",
+      "calories": 18,
+      "protein_g": 0.9,
+      "carbs_g": 3.9,
+      "fat_g": 0.2,
+      "fiber_g": 1.2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-dea5-46e3-93ee-267bb74224e3",
+      "name_vi": "Hành tây",
+      "name_en": "Onion",
+      "slug": "onion",
+      "aliases_vi": [
+        "hành tây"
+      ],
+      "aliases_en": [
+        "onion"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/onion.jpg",
+      "calories": 40,
+      "protein_g": 1.1,
+      "carbs_g": 9.3,
+      "fat_g": 0.1,
+      "fiber_g": 1.7,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-88f2-4138-9fdc-c338c2b38391",
+      "name_vi": "Tỏi",
+      "name_en": "Garlic",
+      "slug": "garlic",
+      "aliases_vi": [
+        "tỏi"
+      ],
+      "aliases_en": [
+        "garlic"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/garlic.jpg",
+      "calories": 149,
+      "protein_g": 6.4,
+      "carbs_g": 33,
+      "fat_g": 0.5,
+      "fiber_g": 2.1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-ca29-4034-9b6d-86fd972c916d",
+      "name_vi": "Gừng",
+      "name_en": "Ginger",
+      "slug": "ginger",
+      "aliases_vi": [
+        "gừng"
+      ],
+      "aliases_en": [
+        "ginger"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/ginger.jpg",
+      "calories": 80,
+      "protein_g": 1.8,
+      "carbs_g": 18,
+      "fat_g": 0.8,
+      "fiber_g": 2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-b832-491e-812d-17aa4d4c74ba",
+      "name_vi": "Ớt",
+      "name_en": "Chili pepper",
+      "slug": "chili-pepper",
+      "aliases_vi": [
+        "ớt"
+      ],
+      "aliases_en": [
+        "chili pepper"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/chili-pepper.jpg",
+      "calories": 40,
+      "protein_g": 1.9,
+      "carbs_g": 8.8,
+      "fat_g": 0.4,
+      "fiber_g": 1.5,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-881b-4827-b85d-cc7be88b1cdd",
+      "name_vi": "Cà rốt",
+      "name_en": "Carrot",
+      "slug": "carrot",
+      "aliases_vi": [
+        "cà rốt"
+      ],
+      "aliases_en": [
+        "carrot"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/carrot.jpg",
+      "calories": 41,
+      "protein_g": 0.9,
+      "carbs_g": 10,
+      "fat_g": 0.2,
+      "fiber_g": 2.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-3a63-407c-95f6-732fc9b0cf01",
+      "name_vi": "Khoai tây",
+      "name_en": "Potato",
+      "slug": "potato",
+      "aliases_vi": [
+        "khoai tây"
+      ],
+      "aliases_en": [
+        "potato"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/potato.jpg",
+      "calories": 77,
+      "protein_g": 2,
+      "carbs_g": 17,
+      "fat_g": 0.1,
+      "fiber_g": 2.1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-d913-4b69-9d4b-c1fdece5434a",
+      "name_vi": "Khoai lang",
+      "name_en": "Sweet potato",
+      "slug": "sweet-potato",
+      "aliases_vi": [
+        "khoai lang"
+      ],
+      "aliases_en": [
+        "sweet potato"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/sweet-potato.jpg",
+      "calories": 86,
+      "protein_g": 1.6,
+      "carbs_g": 20,
+      "fat_g": 0.1,
+      "fiber_g": 3,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-563b-4c90-8090-c9e1d64b6fd6",
+      "name_vi": "Bí đỏ",
+      "name_en": "Pumpkin",
+      "slug": "pumpkin",
+      "aliases_vi": [
+        "bí đỏ"
+      ],
+      "aliases_en": [
+        "pumpkin"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/pumpkin.jpg",
+      "calories": 26,
+      "protein_g": 1,
+      "carbs_g": 6.5,
+      "fat_g": 0.1,
+      "fiber_g": 0.5,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-4dac-4599-820f-9e9bba91f850",
+      "name_vi": "Bí ngòi",
+      "name_en": "Zucchini",
+      "slug": "zucchini",
+      "aliases_vi": [
+        "bí ngòi"
+      ],
+      "aliases_en": [
+        "zucchini"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/zucchini.jpg",
+      "calories": 17,
+      "protein_g": 1.2,
+      "carbs_g": 3.1,
+      "fat_g": 0.3,
+      "fiber_g": 1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-40a1-4b67-b52a-b88a521045d1",
+      "name_vi": "Dưa chuột",
+      "name_en": "Cucumber",
+      "slug": "cucumber",
+      "aliases_vi": [
+        "dưa chuột"
+      ],
+      "aliases_en": [
+        "cucumber"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/cucumber.jpg",
+      "calories": 15,
+      "protein_g": 0.7,
+      "carbs_g": 3.6,
+      "fat_g": 0.1,
+      "fiber_g": 0.5,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-a118-4f30-9eae-2d1cdc0699c8",
+      "name_vi": "Cải thảo",
+      "name_en": "Napa cabbage",
+      "slug": "napa-cabbage",
+      "aliases_vi": [
+        "cải thảo"
+      ],
+      "aliases_en": [
+        "napa cabbage"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/napa-cabbage.jpg",
+      "calories": 16,
+      "protein_g": 1.2,
+      "carbs_g": 3.2,
+      "fat_g": 0.2,
+      "fiber_g": 1.2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-a81f-4b09-a6b7-627ffb03ae7e",
+      "name_vi": "Bắp cải",
+      "name_en": "Cabbage",
+      "slug": "cabbage",
+      "aliases_vi": [
+        "bắp cải"
+      ],
+      "aliases_en": [
+        "cabbage"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/cabbage.jpg",
+      "calories": 25,
+      "protein_g": 1.3,
+      "carbs_g": 5.8,
+      "fat_g": 0.1,
+      "fiber_g": 2.5,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-3f2e-49a5-bb14-fec42cf055ab",
+      "name_vi": "Rau muống",
+      "name_en": "Water spinach",
+      "slug": "water-spinach",
+      "aliases_vi": [
+        "rau muống"
+      ],
+      "aliases_en": [
+        "water spinach"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/water-spinach.jpg",
+      "calories": 19,
+      "protein_g": 2.6,
+      "carbs_g": 3.1,
+      "fat_g": 0.2,
+      "fiber_g": 2.1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-c00f-466f-ab92-f58e481e04ab",
+      "name_vi": "Rau ngót",
+      "name_en": "Sweet leaf",
+      "slug": "sweet-leaf",
+      "aliases_vi": [
+        "rau ngót"
+      ],
+      "aliases_en": [
+        "sweet leaf"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/sweet-leaf.jpg",
+      "calories": 31,
+      "protein_g": 4.3,
+      "carbs_g": 5.1,
+      "fat_g": 0.4,
+      "fiber_g": 1.5,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-bad8-478f-bd96-b942f0b56e77",
+      "name_vi": "Rau diếp",
+      "name_en": "Lettuce",
+      "slug": "lettuce",
+      "aliases_vi": [
+        "rau diếp"
+      ],
+      "aliases_en": [
+        "lettuce"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/lettuce.jpg",
+      "calories": 15,
+      "protein_g": 1.4,
+      "carbs_g": 2.9,
+      "fat_g": 0.2,
+      "fiber_g": 1.3,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7c81-48f0-9adf-833fc7a2bc40",
+      "name_vi": "Giá đỗ",
+      "name_en": "Bean sprouts",
+      "slug": "bean-sprouts",
+      "aliases_vi": [
+        "giá đỗ"
+      ],
+      "aliases_en": [
+        "bean sprouts"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/bean-sprouts.jpg",
+      "calories": 30,
+      "protein_g": 3.0,
+      "carbs_g": 5.9,
+      "fat_g": 0.2,
+      "fiber_g": 1.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-c6ab-4ed2-b0e3-95f6ab9a0a2f",
+      "name_vi": "Hành lá",
+      "name_en": "Spring onion",
+      "slug": "spring-onion",
+      "aliases_vi": [
+        "hành lá"
+      ],
+      "aliases_en": [
+        "spring onion"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/spring-onion.jpg",
+      "calories": 32,
+      "protein_g": 1.8,
+      "carbs_g": 7.3,
+      "fat_g": 0.2,
+      "fiber_g": 2.6,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-5127-4030-b7bc-6e258d58af7e",
+      "name_vi": "Húng quế",
+      "name_en": "Basil",
+      "slug": "basil",
+      "aliases_vi": [
+        "húng quế"
+      ],
+      "aliases_en": [
+        "basil"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/basil.jpg",
+      "calories": 23,
+      "protein_g": 3.2,
+      "carbs_g": 2.7,
+      "fat_g": 0.6,
+      "fiber_g": 1.6,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-02e5-483f-9ce1-d5a64fda3990",
+      "name_vi": "Ngò rí",
+      "name_en": "Cilantro",
+      "slug": "cilantro",
+      "aliases_vi": [
+        "ngò rí"
+      ],
+      "aliases_en": [
+        "cilantro"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/cilantro.jpg",
+      "calories": 23,
+      "protein_g": 2.1,
+      "carbs_g": 3.7,
+      "fat_g": 0.5,
+      "fiber_g": 2.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-247a-486e-acbc-9711ffffabce",
+      "name_vi": "Rau thơm",
+      "name_en": "Vietnamese herbs",
+      "slug": "vietnamese-herbs",
+      "aliases_vi": [
+        "rau thơm"
+      ],
+      "aliases_en": [
+        "vietnamese herbs"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/vietnamese-herbs.jpg",
+      "calories": 25,
+      "protein_g": 2.5,
+      "carbs_g": 4,
+      "fat_g": 0.5,
+      "fiber_g": 2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-f7fd-4cce-ac1e-c9cd264a2acb",
+      "name_vi": "Bông cải xanh",
+      "name_en": "Broccoli",
+      "slug": "broccoli",
+      "aliases_vi": [
+        "bông cải xanh"
+      ],
+      "aliases_en": [
+        "broccoli"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/broccoli.jpg",
+      "calories": 34,
+      "protein_g": 2.8,
+      "carbs_g": 7,
+      "fat_g": 0.4,
+      "fiber_g": 2.6,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-d9b5-41a7-8ebb-fb5fdb490f23",
+      "name_vi": "Cà tím",
+      "name_en": "Eggplant",
+      "slug": "eggplant",
+      "aliases_vi": [
+        "cà tím"
+      ],
+      "aliases_en": [
+        "eggplant"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/eggplant.jpg",
+      "calories": 25,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 0.2,
+      "fiber_g": 3,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-0413-4e0d-aca5-f52b480acdef",
+      "name_vi": "Đậu cove",
+      "name_en": "Snow peas",
+      "slug": "snow-peas",
+      "aliases_vi": [
+        "đậu cove"
+      ],
+      "aliases_en": [
+        "snow peas"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/snow-peas.jpg",
+      "calories": 42,
+      "protein_g": 2.8,
+      "carbs_g": 7.6,
+      "fat_g": 0.2,
+      "fiber_g": 2.6,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-73f7-438e-9de6-621306b6e611",
+      "name_vi": "Măng",
+      "name_en": "Bamboo shoots",
+      "slug": "bamboo-shoots",
+      "aliases_vi": [
+        "măng"
+      ],
+      "aliases_en": [
+        "bamboo shoots"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/bamboo-shoots.jpg",
+      "calories": 27,
+      "protein_g": 2.6,
+      "carbs_g": 5.2,
+      "fat_g": 0.3,
+      "fiber_g": 2.2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-afe6-499d-928d-493fe63cadee",
+      "name_vi": "Nấm rơm",
+      "name_en": "Straw mushroom",
+      "slug": "straw-mushroom",
+      "aliases_vi": [
+        "nấm rơm"
+      ],
+      "aliases_en": [
+        "straw mushroom"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/straw-mushroom.jpg",
+      "calories": 26,
+      "protein_g": 2.8,
+      "carbs_g": 4,
+      "fat_g": 0.4,
+      "fiber_g": 1.6,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-1919-4318-8a07-f63760ce83a3",
+      "name_vi": "Nấm hương",
+      "name_en": "Shiitake",
+      "slug": "shiitake",
+      "aliases_vi": [
+        "nấm hương"
+      ],
+      "aliases_en": [
+        "shiitake"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/shiitake.jpg",
+      "calories": 34,
+      "protein_g": 2.2,
+      "carbs_g": 7,
+      "fat_g": 0.5,
+      "fiber_g": 2.5,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-815f-4b9d-ba01-f26d760253a8",
+      "name_vi": "Hạt sen",
+      "name_en": "Lotus seeds",
+      "slug": "lotus-seeds",
+      "aliases_vi": [
+        "hạt sen"
+      ],
+      "aliases_en": [
+        "lotus seeds"
+      ],
+      "category": "grain",
+      "image_url": "https://storage.cooking.app/ingredients/lotus-seeds.jpg",
+      "calories": 89,
+      "protein_g": 4.1,
+      "carbs_g": 20,
+      "fat_g": 0.5,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-0893-472a-8389-e6f7ffb640ed",
+      "name_vi": "Củ sen",
+      "name_en": "Lotus root",
+      "slug": "lotus-root",
+      "aliases_vi": [
+        "củ sen"
+      ],
+      "aliases_en": [
+        "lotus root"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/lotus-root.jpg",
+      "calories": 74,
+      "protein_g": 2.6,
+      "carbs_g": 17,
+      "fat_g": 0.1,
+      "fiber_g": 4.9,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-1330-42f1-b291-a0ae7204b49b",
+      "name_vi": "Rau má",
+      "name_en": "Pennywort",
+      "slug": "pennywort",
+      "aliases_vi": [
+        "rau má"
+      ],
+      "aliases_en": [
+        "pennywort"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/pennywort.jpg",
+      "calories": 20,
+      "protein_g": 1.8,
+      "carbs_g": 3.9,
+      "fat_g": 0.1,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-d890-4c34-9bcf-8fadc228fecd",
+      "name_vi": "Gạo tẻ",
+      "name_en": "White rice",
+      "slug": "white-rice",
+      "aliases_vi": [
+        "gạo tẻ"
+      ],
+      "aliases_en": [
+        "white rice"
+      ],
+      "category": "grain",
+      "image_url": "https://storage.cooking.app/ingredients/white-rice.jpg",
+      "calories": 130,
+      "protein_g": 2.7,
+      "carbs_g": 28,
+      "fat_g": 0.3,
+      "fiber_g": 0.4,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-abea-43b5-b7d4-262246113319",
+      "name_vi": "Gạo nếp",
+      "name_en": "Glutinous rice",
+      "slug": "glutinous-rice",
+      "aliases_vi": [
+        "gạo nếp"
+      ],
+      "aliases_en": [
+        "glutinous rice"
+      ],
+      "category": "grain",
+      "image_url": "https://storage.cooking.app/ingredients/glutinous-rice.jpg",
+      "calories": 97,
+      "protein_g": 2,
+      "carbs_g": 21,
+      "fat_g": 0.2,
+      "fiber_g": 0.9,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-ca72-4a13-a0ce-b8e560f58bb7",
+      "name_vi": "Bánh phở",
+      "name_en": "Pho noodles",
+      "slug": "pho-noodles",
+      "aliases_vi": [
+        "bánh phở"
+      ],
+      "aliases_en": [
+        "pho noodles"
+      ],
+      "category": "noodle",
+      "image_url": "https://storage.cooking.app/ingredients/pho-noodles.jpg",
+      "calories": 109,
+      "protein_g": 1.8,
+      "carbs_g": 24,
+      "fat_g": 0.2,
+      "fiber_g": 1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-c22e-4841-af39-5aa0d8ba9989",
+      "name_vi": "Bún",
+      "name_en": "Rice vermicelli",
+      "slug": "rice-vermicelli",
+      "aliases_vi": [
+        "bún"
+      ],
+      "aliases_en": [
+        "rice vermicelli"
+      ],
+      "category": "noodle",
+      "image_url": "https://storage.cooking.app/ingredients/rice-vermicelli.jpg",
+      "calories": 192,
+      "protein_g": 1.7,
+      "carbs_g": 44,
+      "fat_g": 0.1,
+      "fiber_g": 0.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7a75-49b1-8528-cd33fcfdef6f",
+      "name_vi": "Mì trứng",
+      "name_en": "Egg noodles",
+      "slug": "egg-noodles",
+      "aliases_vi": [
+        "mì trứng"
+      ],
+      "aliases_en": [
+        "egg noodles"
+      ],
+      "category": "noodle",
+      "image_url": "https://storage.cooking.app/ingredients/egg-noodles.jpg",
+      "calories": 138,
+      "protein_g": 4.5,
+      "carbs_g": 25,
+      "fat_g": 2.1,
+      "fiber_g": 0.9,
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false,
+      "allergens": [
+        "egg",
+        "gluten"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-924f-4472-8409-43d7c56258cc",
+      "name_vi": "Miến",
+      "name_en": "Glass noodles",
+      "slug": "glass-noodles",
+      "aliases_vi": [
+        "miến"
+      ],
+      "aliases_en": [
+        "glass noodles"
+      ],
+      "category": "noodle",
+      "image_url": "https://storage.cooking.app/ingredients/glass-noodles.jpg",
+      "calories": 351,
+      "protein_g": 0.2,
+      "carbs_g": 86,
+      "fat_g": 0,
+      "fiber_g": 0.5,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-3c1b-4fc4-9bd6-2414f11ee388",
+      "name_vi": "Bánh canh",
+      "name_en": "Thick noodles",
+      "slug": "thick-noodles",
+      "aliases_vi": [
+        "bánh canh"
+      ],
+      "aliases_en": [
+        "thick noodles"
+      ],
+      "category": "noodle",
+      "image_url": "https://storage.cooking.app/ingredients/thick-noodles.jpg",
+      "calories": 88,
+      "protein_g": 1.5,
+      "carbs_g": 20,
+      "fat_g": 0.1,
+      "fiber_g": 0.7,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-cfb8-4f65-97cd-cb1a8d6b3f29",
+      "name_vi": "Bánh tráng",
+      "name_en": "Rice paper",
+      "slug": "rice-paper",
+      "aliases_vi": [
+        "bánh tráng"
+      ],
+      "aliases_en": [
+        "rice paper"
+      ],
+      "category": "wrap",
+      "image_url": "https://storage.cooking.app/ingredients/rice-paper.jpg",
+      "calories": 333,
+      "protein_g": 0.6,
+      "carbs_g": 83,
+      "fat_g": 0.3,
+      "fiber_g": 1.3,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-471d-4710-920d-136dfe279576",
+      "name_vi": "Bánh mì",
+      "name_en": "Baguette",
+      "slug": "baguette",
+      "aliases_vi": [
+        "bánh mì"
+      ],
+      "aliases_en": [
+        "baguette"
+      ],
+      "category": "bread",
+      "image_url": "https://storage.cooking.app/ingredients/baguette.jpg",
+      "calories": 265,
+      "protein_g": 9,
+      "carbs_g": 49,
+      "fat_g": 3.2,
+      "fiber_g": 2.7,
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [
+        "gluten"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-f010-4e24-aeb2-d44fa1728642",
+      "name_vi": "Bột mì",
+      "name_en": "Wheat flour",
+      "slug": "wheat-flour",
+      "aliases_vi": [
+        "bột mì"
+      ],
+      "aliases_en": [
+        "wheat flour"
+      ],
+      "category": "grain",
+      "image_url": "https://storage.cooking.app/ingredients/wheat-flour.jpg",
+      "calories": 364,
+      "protein_g": 10,
+      "carbs_g": 76,
+      "fat_g": 1,
+      "fiber_g": 2.7,
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [
+        "gluten"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-23da-4928-ba00-1418bc4326a2",
+      "name_vi": "Bột năng",
+      "name_en": "Tapioca starch",
+      "slug": "tapioca-starch",
+      "aliases_vi": [
+        "bột năng"
+      ],
+      "aliases_en": [
+        "tapioca starch"
+      ],
+      "category": "grain",
+      "image_url": "https://storage.cooking.app/ingredients/tapioca-starch.jpg",
+      "calories": 358,
+      "protein_g": 0.2,
+      "carbs_g": 88,
+      "fat_g": 0,
+      "fiber_g": 1.1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-0fe8-4d22-a4f1-67f54bf6d427",
+      "name_vi": "Bột nếp",
+      "name_en": "Glutinous rice flour",
+      "slug": "glutinous-rice-flour",
+      "aliases_vi": [
+        "bột nếp"
+      ],
+      "aliases_en": [
+        "glutinous rice flour"
+      ],
+      "category": "grain",
+      "image_url": "https://storage.cooking.app/ingredients/glutinous-rice-flour.jpg",
+      "calories": 366,
+      "protein_g": 6.4,
+      "carbs_g": 80,
+      "fat_g": 1.4,
+      "fiber_g": 2.4,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-2fff-4837-82d6-a3fa9f618d16",
+      "name_vi": "Yến mạch",
+      "name_en": "Oats",
+      "slug": "oats",
+      "aliases_vi": [
+        "yến mạch"
+      ],
+      "aliases_en": [
+        "oats"
+      ],
+      "category": "grain",
+      "image_url": "https://storage.cooking.app/ingredients/oats.jpg",
+      "calories": 389,
+      "protein_g": 17,
+      "carbs_g": 66,
+      "fat_g": 7,
+      "fiber_g": 11,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-f627-4552-b94b-98cda34161ea",
+      "name_vi": "Ngũ cốc",
+      "name_en": "Cereal",
+      "slug": "cereal",
+      "aliases_vi": [
+        "ngũ cốc"
+      ],
+      "aliases_en": [
+        "cereal"
+      ],
+      "category": "grain",
+      "image_url": "https://storage.cooking.app/ingredients/cereal.jpg",
+      "calories": 379,
+      "protein_g": 8,
+      "carbs_g": 84,
+      "fat_g": 2,
+      "fiber_g": 7,
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [
+        "gluten"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-a1e5-4d0a-b24e-ae38929a0d62",
+      "name_vi": "Quinoa",
+      "name_en": "Quinoa",
+      "slug": "quinoa",
+      "aliases_vi": [
+        "quinoa"
+      ],
+      "aliases_en": [
+        "quinoa"
+      ],
+      "category": "grain",
+      "image_url": "https://storage.cooking.app/ingredients/quinoa.jpg",
+      "calories": 120,
+      "protein_g": 4.4,
+      "carbs_g": 21,
+      "fat_g": 1.9,
+      "fiber_g": 2.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-3c4f-4020-b7f8-523a601f3098",
+      "name_vi": "Muối",
+      "name_en": "Salt",
+      "slug": "salt",
+      "aliases_vi": [
+        "muối"
+      ],
+      "aliases_en": [
+        "salt"
+      ],
+      "category": "seasoning",
+      "image_url": "https://storage.cooking.app/ingredients/salt.jpg",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-4972-423e-8c6b-9a309a736b5f",
+      "name_vi": "Đường",
+      "name_en": "Sugar",
+      "slug": "sugar",
+      "aliases_vi": [
+        "đường"
+      ],
+      "aliases_en": [
+        "sugar"
+      ],
+      "category": "seasoning",
+      "image_url": "https://storage.cooking.app/ingredients/sugar.jpg",
+      "calories": 387,
+      "protein_g": 0,
+      "carbs_g": 100,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-1d77-48fa-85e9-586ecb96866b",
+      "name_vi": "Nước mắm",
+      "name_en": "Fish sauce",
+      "slug": "fish-sauce",
+      "aliases_vi": [
+        "nước mắm"
+      ],
+      "aliases_en": [
+        "fish sauce"
+      ],
+      "category": "sauce",
+      "image_url": "https://storage.cooking.app/ingredients/fish-sauce.jpg",
+      "calories": 35,
+      "protein_g": 5.6,
+      "carbs_g": 3.6,
+      "fat_g": 0.1,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "fish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-6065-405d-a6a4-df103b966e6b",
+      "name_vi": "Tương ớt",
+      "name_en": "Sriracha",
+      "slug": "sriracha",
+      "aliases_vi": [
+        "tương ớt"
+      ],
+      "aliases_en": [
+        "sriracha"
+      ],
+      "category": "sauce",
+      "image_url": "https://storage.cooking.app/ingredients/sriracha.jpg",
+      "calories": 93,
+      "protein_g": 1.8,
+      "carbs_g": 18,
+      "fat_g": 1.1,
+      "fiber_g": 1.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-c7f5-4773-9dd8-51253d3f38bc",
+      "name_vi": "Tương đen",
+      "name_en": "Soy sauce",
+      "slug": "soy-sauce",
+      "aliases_vi": [
+        "tương đen"
+      ],
+      "aliases_en": [
+        "soy sauce"
+      ],
+      "category": "sauce",
+      "image_url": "https://storage.cooking.app/ingredients/soy-sauce.jpg",
+      "calories": 53,
+      "protein_g": 5.6,
+      "carbs_g": 4.9,
+      "fat_g": 0.1,
+      "fiber_g": 0.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [
+        "soy"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-8f27-4f9e-b464-abbd27e07976",
+      "name_vi": "Dầu ăn",
+      "name_en": "Cooking oil",
+      "slug": "cooking-oil",
+      "aliases_vi": [
+        "dầu ăn"
+      ],
+      "aliases_en": [
+        "cooking oil"
+      ],
+      "category": "oil",
+      "image_url": "https://storage.cooking.app/ingredients/cooking-oil.jpg",
+      "calories": 884,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 100,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-d108-4545-82c0-ea17628b9ece",
+      "name_vi": "Dầu mè",
+      "name_en": "Sesame oil",
+      "slug": "sesame-oil",
+      "aliases_vi": [
+        "dầu mè"
+      ],
+      "aliases_en": [
+        "sesame oil"
+      ],
+      "category": "oil",
+      "image_url": "https://storage.cooking.app/ingredients/sesame-oil.jpg",
+      "calories": 884,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 100,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-6dd4-4aae-b187-61dfd79cd83f",
+      "name_vi": "Dầu ô liu",
+      "name_en": "Olive oil",
+      "slug": "olive-oil",
+      "aliases_vi": [
+        "dầu ô liu"
+      ],
+      "aliases_en": [
+        "olive oil"
+      ],
+      "category": "oil",
+      "image_url": "https://storage.cooking.app/ingredients/olive-oil.jpg",
+      "calories": 884,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 100,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-3b72-4370-bddb-06af40124268",
+      "name_vi": "Giấm",
+      "name_en": "Vinegar",
+      "slug": "vinegar",
+      "aliases_vi": [
+        "giấm"
+      ],
+      "aliases_en": [
+        "vinegar"
+      ],
+      "category": "seasoning",
+      "image_url": "https://storage.cooking.app/ingredients/vinegar.jpg",
+      "calories": 18,
+      "protein_g": 0,
+      "carbs_g": 0.04,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7b9a-446b-83f3-4071d2c7bb79",
+      "name_vi": "Nước cốt dừa",
+      "name_en": "Coconut milk",
+      "slug": "coconut-milk",
+      "aliases_vi": [
+        "nước cốt dừa"
+      ],
+      "aliases_en": [
+        "coconut milk"
+      ],
+      "category": "dairy",
+      "image_url": "https://storage.cooking.app/ingredients/coconut-milk.jpg",
+      "calories": 230,
+      "protein_g": 2.3,
+      "carbs_g": 6,
+      "fat_g": 24,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-f607-4169-bbc2-16c1c889b2f8",
+      "name_vi": "Sữa tươi",
+      "name_en": "Milk",
+      "slug": "milk",
+      "aliases_vi": [
+        "sữa tươi"
+      ],
+      "aliases_en": [
+        "milk"
+      ],
+      "category": "dairy",
+      "image_url": "https://storage.cooking.app/ingredients/milk.jpg",
+      "calories": 61,
+      "protein_g": 3.2,
+      "carbs_g": 4.8,
+      "fat_g": 3.3,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false,
+      "allergens": [
+        "dairy"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-9726-4417-bbcb-be21b04e862a",
+      "name_vi": "Kem tươi",
+      "name_en": "Heavy cream",
+      "slug": "heavy-cream",
+      "aliases_vi": [
+        "kem tươi"
+      ],
+      "aliases_en": [
+        "heavy cream"
+      ],
+      "category": "dairy",
+      "image_url": "https://storage.cooking.app/ingredients/heavy-cream.jpg",
+      "calories": 340,
+      "protein_g": 2.1,
+      "carbs_g": 3.4,
+      "fat_g": 36,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false,
+      "allergens": [
+        "dairy"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-4f7a-495b-b671-fff6d295bcde",
+      "name_vi": "Bơ",
+      "name_en": "Butter",
+      "slug": "butter",
+      "aliases_vi": [
+        "bơ"
+      ],
+      "aliases_en": [
+        "butter"
+      ],
+      "category": "dairy",
+      "image_url": "https://storage.cooking.app/ingredients/butter.jpg",
+      "calories": 717,
+      "protein_g": 0.9,
+      "carbs_g": 0.1,
+      "fat_g": 81,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false,
+      "allergens": [
+        "dairy"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-62fb-41f9-ba6b-3580f9c06860",
+      "name_vi": "Tỏi phi",
+      "name_en": "Fried garlic",
+      "slug": "fried-garlic",
+      "aliases_vi": [
+        "tỏi phi"
+      ],
+      "aliases_en": [
+        "fried garlic"
+      ],
+      "category": "seasoning",
+      "image_url": "https://storage.cooking.app/ingredients/fried-garlic.jpg",
+      "calories": 458,
+      "protein_g": 12,
+      "carbs_g": 59,
+      "fat_g": 20,
+      "fiber_g": 3.6,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-74bd-4b24-8151-800979a3c050",
+      "name_vi": "Hạt nêm",
+      "name_en": "Seasoning powder",
+      "slug": "seasoning-powder",
+      "aliases_vi": [
+        "hạt nêm"
+      ],
+      "aliases_en": [
+        "seasoning powder"
+      ],
+      "category": "seasoning",
+      "image_url": "https://storage.cooking.app/ingredients/seasoning-powder.jpg",
+      "calories": 180,
+      "protein_g": 8,
+      "carbs_g": 32,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-66c1-4ba3-8925-750f119d0ee6",
+      "name_vi": "Bột ngọt",
+      "name_en": "MSG",
+      "slug": "msg",
+      "aliases_vi": [
+        "bột ngọt"
+      ],
+      "aliases_en": [
+        "msg"
+      ],
+      "category": "seasoning",
+      "image_url": "https://storage.cooking.app/ingredients/msg.jpg",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-bfea-4388-bd40-59c215619841",
+      "name_vi": "Tiêu",
+      "name_en": "Pepper",
+      "slug": "pepper",
+      "aliases_vi": [
+        "tiêu"
+      ],
+      "aliases_en": [
+        "pepper"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/pepper.jpg",
+      "calories": 251,
+      "protein_g": 10,
+      "carbs_g": 64,
+      "fat_g": 3.3,
+      "fiber_g": 25,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-674b-457a-9632-6b2b64aaebb8",
+      "name_vi": "Nghệ",
+      "name_en": "Turmeric",
+      "slug": "turmeric",
+      "aliases_vi": [
+        "nghệ"
+      ],
+      "aliases_en": [
+        "turmeric"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/turmeric.jpg",
+      "calories": 354,
+      "protein_g": 8,
+      "carbs_g": 65,
+      "fat_g": 10,
+      "fiber_g": 21,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-71c8-4c52-a2a6-c67d09584eac",
+      "name_vi": "Sả",
+      "name_en": "Lemongrass",
+      "slug": "lemongrass",
+      "aliases_vi": [
+        "sả"
+      ],
+      "aliases_en": [
+        "lemongrass"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/lemongrass.jpg",
+      "calories": 99,
+      "protein_g": 1.8,
+      "carbs_g": 25,
+      "fat_g": 0.5,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-d154-426c-9552-99678082c5bc",
+      "name_vi": "Hạt điều",
+      "name_en": "Cashew",
+      "slug": "cashew",
+      "aliases_vi": [
+        "hạt điều"
+      ],
+      "aliases_en": [
+        "cashew"
+      ],
+      "category": "nut",
+      "image_url": "https://storage.cooking.app/ingredients/cashew.jpg",
+      "calories": 553,
+      "protein_g": 18,
+      "carbs_g": 30,
+      "fat_g": 44,
+      "fiber_g": 3.3,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "tree nut"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-15d2-4975-8187-b373f6ef459e",
+      "name_vi": "Chuối",
+      "name_en": "Banana",
+      "slug": "banana",
+      "aliases_vi": [
+        "chuối"
+      ],
+      "aliases_en": [
+        "banana"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/banana.jpg",
+      "calories": 89,
+      "protein_g": 1.1,
+      "carbs_g": 23,
+      "fat_g": 0.3,
+      "fiber_g": 2.6,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-4ff3-4e07-9f4d-bcc13552ee87",
+      "name_vi": "Táo",
+      "name_en": "Apple",
+      "slug": "apple",
+      "aliases_vi": [
+        "táo"
+      ],
+      "aliases_en": [
+        "apple"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/apple.jpg",
+      "calories": 52,
+      "protein_g": 0.3,
+      "carbs_g": 14,
+      "fat_g": 0.2,
+      "fiber_g": 2.4,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-794e-493f-acdc-a1c5e990498d",
+      "name_vi": "Cam",
+      "name_en": "Orange",
+      "slug": "orange",
+      "aliases_vi": [
+        "cam"
+      ],
+      "aliases_en": [
+        "orange"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/orange.jpg",
+      "calories": 47,
+      "protein_g": 0.9,
+      "carbs_g": 12,
+      "fat_g": 0.1,
+      "fiber_g": 2.4,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-ef5f-4427-992d-d85dcd1d2d2d",
+      "name_vi": "Xoài",
+      "name_en": "Mango",
+      "slug": "mango",
+      "aliases_vi": [
+        "xoài"
+      ],
+      "aliases_en": [
+        "mango"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/mango.jpg",
+      "calories": 60,
+      "protein_g": 0.8,
+      "carbs_g": 15,
+      "fat_g": 0.4,
+      "fiber_g": 1.6,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-dcd1-40be-9e5c-e721e5a175b6",
+      "name_vi": "Dứa",
+      "name_en": "Pineapple",
+      "slug": "pineapple",
+      "aliases_vi": [
+        "dứa"
+      ],
+      "aliases_en": [
+        "pineapple"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/pineapple.jpg",
+      "calories": 50,
+      "protein_g": 0.5,
+      "carbs_g": 13,
+      "fat_g": 0.1,
+      "fiber_g": 1.4,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-d75a-4029-8978-fd23b3df0df3",
+      "name_vi": "Dưa hấu",
+      "name_en": "Watermelon",
+      "slug": "watermelon",
+      "aliases_vi": [
+        "dưa hấu"
+      ],
+      "aliases_en": [
+        "watermelon"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/watermelon.jpg",
+      "calories": 30,
+      "protein_g": 0.6,
+      "carbs_g": 8,
+      "fat_g": 0.2,
+      "fiber_g": 0.4,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-324d-4cb5-8319-739494e34e1c",
+      "name_vi": "Đu đủ",
+      "name_en": "Papaya",
+      "slug": "papaya",
+      "aliases_vi": [
+        "đu đủ"
+      ],
+      "aliases_en": [
+        "papaya"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/papaya.jpg",
+      "calories": 43,
+      "protein_g": 0.5,
+      "carbs_g": 11,
+      "fat_g": 0.3,
+      "fiber_g": 1.7,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-3914-42d6-b95c-eb372e6b49f8",
+      "name_vi": "Chanh",
+      "name_en": "Lime",
+      "slug": "lime",
+      "aliases_vi": [
+        "chanh"
+      ],
+      "aliases_en": [
+        "lime"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/lime.jpg",
+      "calories": 30,
+      "protein_g": 0.7,
+      "carbs_g": 11,
+      "fat_g": 0.2,
+      "fiber_g": 2.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-f549-4a53-adf3-8380b488dc47",
+      "name_vi": "Me",
+      "name_en": "Tamarind",
+      "slug": "tamarind",
+      "aliases_vi": [
+        "me"
+      ],
+      "aliases_en": [
+        "tamarind"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/tamarind.jpg",
+      "calories": 239,
+      "protein_g": 2.8,
+      "carbs_g": 63,
+      "fat_g": 0.6,
+      "fiber_g": 5.1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-84c3-417b-83e9-c4cb5a5cc946",
+      "name_vi": "Vải",
+      "name_en": "Lychee",
+      "slug": "lychee",
+      "aliases_vi": [
+        "vải"
+      ],
+      "aliases_en": [
+        "lychee"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/lychee.jpg",
+      "calories": 66,
+      "protein_g": 0.8,
+      "carbs_g": 17,
+      "fat_g": 0.4,
+      "fiber_g": 1.3,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-f6e4-403b-b825-16774179c5c7",
+      "name_vi": "Dừa",
+      "name_en": "Coconut",
+      "slug": "coconut",
+      "aliases_vi": [
+        "dừa"
+      ],
+      "aliases_en": [
+        "coconut"
+      ],
+      "category": "fruit",
+      "image_url": "https://storage.cooking.app/ingredients/coconut.jpg",
+      "calories": 354,
+      "protein_g": 3.3,
+      "carbs_g": 15,
+      "fat_g": 33,
+      "fiber_g": 9,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7289-4a4f-9e24-11c58c46019c",
+      "name_vi": "Đậu xanh",
+      "name_en": "Mung bean",
+      "slug": "mung-bean",
+      "aliases_vi": [
+        "đậu xanh"
+      ],
+      "aliases_en": [
+        "mung bean"
+      ],
+      "category": "legume",
+      "image_url": "https://storage.cooking.app/ingredients/mung-bean.jpg",
+      "calories": 347,
+      "protein_g": 24,
+      "carbs_g": 63,
+      "fat_g": 1.2,
+      "fiber_g": 16,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-e47b-4bb4-8e4c-68bbb100c73d",
+      "name_vi": "Đậu đỏ",
+      "name_en": "Red bean",
+      "slug": "red-bean",
+      "aliases_vi": [
+        "đậu đỏ"
+      ],
+      "aliases_en": [
+        "red bean"
+      ],
+      "category": "legume",
+      "image_url": "https://storage.cooking.app/ingredients/red-bean.jpg",
+      "calories": 333,
+      "protein_g": 24,
+      "carbs_g": 63,
+      "fat_g": 0.5,
+      "fiber_g": 12,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-ba0e-4665-9942-fbe0386f25b6",
+      "name_vi": "Lạc",
+      "name_en": "Peanut",
+      "slug": "peanut",
+      "aliases_vi": [
+        "lạc"
+      ],
+      "aliases_en": [
+        "peanut"
+      ],
+      "category": "nut",
+      "image_url": "https://storage.cooking.app/ingredients/peanut.jpg",
+      "calories": 567,
+      "protein_g": 26,
+      "carbs_g": 16,
+      "fat_g": 49,
+      "fiber_g": 8.5,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "peanut"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-a82c-4213-944f-59e0fddb32c5",
+      "name_vi": "Mè",
+      "name_en": "Sesame",
+      "slug": "sesame",
+      "aliases_vi": [
+        "mè"
+      ],
+      "aliases_en": [
+        "sesame"
+      ],
+      "category": "seed",
+      "image_url": "https://storage.cooking.app/ingredients/sesame.jpg",
+      "calories": 573,
+      "protein_g": 18,
+      "carbs_g": 23,
+      "fat_g": 50,
+      "fiber_g": 12,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-b25d-4180-b291-a1e1dfd3fea7",
+      "name_vi": "Hạt chia",
+      "name_en": "Chia seeds",
+      "slug": "chia-seeds",
+      "aliases_vi": [
+        "hạt chia"
+      ],
+      "aliases_en": [
+        "chia seeds"
+      ],
+      "category": "seed",
+      "image_url": "https://storage.cooking.app/ingredients/chia-seeds.jpg",
+      "calories": 486,
+      "protein_g": 17,
+      "carbs_g": 42,
+      "fat_g": 31,
+      "fiber_g": 34,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7fa1-4c7e-84fb-198b346c73be",
+      "name_vi": "Đường phên",
+      "name_en": "Rock sugar",
+      "slug": "rock-sugar",
+      "aliases_vi": [
+        "đường phên"
+      ],
+      "aliases_en": [
+        "rock sugar"
+      ],
+      "category": "sweetener",
+      "image_url": "https://storage.cooking.app/ingredients/rock-sugar.jpg",
+      "calories": 387,
+      "protein_g": 0,
+      "carbs_g": 100,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-e823-497f-93da-0df51ebd231f",
+      "name_vi": "Mật ong",
+      "name_en": "Honey",
+      "slug": "honey",
+      "aliases_vi": [
+        "mật ong"
+      ],
+      "aliases_en": [
+        "honey"
+      ],
+      "category": "sweetener",
+      "image_url": "https://storage.cooking.app/ingredients/honey.jpg",
+      "calories": 304,
+      "protein_g": 0.3,
+      "carbs_g": 82,
+      "fat_g": 0,
+      "fiber_g": 0.2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-a65d-4113-b9b6-e7817589ce62",
+      "name_vi": "Rượu trắng",
+      "name_en": "White wine",
+      "slug": "white-wine",
+      "aliases_vi": [
+        "rượu trắng"
+      ],
+      "aliases_en": [
+        "white wine"
+      ],
+      "category": "alcohol",
+      "image_url": "https://storage.cooking.app/ingredients/white-wine.jpg",
+      "calories": 82,
+      "protein_g": 0.1,
+      "carbs_g": 2.6,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-d7a1-42c3-a60b-521300247867",
+      "name_vi": "Bia",
+      "name_en": "Beer",
+      "slug": "beer",
+      "aliases_vi": [
+        "bia"
+      ],
+      "aliases_en": [
+        "beer"
+      ],
+      "category": "alcohol",
+      "image_url": "https://storage.cooking.app/ingredients/beer.jpg",
+      "calories": 43,
+      "protein_g": 0.5,
+      "carbs_g": 3.6,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-03ff-4506-b834-79d358ae4786",
+      "name_vi": "Gan bò",
+      "name_en": "Beef liver",
+      "slug": "beef-liver",
+      "aliases_vi": [
+        "gan bò"
+      ],
+      "aliases_en": [
+        "beef liver"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/beef-liver.jpg",
+      "calories": 135,
+      "protein_g": 20,
+      "carbs_g": 3.9,
+      "fat_g": 3.6,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-f8ce-499a-b3dc-5e8a245b1f17",
+      "name_vi": "Lòng heo",
+      "name_en": "Pork intestines",
+      "slug": "pork-intestines",
+      "aliases_vi": [
+        "lòng heo"
+      ],
+      "aliases_en": [
+        "pork intestines"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/pork-intestines.jpg",
+      "calories": 152,
+      "protein_g": 11,
+      "carbs_g": 0,
+      "fat_g": 12,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-b452-4dc1-bac6-7cbb34207791",
+      "name_vi": "Dạ dày bò",
+      "name_en": "Beef tripe",
+      "slug": "beef-tripe",
+      "aliases_vi": [
+        "dạ dày bò"
+      ],
+      "aliases_en": [
+        "beef tripe"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/beef-tripe.jpg",
+      "calories": 85,
+      "protein_g": 14,
+      "carbs_g": 0,
+      "fat_g": 3.4,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-47c5-48cb-be5e-cea067fecbcd",
+      "name_vi": "Gân bò",
+      "name_en": "Beef tendon",
+      "slug": "beef-tendon",
+      "aliases_vi": [
+        "gân bò"
+      ],
+      "aliases_en": [
+        "beef tendon"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/beef-tendon.jpg",
+      "calories": 151,
+      "protein_g": 28,
+      "carbs_g": 0,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7337-4a22-8e7a-b59dc64897e0",
+      "name_vi": "Thịt cừu",
+      "name_en": "Lamb",
+      "slug": "lamb",
+      "aliases_vi": [
+        "thịt cừu"
+      ],
+      "aliases_en": [
+        "lamb"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/lamb.jpg",
+      "calories": 294,
+      "protein_g": 25,
+      "carbs_g": 0,
+      "fat_g": 21,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-e021-45b3-a64c-228f21afd248",
+      "name_vi": "Chim cút",
+      "name_en": "Quail",
+      "slug": "quail",
+      "aliases_vi": [
+        "chim cút"
+      ],
+      "aliases_en": [
+        "quail"
+      ],
+      "category": "meat",
+      "image_url": "https://storage.cooking.app/ingredients/quail.jpg",
+      "calories": 227,
+      "protein_g": 25,
+      "carbs_g": 0,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-1214-4512-8955-85a277f93eed",
+      "name_vi": "Cá thu",
+      "name_en": "Mackerel",
+      "slug": "mackerel",
+      "aliases_vi": [
+        "cá thu"
+      ],
+      "aliases_en": [
+        "mackerel"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/mackerel.jpg",
+      "calories": 205,
+      "protein_g": 19,
+      "carbs_g": 0,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "fish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-311d-4739-a678-bb909dd2951c",
+      "name_vi": "Cá ngừ",
+      "name_en": "Tuna",
+      "slug": "tuna",
+      "aliases_vi": [
+        "cá ngừ"
+      ],
+      "aliases_en": [
+        "tuna"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/tuna.jpg",
+      "calories": 144,
+      "protein_g": 23,
+      "carbs_g": 0,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "fish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-509e-4c7a-8833-1e9d81e9c1eb",
+      "name_vi": "Cá trê",
+      "name_en": "Catfish",
+      "slug": "catfish",
+      "aliases_vi": [
+        "cá trê"
+      ],
+      "aliases_en": [
+        "catfish"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/catfish.jpg",
+      "calories": 105,
+      "protein_g": 18,
+      "carbs_g": 0,
+      "fat_g": 2.8,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "fish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-400f-47e8-aec4-d871f30f4894",
+      "name_vi": "Cá chép",
+      "name_en": "Carp",
+      "slug": "carp",
+      "aliases_vi": [
+        "cá chép"
+      ],
+      "aliases_en": [
+        "carp"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/carp.jpg",
+      "calories": 127,
+      "protein_g": 18,
+      "carbs_g": 0,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "fish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-9f75-4df1-b5a9-32785ac271f5",
+      "name_vi": "Cua",
+      "name_en": "Crab",
+      "slug": "crab",
+      "aliases_vi": [
+        "cua"
+      ],
+      "aliases_en": [
+        "crab"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/crab.jpg",
+      "calories": 97,
+      "protein_g": 19,
+      "carbs_g": 0,
+      "fat_g": 1.8,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "shellfish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7eab-4d01-9e00-b93ed6d6c0d4",
+      "name_vi": "Ốc",
+      "name_en": "Snails",
+      "slug": "snails",
+      "aliases_vi": [
+        "ốc"
+      ],
+      "aliases_en": [
+        "snails"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/snails.jpg",
+      "calories": 90,
+      "protein_g": 16,
+      "carbs_g": 2,
+      "fat_g": 1.4,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "shellfish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-6e3d-415b-9773-2ac83afb4c8d",
+      "name_vi": "Hàu",
+      "name_en": "Oyster",
+      "slug": "oyster",
+      "aliases_vi": [
+        "hàu"
+      ],
+      "aliases_en": [
+        "oyster"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/oyster.jpg",
+      "calories": 68,
+      "protein_g": 7,
+      "carbs_g": 4,
+      "fat_g": 2.5,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "shellfish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-9405-4665-901e-7a597a7b454c",
+      "name_vi": "Sò",
+      "name_en": "Mussel",
+      "slug": "mussel",
+      "aliases_vi": [
+        "sò"
+      ],
+      "aliases_en": [
+        "mussel"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/mussel.jpg",
+      "calories": 86,
+      "protein_g": 12,
+      "carbs_g": 3.7,
+      "fat_g": 2.2,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "shellfish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-eb05-4e3c-b9a6-3597887771be",
+      "name_vi": "Bạch tuộc",
+      "name_en": "Octopus",
+      "slug": "octopus",
+      "aliases_vi": [
+        "bạch tuộc"
+      ],
+      "aliases_en": [
+        "octopus"
+      ],
+      "category": "seafood",
+      "image_url": "https://storage.cooking.app/ingredients/octopus.jpg",
+      "calories": 82,
+      "protein_g": 15,
+      "carbs_g": 2.2,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [
+        "shellfish"
+      ],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7953-4915-91e6-01938bc22be1",
+      "name_vi": "Cải ngọt",
+      "name_en": "Bok choy",
+      "slug": "bok-choy",
+      "aliases_vi": [
+        "cải ngọt"
+      ],
+      "aliases_en": [
+        "bok choy"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/bok-choy.jpg",
+      "calories": 13,
+      "protein_g": 1.5,
+      "carbs_g": 2.2,
+      "fat_g": 0.2,
+      "fiber_g": 1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-53d0-4dac-a96f-044997330930",
+      "name_vi": "Cải xanh",
+      "name_en": "Chinese broccoli",
+      "slug": "chinese-broccoli",
+      "aliases_vi": [
+        "cải xanh"
+      ],
+      "aliases_en": [
+        "chinese broccoli"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/chinese-broccoli.jpg",
+      "calories": 19,
+      "protein_g": 1.1,
+      "carbs_g": 3.8,
+      "fat_g": 0.3,
+      "fiber_g": 1.2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-ef2a-4311-aeb6-8e99fdb16b22",
+      "name_vi": "Rau mùi",
+      "name_en": "Coriander",
+      "slug": "coriander",
+      "aliases_vi": [
+        "rau mùi"
+      ],
+      "aliases_en": [
+        "coriander"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/coriander.jpg",
+      "calories": 23,
+      "protein_g": 2.1,
+      "carbs_g": 3.7,
+      "fat_g": 0.5,
+      "fiber_g": 2.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-c4fa-4b9a-ba15-9860a871889c",
+      "name_vi": "Rau húng",
+      "name_en": "Mint",
+      "slug": "mint",
+      "aliases_vi": [
+        "rau húng"
+      ],
+      "aliases_en": [
+        "mint"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/mint.jpg",
+      "calories": 70,
+      "protein_g": 3.7,
+      "carbs_g": 14,
+      "fat_g": 0.9,
+      "fiber_g": 8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-b0eb-4d75-bbe8-27d55b3a7c91",
+      "name_vi": "Rau ngổ",
+      "name_en": "Rice paddy herb",
+      "slug": "rice-paddy-herb",
+      "aliases_vi": [
+        "rau ngổ"
+      ],
+      "aliases_en": [
+        "rice paddy herb"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/rice-paddy-herb.jpg",
+      "calories": 25,
+      "protein_g": 2,
+      "carbs_g": 4,
+      "fat_g": 0.4,
+      "fiber_g": 2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-fcbf-466f-9daf-11c90d5e93fc",
+      "name_vi": "Tía tô",
+      "name_en": "Perilla",
+      "slug": "perilla",
+      "aliases_vi": [
+        "tía tô"
+      ],
+      "aliases_en": [
+        "perilla"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/perilla.jpg",
+      "calories": 37,
+      "protein_g": 3.6,
+      "carbs_g": 7.3,
+      "fat_g": 1.4,
+      "fiber_g": 7,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-f614-449f-be11-dd5c40db3a92",
+      "name_vi": "Lá chanh",
+      "name_en": "Kaffir lime leaves",
+      "slug": "kaffir-lime-leaves",
+      "aliases_vi": [
+        "lá chanh"
+      ],
+      "aliases_en": [
+        "kaffir lime leaves"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/kaffir-lime-leaves.jpg",
+      "calories": 62,
+      "protein_g": 1.5,
+      "carbs_g": 16,
+      "fat_g": 0.4,
+      "fiber_g": 8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-0f7c-4a43-8221-7081e5758f93",
+      "name_vi": "Hẹ",
+      "name_en": "Garlic chives",
+      "slug": "garlic-chives",
+      "aliases_vi": [
+        "hẹ"
+      ],
+      "aliases_en": [
+        "garlic chives"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/garlic-chives.jpg",
+      "calories": 30,
+      "protein_g": 3,
+      "carbs_g": 4.2,
+      "fat_g": 0.5,
+      "fiber_g": 2.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-369a-400b-854c-7580cea6f3a3",
+      "name_vi": "Kinh giới",
+      "name_en": "Vietnamese balm",
+      "slug": "vietnamese-balm",
+      "aliases_vi": [
+        "kinh giới"
+      ],
+      "aliases_en": [
+        "vietnamese balm"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/vietnamese-balm.jpg",
+      "calories": 28,
+      "protein_g": 2.2,
+      "carbs_g": 5,
+      "fat_g": 0.6,
+      "fiber_g": 3,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-e596-43c0-a780-273a8b2136b2",
+      "name_vi": "Diếp cá",
+      "name_en": "Fish mint",
+      "slug": "fish-mint",
+      "aliases_vi": [
+        "diếp cá"
+      ],
+      "aliases_en": [
+        "fish mint"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/fish-mint.jpg",
+      "calories": 22,
+      "protein_g": 2.5,
+      "carbs_g": 3.5,
+      "fat_g": 0.3,
+      "fiber_g": 2.5,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-d3f3-4d96-95bc-abb0594dcdfe",
+      "name_vi": "Rau răm",
+      "name_en": "Vietnamese coriander",
+      "slug": "vietnamese-coriander",
+      "aliases_vi": [
+        "rau răm"
+      ],
+      "aliases_en": [
+        "vietnamese coriander"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/vietnamese-coriander.jpg",
+      "calories": 26,
+      "protein_g": 2.8,
+      "carbs_g": 4,
+      "fat_g": 0.4,
+      "fiber_g": 2.2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-6ca6-4ed2-84b4-06d6a0bf924a",
+      "name_vi": "Xà lách",
+      "name_en": "Lettuce",
+      "slug": "lettuce",
+      "aliases_vi": [
+        "xà lách"
+      ],
+      "aliases_en": [
+        "lettuce"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/lettuce.jpg",
+      "calories": 15,
+      "protein_g": 1.4,
+      "carbs_g": 2.9,
+      "fat_g": 0.2,
+      "fiber_g": 1.3,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-a03c-48ea-8221-eb7c9711fabb",
+      "name_vi": "Cải bẹ xanh",
+      "name_en": "Green mustard",
+      "slug": "green-mustard",
+      "aliases_vi": [
+        "cải bẹ xanh"
+      ],
+      "aliases_en": [
+        "green mustard"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/green-mustard.jpg",
+      "calories": 27,
+      "protein_g": 2.9,
+      "carbs_g": 4.7,
+      "fat_g": 0.4,
+      "fiber_g": 3.2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-5af9-412c-8235-e40458167e08",
+      "name_vi": "Su hào",
+      "name_en": "Kohlrabi",
+      "slug": "kohlrabi",
+      "aliases_vi": [
+        "su hào"
+      ],
+      "aliases_en": [
+        "kohlrabi"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/kohlrabi.jpg",
+      "calories": 27,
+      "protein_g": 1.7,
+      "carbs_g": 6.2,
+      "fat_g": 0.1,
+      "fiber_g": 3.6,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-b2d8-4b97-8007-22f6e48afff2",
+      "name_vi": "Củ cải trắng",
+      "name_en": "Daikon",
+      "slug": "daikon",
+      "aliases_vi": [
+        "củ cải trắng"
+      ],
+      "aliases_en": [
+        "daikon"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/daikon.jpg",
+      "calories": 18,
+      "protein_g": 0.6,
+      "carbs_g": 4.1,
+      "fat_g": 0.1,
+      "fiber_g": 1.6,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-ad22-4216-a190-5c7b05bcd9cd",
+      "name_vi": "Hành tím",
+      "name_en": "Shallot",
+      "slug": "shallot",
+      "aliases_vi": [
+        "hành tím"
+      ],
+      "aliases_en": [
+        "shallot"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/shallot.jpg",
+      "calories": 72,
+      "protein_g": 2.5,
+      "carbs_g": 17,
+      "fat_g": 0.1,
+      "fiber_g": 3.2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-3294-4462-a81a-b12075f3b59b",
+      "name_vi": "Tỏi tây",
+      "name_en": "Leek",
+      "slug": "leek",
+      "aliases_vi": [
+        "tỏi tây"
+      ],
+      "aliases_en": [
+        "leek"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/leek.jpg",
+      "calories": 61,
+      "protein_g": 1.5,
+      "carbs_g": 14,
+      "fat_g": 0.3,
+      "fiber_g": 1.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7725-4cd7-a513-3c842e359ea7",
+      "name_vi": "Ớt chuông",
+      "name_en": "Bell pepper",
+      "slug": "bell-pepper",
+      "aliases_vi": [
+        "ớt chuông"
+      ],
+      "aliases_en": [
+        "bell pepper"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/bell-pepper.jpg",
+      "calories": 31,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 0.3,
+      "fiber_g": 2.1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-1f6e-4f0c-8900-a0fac0146730",
+      "name_vi": "Rau dền",
+      "name_en": "Amaranth",
+      "slug": "amaranth",
+      "aliases_vi": [
+        "rau dền"
+      ],
+      "aliases_en": [
+        "amaranth"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/amaranth.jpg",
+      "calories": 23,
+      "protein_g": 2.5,
+      "carbs_g": 4.0,
+      "fat_g": 0.3,
+      "fiber_g": 2.2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-921d-4fcd-ab40-b1e341a0b6b5",
+      "name_vi": "Mồng tơi",
+      "name_en": "Malabar spinach",
+      "slug": "malabar-spinach",
+      "aliases_vi": [
+        "mồng tơi"
+      ],
+      "aliases_en": [
+        "malabar spinach"
+      ],
+      "category": "vegetable",
+      "image_url": "https://storage.cooking.app/ingredients/malabar-spinach.jpg",
+      "calories": 19,
+      "protein_g": 1.8,
+      "carbs_g": 3.4,
+      "fat_g": 0.3,
+      "fiber_g": 1.3,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-7c76-489b-b72f-d3228411abd9",
+      "name_vi": "Hủ tiếu",
+      "name_en": "Hu tieu noodles",
+      "slug": "hu-tieu-noodles",
+      "aliases_vi": [
+        "hủ tiếu"
+      ],
+      "aliases_en": [
+        "hu tieu noodles"
+      ],
+      "category": "noodle",
+      "image_url": "https://storage.cooking.app/ingredients/hu-tieu-noodles.jpg",
+      "calories": 107,
+      "protein_g": 2,
+      "carbs_g": 24,
+      "fat_g": 0.3,
+      "fiber_g": 0.9,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-f376-4521-af39-ca916b6c55de",
+      "name_vi": "Bánh đa",
+      "name_en": "Rice crackers",
+      "slug": "rice-crackers",
+      "aliases_vi": [
+        "bánh đa"
+      ],
+      "aliases_en": [
+        "rice crackers"
+      ],
+      "category": "noodle",
+      "image_url": "https://storage.cooking.app/ingredients/rice-crackers.jpg",
+      "calories": 320,
+      "protein_g": 8,
+      "carbs_g": 72,
+      "fat_g": 1.2,
+      "fiber_g": 2,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-89ee-4a27-9751-6ccd47bbf4df",
+      "name_vi": "Bánh hỏi",
+      "name_en": "Vermicelli sheets",
+      "slug": "vermicelli-sheets",
+      "aliases_vi": [
+        "bánh hỏi"
+      ],
+      "aliases_en": [
+        "vermicelli sheets"
+      ],
+      "category": "noodle",
+      "image_url": "https://storage.cooking.app/ingredients/vermicelli-sheets.jpg",
+      "calories": 110,
+      "protein_g": 2.2,
+      "carbs_g": 25,
+      "fat_g": 0.2,
+      "fiber_g": 1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-5d8f-43f6-9127-0b27cd2997dd",
+      "name_vi": "Bánh ướt",
+      "name_en": "Steamed rice rolls",
+      "slug": "steamed-rice-rolls",
+      "aliases_vi": [
+        "bánh ướt"
+      ],
+      "aliases_en": [
+        "steamed rice rolls"
+      ],
+      "category": "wrap",
+      "image_url": "https://storage.cooking.app/ingredients/steamed-rice-rolls.jpg",
+      "calories": 95,
+      "protein_g": 1.5,
+      "carbs_g": 22,
+      "fat_g": 0.2,
+      "fiber_g": 0.8,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-5bf1-49f7-897a-fd40ab3289f6",
+      "name_vi": "Bánh cuốn",
+      "name_en": "Rice rolls",
+      "slug": "rice-rolls",
+      "aliases_vi": [
+        "bánh cuốn"
+      ],
+      "aliases_en": [
+        "rice rolls"
+      ],
+      "category": "wrap",
+      "image_url": "https://storage.cooking.app/ingredients/rice-rolls.jpg",
+      "calories": 98,
+      "protein_g": 1.8,
+      "carbs_g": 22,
+      "fat_g": 0.3,
+      "fiber_g": 0.9,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-0796-4747-9efe-130131581e4a",
+      "name_vi": "Bột gạo",
+      "name_en": "Rice flour",
+      "slug": "rice-flour",
+      "aliases_vi": [
+        "bột gạo"
+      ],
+      "aliases_en": [
+        "rice flour"
+      ],
+      "category": "grain",
+      "image_url": "https://storage.cooking.app/ingredients/rice-flour.jpg",
+      "calories": 366,
+      "protein_g": 6,
+      "carbs_g": 80,
+      "fat_g": 1.4,
+      "fiber_g": 2.4,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-8cdf-45c2-b4b1-af39596c6a40",
+      "name_vi": "Bột nghệ",
+      "name_en": "Turmeric powder",
+      "slug": "turmeric-powder",
+      "aliases_vi": [
+        "bột nghệ"
+      ],
+      "aliases_en": [
+        "turmeric powder"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/turmeric-powder.jpg",
+      "calories": 354,
+      "protein_g": 8,
+      "carbs_g": 65,
+      "fat_g": 10,
+      "fiber_g": 21,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-b503-4b46-9a1b-e2c1b262abe8",
+      "name_vi": "Bột ớt",
+      "name_en": "Chili powder",
+      "slug": "chili-powder",
+      "aliases_vi": [
+        "bột ớt"
+      ],
+      "aliases_en": [
+        "chili powder"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/chili-powder.jpg",
+      "calories": 282,
+      "protein_g": 13,
+      "carbs_g": 50,
+      "fat_g": 14,
+      "fiber_g": 34,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-9bc8-4711-b451-ffd6bedf47ab",
+      "name_vi": "Ngũ vị hương",
+      "name_en": "Five spice",
+      "slug": "five-spice",
+      "aliases_vi": [
+        "ngũ vị hương"
+      ],
+      "aliases_en": [
+        "five spice"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/five-spice.jpg",
+      "calories": 347,
+      "protein_g": 9,
+      "carbs_g": 65,
+      "fat_g": 11,
+      "fiber_g": 28,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-8bf7-4629-bc94-9e16ead89ce5",
+      "name_vi": "Hạt tiêu",
+      "name_en": "Peppercorn",
+      "slug": "peppercorn",
+      "aliases_vi": [
+        "hạt tiêu"
+      ],
+      "aliases_en": [
+        "peppercorn"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/peppercorn.jpg",
+      "calories": 255,
+      "protein_g": 11,
+      "carbs_g": 64,
+      "fat_g": 3.3,
+      "fiber_g": 26,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-fe7e-4dd0-abb9-ac4489ddaab9",
+      "name_vi": "Hạt hồi",
+      "name_en": "Star anise",
+      "slug": "star-anise",
+      "aliases_vi": [
+        "hạt hồi"
+      ],
+      "aliases_en": [
+        "star anise"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/star-anise.jpg",
+      "calories": 337,
+      "protein_g": 18,
+      "carbs_g": 50,
+      "fat_g": 16,
+      "fiber_g": 15,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-fe3d-4f7f-9604-48711c4d9b76",
+      "name_vi": "Quế",
+      "name_en": "Cinnamon",
+      "slug": "cinnamon",
+      "aliases_vi": [
+        "quế"
+      ],
+      "aliases_en": [
+        "cinnamon"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/cinnamon.jpg",
+      "calories": 247,
+      "protein_g": 4,
+      "carbs_g": 81,
+      "fat_g": 1.2,
+      "fiber_g": 53,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-b6d0-406d-bd07-f62728e711c0",
+      "name_vi": "Đinh hương",
+      "name_en": "Clove",
+      "slug": "clove",
+      "aliases_vi": [
+        "đinh hương"
+      ],
+      "aliases_en": [
+        "clove"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/clove.jpg",
+      "calories": 274,
+      "protein_g": 6,
+      "carbs_g": 65,
+      "fat_g": 13,
+      "fiber_g": 34,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-c87c-44d8-9e28-92b64fe0fc5f",
+      "name_vi": "Hạt mùi",
+      "name_en": "Coriander seeds",
+      "slug": "coriander-seeds",
+      "aliases_vi": [
+        "hạt mùi"
+      ],
+      "aliases_en": [
+        "coriander seeds"
+      ],
+      "category": "spice",
+      "image_url": "https://storage.cooking.app/ingredients/coriander-seeds.jpg",
+      "calories": 298,
+      "protein_g": 12,
+      "carbs_g": 55,
+      "fat_g": 18,
+      "fiber_g": 42,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "650e8400-06d8-4d9f-89c9-1bd8c55c4e69",
+      "name_vi": "Thì là",
+      "name_en": "Dill",
+      "slug": "dill",
+      "aliases_vi": [
+        "thì là"
+      ],
+      "aliases_en": [
+        "dill"
+      ],
+      "category": "herb",
+      "image_url": "https://storage.cooking.app/ingredients/dill.jpg",
+      "calories": 43,
+      "protein_g": 3.5,
+      "carbs_g": 7,
+      "fat_g": 1.1,
+      "fiber_g": 2.1,
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true,
+      "allergens": [],
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    }
+  ]
+}

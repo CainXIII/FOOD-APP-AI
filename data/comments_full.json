@@ -1,0 +1,804 @@
+{
+  "comments": [
+    {
+      "id": "j50e8400-6255-498e-b229-a324afa83033",
+      "recipe_id": "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Món này phù hợp cho trẻ em không?",
+      "helpful_count": 12,
+      "created_at": "2024-08-15T00:00:00Z",
+      "updated_at": "2024-12-10T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-9a57-4373-8890-77e29d860348",
+      "recipe_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": null,
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "helpful_count": 10,
+      "created_at": "2024-12-15T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-24f5-41f3-95d7-17d627ca20a0",
+      "recipe_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Đã bookmark để làm sau!",
+      "helpful_count": 6,
+      "created_at": "2024-07-15T00:00:00Z",
+      "updated_at": "2024-12-10T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-4963-46da-93d1-50f41d3dec57",
+      "recipe_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": null,
+      "content": "Món này phù hợp cho trẻ em không?",
+      "helpful_count": 3,
+      "created_at": "2024-11-30T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-16b5-4db6-84a4-63590934ef63",
+      "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": null,
+      "content": "Cảm ơn công thức tuyệt vời này!",
+      "helpful_count": 15,
+      "created_at": "2024-12-26T00:00:00Z",
+      "updated_at": "2024-12-30T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-6851-41b5-9735-9b38e53762c0",
+      "recipe_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Tuyệt vời! Cảm ơn bạn đã chia sẻ.",
+      "helpful_count": 13,
+      "created_at": "2024-12-12T00:00:00Z",
+      "updated_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-271f-454f-9836-81295ca36931",
+      "recipe_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": null,
+      "content": "Món này phù hợp cho trẻ em không?",
+      "helpful_count": 10,
+      "created_at": "2024-10-08T00:00:00Z",
+      "updated_at": "2024-12-02T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-ad1d-4526-9f09-29ddb40d2e4b",
+      "recipe_id": "850e8400-5508-4005-809a-b7b5d969ba29",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": null,
+      "content": "Có thể giảm lượng đường được không?",
+      "helpful_count": 8,
+      "created_at": "2024-12-21T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-5f36-43bf-8f68-a0ad141d3a51",
+      "recipe_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": null,
+      "content": "Rất chi tiết và dễ hiểu!",
+      "helpful_count": 10,
+      "created_at": "2024-12-06T00:00:00Z",
+      "updated_at": "2024-12-02T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-e061-4adc-bd1b-cd5c5dd40c22",
+      "recipe_id": "850e8400-14a6-4010-8b45-64f562582691",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": null,
+      "content": "Đã bookmark để làm sau!",
+      "helpful_count": 9,
+      "created_at": "2024-11-14T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-22d1-4aff-bf2c-609f84449ebe",
+      "recipe_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Cảm ơn công thức tuyệt vời này!",
+      "helpful_count": 5,
+      "created_at": "2024-08-20T00:00:00Z",
+      "updated_at": "2024-12-14T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-fe94-4698-bb34-2f5f3170775d",
+      "recipe_id": "850e8400-3aab-4687-b856-428794d42775",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": null,
+      "content": "Có thể giảm lượng đường được không?",
+      "helpful_count": 10,
+      "created_at": "2024-09-16T00:00:00Z",
+      "updated_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-b70d-4401-a9b9-232838856530",
+      "recipe_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": null,
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "helpful_count": 7,
+      "created_at": "2024-08-06T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-22d9-4f08-a439-5070c1137bf6",
+      "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Món này phù hợp cho trẻ em không?",
+      "helpful_count": 11,
+      "created_at": "2024-07-30T00:00:00Z",
+      "updated_at": "2024-12-02T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-6b89-4a4a-8c30-d85671b2dd0e",
+      "recipe_id": "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": null,
+      "content": "Có thể giảm lượng đường được không?",
+      "helpful_count": 9,
+      "created_at": "2024-11-26T00:00:00Z",
+      "updated_at": "2024-12-13T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-2a73-4272-a0e1-185c2f35c1cc",
+      "recipe_id": "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Rất chi tiết và dễ hiểu!",
+      "helpful_count": 13,
+      "created_at": "2024-11-11T00:00:00Z",
+      "updated_at": "2024-12-17T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-bd18-4c17-a5b8-4f739b70cdde",
+      "recipe_id": "850e8400-b73f-40ca-9130-a44d4cbcf71c",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Món này phù hợp cho trẻ em không?",
+      "helpful_count": 9,
+      "created_at": "2024-08-30T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-beba-4cb9-bf46-73a9fc9ba161",
+      "recipe_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Đã làm thành công, gia đình rất thích!",
+      "helpful_count": 15,
+      "created_at": "2024-10-18T00:00:00Z",
+      "updated_at": "2024-12-27T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-8432-4835-bd14-12e040766e67",
+      "recipe_id": "850e8400-0193-4584-9397-8d62e5036077",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Có thể giảm lượng đường được không?",
+      "helpful_count": 0,
+      "created_at": "2024-12-13T00:00:00Z",
+      "updated_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-2004-4220-bc49-2f1dfb7b3318",
+      "recipe_id": "850e8400-1619-4a7f-b54b-7ab836cdf532",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Có thể giảm lượng đường được không?",
+      "helpful_count": 8,
+      "created_at": "2024-11-28T00:00:00Z",
+      "updated_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-698a-445e-a911-6c643cd5a67d",
+      "recipe_id": "850e8400-d084-4306-a24d-3c89589d4b02",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Cảm ơn công thức tuyệt vời này!",
+      "helpful_count": 2,
+      "created_at": "2024-07-08T00:00:00Z",
+      "updated_at": "2024-12-02T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-79df-41af-acdf-eaaf7a1a0581",
+      "recipe_id": "850e8400-14a6-4010-8b45-64f562582691",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": null,
+      "content": "Bước 3 hơi khó, có thể giải thích rõ hơn không?",
+      "helpful_count": 8,
+      "created_at": "2024-12-15T00:00:00Z",
+      "updated_at": "2024-12-12T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-4b50-48d3-8bd3-af0b5b1cb095",
+      "recipe_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": null,
+      "content": "Tuyệt vời! Cảm ơn bạn đã chia sẻ.",
+      "helpful_count": 2,
+      "created_at": "2024-07-25T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-a975-4a56-b308-c726f971dced",
+      "recipe_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": null,
+      "content": "Đã bookmark để làm sau!",
+      "helpful_count": 3,
+      "created_at": "2024-09-15T00:00:00Z",
+      "updated_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-f211-4352-9358-a80d2151fd47",
+      "recipe_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "helpful_count": 12,
+      "created_at": "2024-09-23T00:00:00Z",
+      "updated_at": "2024-12-23T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-d8e5-4271-9554-30c28ae925c0",
+      "recipe_id": "850e8400-1271-428b-9f63-ec0f757900a3",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Cảm ơn công thức tuyệt vời này!",
+      "helpful_count": 11,
+      "created_at": "2024-09-09T00:00:00Z",
+      "updated_at": "2024-12-28T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-2f5e-49eb-ba72-b2f09cabc524",
+      "recipe_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Tôi có thể thay thế nguyên liệu X bằng Y được không?",
+      "helpful_count": 3,
+      "created_at": "2024-10-27T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-34d6-45c5-9ce3-9df6beaaa5bc",
+      "recipe_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": null,
+      "content": "Món này phù hợp cho trẻ em không?",
+      "helpful_count": 0,
+      "created_at": "2024-12-30T00:00:00Z",
+      "updated_at": "2024-12-23T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-d142-4985-892a-20b33380270f",
+      "recipe_id": "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": null,
+      "content": "Tuyệt vời! Cảm ơn bạn đã chia sẻ.",
+      "helpful_count": 15,
+      "created_at": "2024-11-07T00:00:00Z",
+      "updated_at": "2024-12-13T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-4773-4047-899b-b5ea496e5b4e",
+      "recipe_id": "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": null,
+      "content": "Cảm ơn công thức tuyệt vời này!",
+      "helpful_count": 8,
+      "created_at": "2024-12-25T00:00:00Z",
+      "updated_at": "2024-12-31T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-72b4-43bc-9560-72d0263c4c86",
+      "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": null,
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "helpful_count": 10,
+      "created_at": "2024-09-30T00:00:00Z",
+      "updated_at": "2024-12-30T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-9b12-4277-9c8a-ae1c80c09409",
+      "recipe_id": "850e8400-d562-4490-8610-98fdfb5657bc",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": null,
+      "content": "Có thể giảm lượng đường được không?",
+      "helpful_count": 14,
+      "created_at": "2024-12-25T00:00:00Z",
+      "updated_at": "2024-12-11T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-6f7d-4e62-a8c6-5082adf1c332",
+      "recipe_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": null,
+      "content": "Bước 3 hơi khó, có thể giải thích rõ hơn không?",
+      "helpful_count": 3,
+      "created_at": "2024-11-04T00:00:00Z",
+      "updated_at": "2024-12-05T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-0d3a-461a-85d0-1bb304dbd2e8",
+      "recipe_id": "850e8400-d31f-44af-a75a-69210fd6e876",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Đã bookmark để làm sau!",
+      "helpful_count": 10,
+      "created_at": "2024-10-25T00:00:00Z",
+      "updated_at": "2024-12-12T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-2b3f-484e-9560-d92dd6695768",
+      "recipe_id": "850e8400-2430-40dd-b89a-64070a6ac51d",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Có thể giảm lượng đường được không?",
+      "helpful_count": 2,
+      "created_at": "2024-10-22T00:00:00Z",
+      "updated_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-fd81-477f-8e8a-08d43b91a345",
+      "recipe_id": "850e8400-1619-4a7f-b54b-7ab836cdf532",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Cảm ơn công thức tuyệt vời này!",
+      "helpful_count": 9,
+      "created_at": "2024-09-11T00:00:00Z",
+      "updated_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-a8bf-4c56-bad3-4dc2b6661b4d",
+      "recipe_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Cảm ơn công thức tuyệt vời này!",
+      "helpful_count": 8,
+      "created_at": "2024-12-29T00:00:00Z",
+      "updated_at": "2024-12-17T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-503e-40ca-bd84-cdbccb68cf8f",
+      "recipe_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Rất chi tiết và dễ hiểu!",
+      "helpful_count": 5,
+      "created_at": "2024-09-10T00:00:00Z",
+      "updated_at": "2024-12-28T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-f835-4b25-96ca-35228b072007",
+      "recipe_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Đã làm thành công, gia đình rất thích!",
+      "helpful_count": 7,
+      "created_at": "2024-11-03T00:00:00Z",
+      "updated_at": "2024-12-26T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-90ce-46ba-9ece-cccf4b3b8125",
+      "recipe_id": "850e8400-3162-4cfc-94fb-6635630de168",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": null,
+      "content": "Món này có thể làm bằng nồi áp suất không?",
+      "helpful_count": 1,
+      "created_at": "2024-09-24T00:00:00Z",
+      "updated_at": "2024-12-07T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-bc0c-496f-8300-369c78c85786",
+      "recipe_id": "850e8400-ee15-4000-87d9-717756506057",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Đã bookmark để làm sau!",
+      "helpful_count": 14,
+      "created_at": "2024-10-17T00:00:00Z",
+      "updated_at": "2024-12-30T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-10cd-42bd-a88c-b33c5dc1af1a",
+      "recipe_id": "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Rất chi tiết và dễ hiểu!",
+      "helpful_count": 13,
+      "created_at": "2024-11-20T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-6caf-459c-bc17-11a2fb3ef977",
+      "recipe_id": "850e8400-b73f-40ca-9130-a44d4cbcf71c",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": null,
+      "content": "Đã làm thành công, gia đình rất thích!",
+      "helpful_count": 15,
+      "created_at": "2024-08-18T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-2c28-4166-bf1f-511849ab44ec",
+      "recipe_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Đã làm thành công, gia đình rất thích!",
+      "helpful_count": 8,
+      "created_at": "2024-07-06T00:00:00Z",
+      "updated_at": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-f92c-4124-9aa7-f395f3b481cf",
+      "recipe_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": null,
+      "content": "Tuyệt vời! Cảm ơn bạn đã chia sẻ.",
+      "helpful_count": 13,
+      "created_at": "2024-09-12T00:00:00Z",
+      "updated_at": "2024-12-14T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-52ed-4a64-9dfc-1dcc911864f2",
+      "recipe_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Tôi có thể thay thế nguyên liệu X bằng Y được không?",
+      "helpful_count": 4,
+      "created_at": "2024-07-21T00:00:00Z",
+      "updated_at": "2024-12-24T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-ffc6-4b62-8bd0-0c220539bedb",
+      "recipe_id": "850e8400-14a6-4010-8b45-64f562582691",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Tuyệt vời! Cảm ơn bạn đã chia sẻ.",
+      "helpful_count": 15,
+      "created_at": "2024-09-05T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-1ee5-44f3-9781-99a68b7e3777",
+      "recipe_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": null,
+      "content": "Bước 3 hơi khó, có thể giải thích rõ hơn không?",
+      "helpful_count": 11,
+      "created_at": "2024-12-02T00:00:00Z",
+      "updated_at": "2024-12-20T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-f37d-4ccf-a5a3-8c2a0a91fb30",
+      "recipe_id": "850e8400-4a40-4ad4-a5f5-5c5212168365",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": null,
+      "content": "Đã bookmark để làm sau!",
+      "helpful_count": 13,
+      "created_at": "2024-12-03T00:00:00Z",
+      "updated_at": "2024-12-11T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-8ee6-41b2-8362-c77562b7dae3",
+      "recipe_id": "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": null,
+      "content": "Đã làm thành công, gia đình rất thích!",
+      "helpful_count": 11,
+      "created_at": "2024-10-23T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-0eaa-42d1-a43c-656e0bc6d895",
+      "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": "j50e8400-22d9-4f08-a439-5070c1137bf6",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 2,
+      "created_at": "2024-09-28T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-f718-4e5e-995d-97dfa2b5bf71",
+      "recipe_id": "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": "j50e8400-10cd-42bd-a88c-b33c5dc1af1a",
+      "content": "Bạn có thể điều chỉnh theo khẩu vị nhé.",
+      "helpful_count": 3,
+      "created_at": "2024-10-09T00:00:00Z",
+      "updated_at": "2024-12-26T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-d648-4ba0-a22a-d65bf79e9a3f",
+      "recipe_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": "j50e8400-f835-4b25-96ca-35228b072007",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 1,
+      "created_at": "2024-12-21T00:00:00Z",
+      "updated_at": "2024-12-28T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-57b1-4b62-90f6-3a7957f7145a",
+      "recipe_id": "850e8400-5508-4005-809a-b7b5d969ba29",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": "j50e8400-ad1d-4526-9f09-29ddb40d2e4b",
+      "content": "Có thể thay thế được, nhưng vị sẽ khác một chút.",
+      "helpful_count": 2,
+      "created_at": "2024-08-23T00:00:00Z",
+      "updated_at": "2024-12-21T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-ad4b-493d-a13b-4e8271ff8927",
+      "recipe_id": "850e8400-d562-4490-8610-98fdfb5657bc",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": "j50e8400-9b12-4277-9c8a-ae1c80c09409",
+      "content": "Được đấy, thời gian nấu sẽ giảm xuống.",
+      "helpful_count": 2,
+      "created_at": "2024-12-24T00:00:00Z",
+      "updated_at": "2024-12-24T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-4cde-4b6e-9fc9-67eff334a1d5",
+      "recipe_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": "j50e8400-beba-4cb9-bf46-73a9fc9ba161",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 2,
+      "created_at": "2024-10-22T00:00:00Z",
+      "updated_at": "2024-12-21T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-3702-439c-b414-e06fd46ac098",
+      "recipe_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": "j50e8400-52ed-4a64-9dfc-1dcc911864f2",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 3,
+      "created_at": "2024-09-13T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-1c4d-4e38-801b-12845212df8c",
+      "recipe_id": "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": "j50e8400-6255-498e-b229-a324afa83033",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 3,
+      "created_at": "2024-12-30T00:00:00Z",
+      "updated_at": "2024-12-21T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-67af-4bae-a0f2-53f3f3f26275",
+      "recipe_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": "j50e8400-1ee5-44f3-9781-99a68b7e3777",
+      "content": "Được đấy, thời gian nấu sẽ giảm xuống.",
+      "helpful_count": 1,
+      "created_at": "2024-11-23T00:00:00Z",
+      "updated_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-6758-4fad-9e28-d0dfb742811b",
+      "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": "j50e8400-16b5-4db6-84a4-63590934ef63",
+      "content": "Bạn có thể điều chỉnh theo khẩu vị nhé.",
+      "helpful_count": 4,
+      "created_at": "2024-09-03T00:00:00Z",
+      "updated_at": "2024-12-24T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-fb13-4c09-8cb2-659c9268325e",
+      "recipe_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": "j50e8400-503e-40ca-bd84-cdbccb68cf8f",
+      "content": "Bạn có thể điều chỉnh theo khẩu vị nhé.",
+      "helpful_count": 4,
+      "created_at": "2024-08-16T00:00:00Z",
+      "updated_at": "2024-12-21T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-feba-4251-b52f-e081be5ca0de",
+      "recipe_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": "j50e8400-9a57-4373-8890-77e29d860348",
+      "content": "Cảm ơn bạn! Rất vui vì món ăn phù hợp với bạn.",
+      "helpful_count": 3,
+      "created_at": "2024-12-29T00:00:00Z",
+      "updated_at": "2024-12-27T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-584f-4749-be2f-d44150dde707",
+      "recipe_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": "j50e8400-2c28-4166-bf1f-511849ab44ec",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 2,
+      "created_at": "2024-11-05T00:00:00Z",
+      "updated_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-e633-46c7-b002-100f2292a667",
+      "recipe_id": "850e8400-5508-4005-809a-b7b5d969ba29",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": "j50e8400-ad1d-4526-9f09-29ddb40d2e4b",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 3,
+      "created_at": "2024-09-12T00:00:00Z",
+      "updated_at": "2024-12-23T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-023d-4305-a700-9a2fd3f27425",
+      "recipe_id": "850e8400-b73f-40ca-9130-a44d4cbcf71c",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": "j50e8400-bd18-4c17-a5b8-4f739b70cdde",
+      "content": "Có thể thay thế được, nhưng vị sẽ khác một chút.",
+      "helpful_count": 4,
+      "created_at": "2024-12-02T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-4a9c-4b43-8b6f-b5e89031e714",
+      "recipe_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": "j50e8400-271f-454f-9836-81295ca36931",
+      "content": "Có thể thay thế được, nhưng vị sẽ khác một chút.",
+      "helpful_count": 3,
+      "created_at": "2024-10-24T00:00:00Z",
+      "updated_at": "2024-12-18T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-7ce5-4518-a43a-41b8ae170cdd",
+      "recipe_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": "j50e8400-9a57-4373-8890-77e29d860348",
+      "content": "Cảm ơn bạn! Rất vui vì món ăn phù hợp với bạn.",
+      "helpful_count": 4,
+      "created_at": "2024-10-20T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-4d11-4fb0-9b7c-a8c48c929d2c",
+      "recipe_id": "850e8400-1271-428b-9f63-ec0f757900a3",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": "j50e8400-d8e5-4271-9554-30c28ae925c0",
+      "content": "Được đấy, thời gian nấu sẽ giảm xuống.",
+      "helpful_count": 0,
+      "created_at": "2024-09-16T00:00:00Z",
+      "updated_at": "2024-12-12T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-5af6-439a-bc63-99103b811761",
+      "recipe_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": "j50e8400-34d6-45c5-9ce3-9df6beaaa5bc",
+      "content": "Bạn có thể điều chỉnh theo khẩu vị nhé.",
+      "helpful_count": 1,
+      "created_at": "2024-08-15T00:00:00Z",
+      "updated_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-9b6d-4e27-b2c3-1fc35ce36006",
+      "recipe_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": "j50e8400-22d1-4aff-bf2c-609f84449ebe",
+      "content": "Được đấy, thời gian nấu sẽ giảm xuống.",
+      "helpful_count": 3,
+      "created_at": "2024-08-17T00:00:00Z",
+      "updated_at": "2024-12-28T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-fca9-450e-b7d0-36a2d53741b9",
+      "recipe_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": "j50e8400-22d1-4aff-bf2c-609f84449ebe",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 4,
+      "created_at": "2024-12-02T00:00:00Z",
+      "updated_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-b3e2-40d6-b4c6-00a6b1ac6f80",
+      "recipe_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": "j50e8400-f92c-4124-9aa7-f395f3b481cf",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 3,
+      "created_at": "2024-09-13T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-923b-40fe-9993-f15236fbaf16",
+      "recipe_id": "850e8400-d084-4306-a24d-3c89589d4b02",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": "j50e8400-698a-445e-a911-6c643cd5a67d",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 5,
+      "created_at": "2024-11-21T00:00:00Z",
+      "updated_at": "2024-12-13T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-ee27-47d9-bcee-44f72068ce93",
+      "recipe_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": "j50e8400-b70d-4401-a9b9-232838856530",
+      "content": "Cảm ơn bạn! Rất vui vì món ăn phù hợp với bạn.",
+      "helpful_count": 5,
+      "created_at": "2024-09-22T00:00:00Z",
+      "updated_at": "2024-12-30T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-9846-4fa9-9a4d-c4619c06438b",
+      "recipe_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "parent_id": "j50e8400-a8bf-4c56-bad3-4dc2b6661b4d",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 1,
+      "created_at": "2024-11-19T00:00:00Z",
+      "updated_at": "2024-12-26T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-3f70-49cd-b071-da680f706286",
+      "recipe_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "parent_id": "j50e8400-72b4-43bc-9560-72d0263c4c86",
+      "content": "Bạn có thể điều chỉnh theo khẩu vị nhé.",
+      "helpful_count": 3,
+      "created_at": "2024-11-16T00:00:00Z",
+      "updated_at": "2024-12-30T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-39c9-4afa-a28e-7edb047a22e7",
+      "recipe_id": "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "parent_id": "j50e8400-6255-498e-b229-a324afa83033",
+      "content": "Cảm ơn bạn đã theo dõi!",
+      "helpful_count": 5,
+      "created_at": "2024-09-17T00:00:00Z",
+      "updated_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-0817-4c14-a830-42cdcb723200",
+      "recipe_id": "850e8400-d31f-44af-a75a-69210fd6e876",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "parent_id": "j50e8400-0d3a-461a-85d0-1bb304dbd2e8",
+      "content": "Có thể thay thế được, nhưng vị sẽ khác một chút.",
+      "helpful_count": 2,
+      "created_at": "2024-12-30T00:00:00Z",
+      "updated_at": "2024-12-26T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-d593-43fb-a677-9c2ce2eb7230",
+      "recipe_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": "j50e8400-2f5e-49eb-ba72-b2f09cabc524",
+      "content": "Bạn có thể điều chỉnh theo khẩu vị nhé.",
+      "helpful_count": 4,
+      "created_at": "2024-12-24T00:00:00Z",
+      "updated_at": "2024-12-24T00:00:00Z"
+    },
+    {
+      "id": "j50e8400-0894-43a2-9dba-d81eb517c188",
+      "recipe_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "parent_id": "j50e8400-16b5-4db6-84a4-63590934ef63",
+      "content": "Có thể thay thế được, nhưng vị sẽ khác một chút.",
+      "helpful_count": 5,
+      "created_at": "2024-09-07T00:00:00Z",
+      "updated_at": "2024-12-14T00:00:00Z"
+    }
+  ]
+}

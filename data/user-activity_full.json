@@ -1,0 +1,2429 @@
+{
+  "user_activities": [
+    {
+      "id": "h50e8400-2bb3-4cd2-a445-530be96e858a",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "comment",
+      "target_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+      "metadata": {
+        "comment_length": 293
+      },
+      "ip_address": "192.168.167.46",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-31T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-69ea-4bee-9258-2e2c44769461",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-f714-42dc-9caa-619087b887fa",
+      "metadata": {
+        "recipe_title": "Cơm Tấm Sườn Bì Chả"
+      },
+      "ip_address": "192.168.209.176",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-31T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-d53f-4b84-be40-26700403980c",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "metadata": {
+        "duration_minutes": 161
+      },
+      "ip_address": "192.168.13.213",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-30T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-dbe5-44a1-bc8a-6ab12d19c6c1",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+      "metadata": {
+        "recipe_title": "Bánh Xèo"
+      },
+      "ip_address": "192.168.39.211",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-27T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-f880-4ff5-9af0-bf1105955544",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.170.166",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-dd3d-4141-b4cd-4995904c4d71",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+      "metadata": {
+        "recipe_title": "Phở Bò Hà Nội"
+      },
+      "ip_address": "192.168.14.128",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-ddac-44b4-936e-e303eb946450",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.56.101",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-b885-4897-8368-f06353d334fd",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.70.224",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-24T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-3159-4ec3-9a8f-5981cc3fad43",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-2430-40dd-b89a-64070a6ac51d",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.38.142",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-10cb-4af1-b3e8-228a05cfb484",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-dfe7-4a14-b245-0f7ed4b8b433",
+      "metadata": {
+        "message_length": 103
+      },
+      "ip_address": "192.168.10.117",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-21T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-9d89-49f2-8aeb-1fdc4d719d59",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "comment",
+      "target_id": "850e8400-4a40-4ad4-a5f5-5c5212168365",
+      "metadata": {
+        "comment_length": 166
+      },
+      "ip_address": "192.168.145.9",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-21T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-4824-449d-babc-3d10654339f7",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-0193-4584-9397-8d62e5036077",
+      "metadata": {
+        "duration_minutes": 86
+      },
+      "ip_address": "192.168.210.162",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-20T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-1a53-412b-9d26-3bceab074d98",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "món ngon",
+        "results": 12
+      },
+      "ip_address": "192.168.205.47",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-20T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-4a61-4f1b-bd67-892811c81ab5",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "canh chua",
+        "results": 10
+      },
+      "ip_address": "192.168.231.167",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-6016-43ff-924f-901282d4bf11",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-1271-428b-9f63-ec0f757900a3",
+      "metadata": {
+        "duration_minutes": 174
+      },
+      "ip_address": "192.168.39.74",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-403f-4ee1-9e02-50da41f2692a",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-f60f-4953-a1aa-3701da105e8a",
+      "metadata": {
+        "recipe_title": "Phở Gà"
+      },
+      "ip_address": "192.168.86.173",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-7556-4f3f-9582-46f8e16b03d6",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.29.179",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-b097-46e5-aea5-9da0ad1d9a0d",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-d562-4490-8610-98fdfb5657bc",
+      "metadata": {
+        "recipe_title": "Bánh Xèo"
+      },
+      "ip_address": "192.168.24.142",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-0db5-4309-b8bc-f2d1743b93aa",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.66.82",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-8ec3-4db3-833a-5c62f7f4ccad",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.181.163",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-31c5-4add-9537-8e415be4b8b4",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "metadata": {
+        "recipe_title": "Bánh Xèo"
+      },
+      "ip_address": "192.168.192.89",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-6d9b-4e98-bd4a-bc8ba24c49de",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "comment",
+      "target_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+      "metadata": {
+        "comment_length": 106
+      },
+      "ip_address": "192.168.196.128",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2a03-4c9f-89b2-649211c7654d",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+      "metadata": {
+        "duration_minutes": 162
+      },
+      "ip_address": "192.168.178.4",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-967e-4aa5-b41f-672a86e3ea73",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "30 phút",
+        "results": 48
+      },
+      "ip_address": "192.168.203.12",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-7229-44fd-b8e0-e1fb42b552d8",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-2430-40dd-b89a-64070a6ac51d",
+      "metadata": {
+        "recipe_title": "Phở Bò Hà Nội"
+      },
+      "ip_address": "192.168.97.74",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-16T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-10b2-45a6-a966-4e5523f34910",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-d2fd-4d8d-a426-04d051ec504b",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.190.185",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-d2ff-4c28-9b98-e8c02f8da2de",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-3162-4cfc-94fb-6635630de168",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.175.216",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-fd07-4eb9-8d0b-3efb90153c0b",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-e66a-416d-834e-e493ae280292",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.107.207",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-3e31-45cd-bd84-4558ebaef965",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.28.198",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-14T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-fede-4c95-8cc9-e7dcd54962f6",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-d9ed-43fd-8854-b2083d160ae8",
+      "metadata": {
+        "message_length": 160
+      },
+      "ip_address": "192.168.237.177",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-12T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-c109-446d-b68e-4f1c84010044",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-4a40-4ad4-a5f5-5c5212168365",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.75.169",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-12T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-fcd4-4baf-b54a-abc8e7e2fd9b",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.137.83",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-11T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-769f-4e30-ab02-c20d149e42e8",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "comment",
+      "target_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+      "metadata": {
+        "comment_length": 154
+      },
+      "ip_address": "192.168.240.52",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-11T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-34aa-4301-9b9b-b8414b272b21",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+      "metadata": {
+        "duration_minutes": 35
+      },
+      "ip_address": "192.168.237.7",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-10T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-1add-4fbe-bfae-3cb73a467584",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-f714-42dc-9caa-619087b887fa",
+      "metadata": {
+        "duration_minutes": 35
+      },
+      "ip_address": "192.168.114.109",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-09T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-508d-47e6-bd79-0544f9a436cb",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+      "metadata": {
+        "recipe_title": "Bánh Xèo"
+      },
+      "ip_address": "192.168.174.48",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-09T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-59f7-4720-83ef-1406ccf4be45",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-9f01-448d-a472-fb989cc4879e",
+      "metadata": {
+        "message_length": 73
+      },
+      "ip_address": "192.168.32.109",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-ccb4-4bb6-90dd-5b4fa708744f",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-c8ef-4307-bb94-27dc01ef0722",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.173.51",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-06T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-0466-498a-b645-b7162f919347",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "30 phút",
+        "results": 26
+      },
+      "ip_address": "192.168.213.152",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-04T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-888e-438f-aee8-34bcc78f4f0e",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+      "metadata": {
+        "duration_minutes": 175
+      },
+      "ip_address": "192.168.163.129",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-32de-478d-ae14-9d6235af180f",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-e66a-416d-834e-e493ae280292",
+      "metadata": {
+        "recipe_title": "Cơm Tấm Sườn Bì Chả"
+      },
+      "ip_address": "192.168.233.223",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-ca67-4a8b-bcc3-8dc928d3a458",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-2664-4cc6-9108-1d69b6b6146f",
+      "metadata": {
+        "duration_minutes": 74
+      },
+      "ip_address": "192.168.54.118",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-02T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-338c-47ba-8779-71698a3bb4eb",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "món ăn sáng",
+        "results": 33
+      },
+      "ip_address": "192.168.156.47",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-12-02T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-5668-4ace-9130-43259092f049",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-5b86-4382-b01c-b60968d03c6e",
+      "metadata": {
+        "message_length": 70
+      },
+      "ip_address": "192.168.130.12",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-30T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-7687-4860-aa11-09f499c9c3cf",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+      "metadata": {
+        "duration_minutes": 59
+      },
+      "ip_address": "192.168.252.216",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-29T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-56a8-4681-a37e-e21ffb830c81",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.204.54",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-76b5-40b9-8a8b-68a72927703c",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-9c6f-49a0-83ed-91c897fb729d",
+      "metadata": {
+        "message_length": 186
+      },
+      "ip_address": "192.168.14.149",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-d6d7-4554-81ee-25fb61be8bae",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-d2fd-4d8d-a426-04d051ec504b",
+      "metadata": {
+        "duration_minutes": 74
+      },
+      "ip_address": "192.168.39.70",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-5366-4985-b5cf-6947ffb3d8e4",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-3a37-40bd-bb64-1d32ad125aec",
+      "metadata": {
+        "message_length": 163
+      },
+      "ip_address": "192.168.249.252",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-e5de-402e-85a6-70459fbba2c7",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "metadata": {
+        "duration_minutes": 136
+      },
+      "ip_address": "192.168.31.203",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-24T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-809e-4b8c-9c4a-0c4b27220284",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-da65-494b-8a26-def5c1f4be65",
+      "metadata": {
+        "duration_minutes": 80
+      },
+      "ip_address": "192.168.104.122",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-23T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-c385-46bf-a665-e4c5978a3755",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "comment",
+      "target_id": "850e8400-d562-4490-8610-98fdfb5657bc",
+      "metadata": {
+        "comment_length": 174
+      },
+      "ip_address": "192.168.72.75",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-23T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-be67-4bc7-b0f9-6bd75dbb847b",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-1619-4a7f-b54b-7ab836cdf532",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.39.246",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-22T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-e318-45a7-8eb3-aeb652f75078",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "chè",
+        "results": 11
+      },
+      "ip_address": "192.168.114.157",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-21T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-ead6-41c1-99a2-497f3d5609ae",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+      "metadata": {
+        "recipe_title": "Phở Gà"
+      },
+      "ip_address": "192.168.171.91",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-21T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-5ba1-47bf-97b0-3b08dce94dde",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "comment",
+      "target_id": "850e8400-14a6-4010-8b45-64f562582691",
+      "metadata": {
+        "comment_length": 42
+      },
+      "ip_address": "192.168.53.173",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-19T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-fa7f-4267-a828-28fc23a0fa10",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-b73f-40ca-9130-a44d4cbcf71c",
+      "metadata": {
+        "recipe_title": "Phở Gà"
+      },
+      "ip_address": "192.168.198.155",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-bcc6-4253-8731-bf9fb06e4d85",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-d562-4490-8610-98fdfb5657bc",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.27.66",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-ac12-4ce2-a1b8-5edda40f9bf6",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "metadata": {
+        "duration_minutes": 62
+      },
+      "ip_address": "192.168.231.76",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2d25-4295-b51e-ead655b2ba8a",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-bfa9-460b-a293-d725d09f56a7",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.45.204",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-0364-4b73-9c16-cc15c8a1ef39",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-4812-449c-aadd-77fdb83c9aff",
+      "metadata": {
+        "message_length": 26
+      },
+      "ip_address": "192.168.131.47",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-14T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-fff2-4afc-b620-a8140ea4a494",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-b73f-40ca-9130-a44d4cbcf71c",
+      "metadata": {
+        "recipe_title": "Bún Bò Huế"
+      },
+      "ip_address": "192.168.16.141",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-11T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-633c-4b02-bcef-7a92873491cb",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-d31f-44af-a75a-69210fd6e876",
+      "metadata": {
+        "duration_minutes": 60
+      },
+      "ip_address": "192.168.124.28",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-11T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-7530-4df9-8844-00ae9ef15339",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+      "metadata": {
+        "recipe_title": "Bánh Xèo"
+      },
+      "ip_address": "192.168.90.72",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-11T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-f221-4207-a0f0-be7cd0222cce",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-1271-428b-9f63-ec0f757900a3",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.176.90",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-10T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-cd1e-41fd-abc7-a5ecc2c7f16d",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.107.213",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-08T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-a573-403c-a5da-b48d92107953",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-ee15-4000-87d9-717756506057",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.250.67",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-08T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-0960-4552-888a-72d08ae0ee69",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+      "metadata": {
+        "recipe_title": "Phở Gà"
+      },
+      "ip_address": "192.168.215.148",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-07T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-00c0-4e8b-b23b-9fe8bce0ea66",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.37.110",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-06T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-b15b-4d1e-b311-20bbd9238c8d",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-d562-4490-8610-98fdfb5657bc",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.124.53",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-06T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-8fc2-428a-a22a-8a9cbfdb9d04",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "cách nấu phở",
+        "results": 23
+      },
+      "ip_address": "192.168.27.232",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-04T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-baf7-4f98-b37e-560dbed93632",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+      "metadata": {
+        "recipe_title": "Cơm Tấm Sườn Bì Chả"
+      },
+      "ip_address": "192.168.76.253",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-03T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-c119-4eb4-958e-8432620bb5bc",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "comment",
+      "target_id": "850e8400-d0dc-4563-aec2-b68baf0d7ab3",
+      "metadata": {
+        "comment_length": 86
+      },
+      "ip_address": "192.168.107.72",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-11-01T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-7072-47f7-aed4-a60cc40f4870",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+      "metadata": {
+        "recipe_title": "Cơm Tấm Sườn Bì Chả"
+      },
+      "ip_address": "192.168.160.104",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-31T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-ac04-4214-a574-377e59ec4b65",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.147.225",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-30T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-611d-44a5-8a91-191f9877817d",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-ee15-4000-87d9-717756506057",
+      "metadata": {
+        "duration_minutes": 45
+      },
+      "ip_address": "192.168.30.94",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-29T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-d04a-41a0-8b19-77c72e94b397",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-f374-44e4-8db6-cc04e8631563",
+      "metadata": {
+        "message_length": 38
+      },
+      "ip_address": "192.168.198.91",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-29T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-60d8-4027-a370-9f8f7e603ac0",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "comment",
+      "target_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "metadata": {
+        "comment_length": 120
+      },
+      "ip_address": "192.168.32.171",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-28T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-0f6b-42f8-a99b-b433c7678dd1",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+      "metadata": {
+        "duration_minutes": 151
+      },
+      "ip_address": "192.168.86.31",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-27T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-1850-4884-b7c2-071e1cb15529",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+      "metadata": {
+        "duration_minutes": 106
+      },
+      "ip_address": "192.168.246.114",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-27T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-8997-44e6-9003-0de295b8f087",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "metadata": {
+        "recipe_title": "Cơm Tấm Sườn Bì Chả"
+      },
+      "ip_address": "192.168.107.35",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-26T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-376d-4eb9-aa00-1a06ebb88bb9",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.128.109",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-dc9d-411c-8aa8-4b08ed19d6bc",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.178.227",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-4ace-4c4f-9e0a-9fd827dc4d9f",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.255.201",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-24T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-3acf-42ea-a154-89e5fc0d9dd0",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+      "metadata": {
+        "duration_minutes": 149
+      },
+      "ip_address": "192.168.196.112",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-24T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-8197-40f1-9abc-b93df2b7e5ba",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+      "metadata": {
+        "duration_minutes": 162
+      },
+      "ip_address": "192.168.75.176",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-23T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-8508-4dcd-82a0-57d32b5da1ed",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "metadata": {
+        "recipe_title": "Phở Gà"
+      },
+      "ip_address": "192.168.193.145",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-22T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-8a42-42b7-af39-daa7f1b136f4",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-0193-4584-9397-8d62e5036077",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.89.243",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-21T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-aa03-45d1-9289-b54d7b3410fa",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+      "metadata": {
+        "duration_minutes": 109
+      },
+      "ip_address": "192.168.44.173",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-20T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-f6f6-4af7-9b26-617f7022a434",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-14a6-4010-8b45-64f562582691",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.12.248",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-19T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-cd20-4bc6-af54-a74309649067",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "metadata": {
+        "duration_minutes": 50
+      },
+      "ip_address": "192.168.111.217",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-929f-42e0-8604-5e7aeb11b28f",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-d31f-44af-a75a-69210fd6e876",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.73.18",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-17T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-19ce-4773-b2d3-05847aae017a",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-4fb4-486b-87f2-13fdb06b35d8",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.42.47",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-15T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-e195-46bb-b0da-65839cf89bfc",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "thịt kho",
+        "results": 49
+      },
+      "ip_address": "192.168.235.169",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-15T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-4eb5-45c9-a504-dfa06430fc28",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "món ăn truyền thống",
+        "results": 27
+      },
+      "ip_address": "192.168.252.37",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-14T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-3545-45bd-906a-c19e24a3bf81",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-d562-4490-8610-98fdfb5657bc",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.29.193",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-13T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-550b-4ab6-ab4c-84eb42f7c206",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "cơm tấm",
+        "results": 41
+      },
+      "ip_address": "192.168.180.82",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-13T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-08e0-4fea-8e21-68f4e5868cbe",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-41e2-4498-a1a8-502a01c6396e",
+      "metadata": {
+        "recipe_title": "Bún Bò Huế"
+      },
+      "ip_address": "192.168.165.102",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-12T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-4ce9-4b44-9edd-c5fe6f782fa7",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-c8ef-4307-bb94-27dc01ef0722",
+      "metadata": {
+        "recipe_title": "Phở Gà"
+      },
+      "ip_address": "192.168.83.187",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-11T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-43c3-4cff-ad67-b3c53f48b10e",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "low carb",
+        "results": 37
+      },
+      "ip_address": "192.168.71.89",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-11T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-6429-4d77-a0d6-e4d0fa950f9f",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+      "metadata": {
+        "recipe_title": "Bánh Xèo"
+      },
+      "ip_address": "192.168.186.178",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-09T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-bd2b-4f96-a662-cf23cb795189",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-14a6-4010-8b45-64f562582691",
+      "metadata": {
+        "recipe_title": "Cơm Tấm Sườn Bì Chả"
+      },
+      "ip_address": "192.168.172.76",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-09T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-b94f-4c32-ac4c-932470ed75e3",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-da65-494b-8a26-def5c1f4be65",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.170.39",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-07T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-3e53-40a9-9db9-7529f9c01ba5",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+      "metadata": {
+        "duration_minutes": 81
+      },
+      "ip_address": "192.168.46.98",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-07T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-cef8-44b3-ab99-97068ae28669",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-85bc-4307-910b-0a1af5d5ad41",
+      "metadata": {
+        "message_length": 39
+      },
+      "ip_address": "192.168.6.57",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-05T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-4be2-4d66-8173-401e3019addb",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-eabb-4400-9ac1-95cb1160381f",
+      "metadata": {
+        "duration_minutes": 131
+      },
+      "ip_address": "192.168.24.106",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-04T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-5d35-4bf0-8f62-6c2a7fbec883",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-f714-42dc-9caa-619087b887fa",
+      "metadata": {
+        "recipe_title": "Bún Bò Huế"
+      },
+      "ip_address": "192.168.39.133",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-04T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-191c-4f8f-afcc-57014a308674",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.220.255",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-04T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-0dd6-4b7f-83e2-dbb01eca842a",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.140.43",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-04T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-db73-4c78-9e2b-1c3d13573e6a",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "món nướng",
+        "results": 9
+      },
+      "ip_address": "192.168.242.239",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-03T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-604d-48ed-bc99-6dfd0d727850",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-d562-4490-8610-98fdfb5657bc",
+      "metadata": {
+        "duration_minutes": 165
+      },
+      "ip_address": "192.168.148.14",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-10-02T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-7654-455d-8308-84471490aaa6",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.225.118",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-30T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-524f-4fd1-94c2-a9d62d054c0d",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-a473-4d7b-b03c-3578144b90f0",
+      "metadata": {
+        "duration_minutes": 167
+      },
+      "ip_address": "192.168.176.228",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-29T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2b1c-4a6e-acb0-5f0ee26cad7f",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+      "metadata": {
+        "recipe_title": "Bún Bò Huế"
+      },
+      "ip_address": "192.168.181.100",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-28T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-8a38-4a34-ac98-a76afd80e349",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-d0dc-4563-aec2-b68baf0d7ab3",
+      "metadata": {
+        "recipe_title": "Bún Bò Huế"
+      },
+      "ip_address": "192.168.6.114",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-28T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-fad0-4346-9e0b-e501e53a4d2e",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "metadata": {
+        "recipe_title": "Bánh Xèo"
+      },
+      "ip_address": "192.168.111.198",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-28T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2072-48f6-bff9-8cab7abc9e66",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-e66a-416d-834e-e493ae280292",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.97.83",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-28T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-bc25-4bd4-8d1a-c3635f96b2b4",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-c8ef-4307-bb94-27dc01ef0722",
+      "metadata": {
+        "duration_minutes": 159
+      },
+      "ip_address": "192.168.26.174",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-28T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2a01-4d92-a28d-af610dae36cc",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "comment",
+      "target_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+      "metadata": {
+        "comment_length": 35
+      },
+      "ip_address": "192.168.207.72",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-26T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-c563-4b27-bb2b-51487b3e9a78",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-e363-42b2-91f8-d88e044d1b23",
+      "metadata": {
+        "recipe_title": "Cơm Tấm Sườn Bì Chả"
+      },
+      "ip_address": "192.168.45.63",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-03b9-42d0-b641-3800c42c2253",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-e363-42b2-91f8-d88e044d1b23",
+      "metadata": {
+        "duration_minutes": 31
+      },
+      "ip_address": "192.168.75.99",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-db40-447d-b13a-688588077fec",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-ee15-4000-87d9-717756506057",
+      "metadata": {
+        "recipe_title": "Phở Bò Hà Nội"
+      },
+      "ip_address": "192.168.182.83",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-24T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-9061-4c09-94af-728fed710429",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "món chay",
+        "results": 22
+      },
+      "ip_address": "192.168.18.91",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-24T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-93de-456c-b80a-633e47b4a3b0",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.170.227",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-24T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-ac7e-42f1-86d0-c103ee2c2e27",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+      "metadata": {
+        "recipe_title": "Bún Bò Huế"
+      },
+      "ip_address": "192.168.92.225",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-24T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-62b6-453b-b35d-be49fa4269f2",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-4fb4-486b-87f2-13fdb06b35d8",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.120.124",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-19T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-d74d-490f-b5a1-50588a6db51f",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-f60f-4953-a1aa-3701da105e8a",
+      "metadata": {
+        "duration_minutes": 48
+      },
+      "ip_address": "192.168.221.90",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-a27b-4b00-bc7a-5151054f76f1",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "metadata": {
+        "duration_minutes": 106
+      },
+      "ip_address": "192.168.195.14",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-ee48-4086-8471-8a827db03b33",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-8eb6-4fee-b14e-25162e30502f",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.29.116",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-16T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-27b8-479a-a974-65c4ccc13aa8",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "cá kho tộ",
+        "results": 35
+      },
+      "ip_address": "192.168.60.170",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-16T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-f31e-47b7-acc4-fe097d02b43f",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "phở bò",
+        "results": 40
+      },
+      "ip_address": "192.168.32.179",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-15T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-276e-4df6-939e-016b15b49951",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-3aab-4687-b856-428794d42775",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.124.212",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-11T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-68e0-422f-8057-a47c84cd2608",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "comment",
+      "target_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+      "metadata": {
+        "comment_length": 24
+      },
+      "ip_address": "192.168.171.127",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-10T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-6180-4529-9140-82ef2e13efdd",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.123.159",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-09T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-cc43-471c-8ee4-7c73e56646fc",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-3162-4cfc-94fb-6635630de168",
+      "metadata": {
+        "recipe_title": "Phở Bò Hà Nội"
+      },
+      "ip_address": "192.168.100.136",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-08T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-3081-46c5-87d3-d29206f8cb2e",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "cơm tấm",
+        "results": 46
+      },
+      "ip_address": "192.168.71.166",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-08T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-57c7-4dde-b05d-df0abbe391d0",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-d31f-44af-a75a-69210fd6e876",
+      "metadata": {
+        "duration_minutes": 128
+      },
+      "ip_address": "192.168.11.197",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-08T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-b07c-4349-9e65-5d03b5f27e57",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-f60f-4953-a1aa-3701da105e8a",
+      "metadata": {
+        "duration_minutes": 45
+      },
+      "ip_address": "192.168.164.88",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-07T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-1f10-4f33-a882-7cee2ef03ce6",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-e785-4dc6-a05c-ca98d2a3d228",
+      "metadata": {
+        "message_length": 125
+      },
+      "ip_address": "192.168.217.71",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-07T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-676e-4830-878b-d28c795d61c3",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "comment",
+      "target_id": "850e8400-3aab-4687-b856-428794d42775",
+      "metadata": {
+        "comment_length": 61
+      },
+      "ip_address": "192.168.130.123",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-05T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-8388-4336-a0a9-a8e5bbf16d2c",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.31.144",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-09-04T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-80a7-4355-8ffa-fb942d26765e",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.200.161",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-31T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-7029-4e0e-b3d3-e6d0c7547fb4",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-c15d-4f61-9075-5594ce78745a",
+      "metadata": {
+        "message_length": 165
+      },
+      "ip_address": "192.168.136.106",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-31T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2144-4bce-8f7f-0d2aec887fa5",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-34b7-4968-885b-9cfbb3f02db7",
+      "metadata": {
+        "message_length": 63
+      },
+      "ip_address": "192.168.184.2",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-31T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-dd4b-48d7-96a5-2337d23d5cd6",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "30 phút",
+        "results": 18
+      },
+      "ip_address": "192.168.115.226",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-28T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-743c-4eff-8beb-850a2e88968c",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "món tráng miệng",
+        "results": 32
+      },
+      "ip_address": "192.168.133.34",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-6f9c-455c-aa6a-eb3ec4bb7c61",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+      "metadata": {
+        "duration_minutes": 172
+      },
+      "ip_address": "192.168.123.143",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-24T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-8a33-4c55-ba6c-147eb665aafe",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-3aab-4687-b856-428794d42775",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.4.69",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-24T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-8f0a-4a29-9d16-bfd024888dfb",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.87.239",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-22T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-6a72-4db7-b171-0f7e64640a37",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-1271-428b-9f63-ec0f757900a3",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.131.32",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-876f-448a-a5ae-8f8354eb5ff2",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-d31f-44af-a75a-69210fd6e876",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.107.99",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-15T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-5ece-4029-a638-a6bdf9d08a90",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-1beb-4fa3-9cb9-fd5fc3149cdc",
+      "metadata": {
+        "message_length": 107
+      },
+      "ip_address": "192.168.229.50",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-13T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-9dd3-4b3f-92b6-6f1006725e43",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-d6b0-4816-8b84-c899a0cbbd63",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.160.211",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-12T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-a6ce-41d8-8c42-f88ad836a14e",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.114.198",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-12T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-c392-40e7-a3fd-fa286e9676fe",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-e66a-416d-834e-e493ae280292",
+      "metadata": {
+        "duration_minutes": 76
+      },
+      "ip_address": "192.168.198.168",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-10T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-f069-432a-96fc-314b0e9c6863",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-3162-4cfc-94fb-6635630de168",
+      "metadata": {
+        "duration_minutes": 55
+      },
+      "ip_address": "192.168.172.127",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-10T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-9341-441b-a34a-b769d7368b4e",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-d084-4306-a24d-3c89589d4b02",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.253.106",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-09T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-a005-4dd5-aef5-15301902eed8",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-35b8-4351-be8b-d8d6152b7dae",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.56.233",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-09T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-b0be-4c44-834a-33e11016a5b3",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "món ăn sáng",
+        "results": 5
+      },
+      "ip_address": "192.168.178.147",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-09T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-7627-43e8-baaa-03b82bb4e0cf",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.199.235",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-07T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-41ec-4b12-931d-d5c033011eb5",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-ee15-4000-87d9-717756506057",
+      "metadata": {
+        "duration_minutes": 136
+      },
+      "ip_address": "192.168.174.17",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-07T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-04ef-41d0-8ba7-9305ee72e084",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_complete",
+      "target_id": "850e8400-e363-42b2-91f8-d88e044d1b23",
+      "metadata": {
+        "duration_minutes": 82
+      },
+      "ip_address": "192.168.214.232",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-04T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-14fd-4e9b-82d6-3609643b148d",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "comment",
+      "target_id": "850e8400-4ecb-4736-924d-7fc3d7d76609",
+      "metadata": {
+        "comment_length": 43
+      },
+      "ip_address": "192.168.222.163",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-04T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2b84-4005-af71-194789ea5825",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-c8ef-4307-bb94-27dc01ef0722",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.160.84",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-04T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-bc86-4f08-ac4c-0e68c8bc316e",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+      "metadata": {
+        "duration_minutes": 102
+      },
+      "ip_address": "192.168.17.235",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-03T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-becf-4a9a-abc3-cf22d8a68627",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "comment",
+      "target_id": "850e8400-25d5-4cfe-99b7-dde2d76de834",
+      "metadata": {
+        "comment_length": 253
+      },
+      "ip_address": "192.168.16.206",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-03T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-a5ce-4b7d-9567-d415c0a493a0",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-3e65-4304-88bd-17f366c537a7",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.118.187",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-02T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-544d-4f82-94cc-e2c33f31332e",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "comment",
+      "target_id": "850e8400-e363-42b2-91f8-d88e044d1b23",
+      "metadata": {
+        "comment_length": 31
+      },
+      "ip_address": "192.168.152.161",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-08-02T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-a013-40dc-9983-f5d692b439fd",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "comment",
+      "target_id": "850e8400-2b00-4da9-925b-a87e09f41e7f",
+      "metadata": {
+        "comment_length": 256
+      },
+      "ip_address": "192.168.202.177",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-30T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-3a86-4a68-b3d8-928436176a40",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-1fa0-4469-b63b-f252a332a24a",
+      "metadata": {
+        "message_length": 33
+      },
+      "ip_address": "192.168.215.190",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-30T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-c3bb-4848-912d-9b5179d71598",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+      "metadata": {
+        "recipe_title": "Phở Gà"
+      },
+      "ip_address": "192.168.241.172",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-29T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-a92e-4b47-9c25-23237059eb7b",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+      "metadata": {
+        "recipe_title": "Phở Gà"
+      },
+      "ip_address": "192.168.225.13",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-28T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-6c39-4589-905e-25fe551162d7",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+      "metadata": {
+        "recipe_title": "Phở Bò Hà Nội"
+      },
+      "ip_address": "192.168.104.33",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-28T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-7518-4790-9fae-8cf7b210a4bd",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.222.74",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-27T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-89f6-49cf-abef-bda0334f34f7",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "cá kho tộ",
+        "results": 45
+      },
+      "ip_address": "192.168.215.112",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-27T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-375a-4bc2-82f9-77ee8c0477ae",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "comment",
+      "target_id": "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+      "metadata": {
+        "comment_length": 136
+      },
+      "ip_address": "192.168.218.210",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-26T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-114e-4073-92f0-ffcac716da42",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-4fb4-486b-87f2-13fdb06b35d8",
+      "metadata": {
+        "recipe_title": "Bún Riêu Cua"
+      },
+      "ip_address": "192.168.137.130",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-26T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-6295-4d7c-bf64-da3336379614",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "comment",
+      "target_id": "850e8400-5508-4005-809a-b7b5d969ba29",
+      "metadata": {
+        "comment_length": 263
+      },
+      "ip_address": "192.168.173.228",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-25T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-6037-4500-8364-5de3fca76447",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+      "metadata": {
+        "recipe_title": "Bánh Xèo"
+      },
+      "ip_address": "192.168.99.226",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-23T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-0a13-4e77-8faa-8fadfefa239e",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+      "metadata": {
+        "recipe_title": "Chả Giò"
+      },
+      "ip_address": "192.168.26.58",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-23T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-ed1f-4cb0-a296-02fb13add599",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "cooking_start",
+      "target_id": "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+      "metadata": {
+        "duration_minutes": 157
+      },
+      "ip_address": "192.168.76.179",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-22T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-7316-4d55-bd73-7ce802707452",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-4b04-4457-b9de-b61043d6087a",
+      "metadata": {
+        "recipe_title": "Phở Gà"
+      },
+      "ip_address": "192.168.74.105",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-21T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-88b6-417f-82b3-656cfbb05015",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.25.99",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-21T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-6cb5-4e29-a69a-982554a3ec90",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-eabb-4400-9ac1-95cb1160381f",
+      "metadata": {
+        "recipe_title": "Bún Chả Hà Nội"
+      },
+      "ip_address": "192.168.76.53",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-19T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-4bed-47e2-bf33-325f43047f19",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "thịt kho",
+        "results": 35
+      },
+      "ip_address": "192.168.191.4",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-19T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-d3ba-4849-94e2-403a3cda237c",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_rating",
+      "target_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "metadata": {
+        "recipe_title": "Cơm Tấm Sườn Bì Chả"
+      },
+      "ip_address": "192.168.219.24",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-18T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-9f07-41c9-95c5-bc88c5884924",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_view",
+      "target_id": "850e8400-ad2e-4066-ac36-fca91405ed36",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.97.102",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-17T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-5e3e-44f3-bb7b-b43a7350ab69",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "chat_message",
+      "target_id": "d50e8400-8faf-4ed8-94e0-aa5f32288869",
+      "metadata": {
+        "message_length": 56
+      },
+      "ip_address": "192.168.129.23",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-16T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2c9a-42be-8db4-09302f322392",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+      "metadata": {
+        "recipe_title": "Gỏi Cuốn Tôm Thịt"
+      },
+      "ip_address": "192.168.145.139",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-16T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-92bf-4cca-8884-c0d68737e1e1",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_share",
+      "target_id": "850e8400-5508-4005-809a-b7b5d969ba29",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.99.115",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-15T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-682f-41a3-a0cf-7d3458bbb02d",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "healthy",
+        "results": 18
+      },
+      "ip_address": "192.168.208.225",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-15T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-30af-438a-921b-e946c3f1250f",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "comment",
+      "target_id": "850e8400-f714-42dc-9caa-619087b887fa",
+      "metadata": {
+        "comment_length": 70
+      },
+      "ip_address": "192.168.106.12",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-13T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-0b50-49f9-8f68-f3705870f936",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "ăn kiêng",
+        "results": 20
+      },
+      "ip_address": "192.168.133.244",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-12T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2140-46e7-a9e1-8a8b60689f02",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "thịt kho",
+        "results": 32
+      },
+      "ip_address": "192.168.163.39",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-10T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-233b-4ae6-a8dd-93246aa31a88",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+      "metadata": {
+        "recipe_title": "Bánh Mì Thịt"
+      },
+      "ip_address": "192.168.40.196",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-09T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-a863-4767-976a-6119cd6c04bf",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "search",
+      "target_id": null,
+      "metadata": {
+        "query": "món ăn sáng",
+        "results": 36
+      },
+      "ip_address": "192.168.187.116",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-07T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-f8d5-4877-96aa-bef9d2f07c03",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "activity_type": "recipe_unfavorite",
+      "target_id": "850e8400-aa29-42e7-b46f-1f4d8573177e",
+      "metadata": {
+        "recipe_title": "Bánh Xèo"
+      },
+      "ip_address": "192.168.43.237",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-07T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2dd2-4c84-ae4a-1ccabdf4a8eb",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "comment",
+      "target_id": "850e8400-3aab-4687-b856-428794d42775",
+      "metadata": {
+        "comment_length": 131
+      },
+      "ip_address": "192.168.33.208",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-06T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-9658-4ca8-a040-fc92c9ccb4e5",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "activity_type": "comment",
+      "target_id": "850e8400-ee15-4000-87d9-717756506057",
+      "metadata": {
+        "comment_length": 122
+      },
+      "ip_address": "192.168.252.78",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-06T00:00:00Z"
+    },
+    {
+      "id": "h50e8400-2bdf-4242-b39e-76e632782e39",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "activity_type": "recipe_favorite",
+      "target_id": "850e8400-f60f-4953-a1aa-3701da105e8a",
+      "metadata": {
+        "recipe_title": "Phở Bò Hà Nội"
+      },
+      "ip_address": "192.168.135.37",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "created_at": "2024-07-06T00:00:00Z"
+    }
+  ]
+}

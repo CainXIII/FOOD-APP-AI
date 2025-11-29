@@ -1,0 +1,169 @@
+{
+  "chats": [
+    {
+      "id": "d50e8400-4606-4765-b10a-1ee8802003e1",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "title": "Chat về Phở Gà",
+      "context_type": "recipe",
+      "context_id": "850e8400-bfa9-460b-a293-d725d09f56a7",
+      "message_count": 6,
+      "created_at": "2024-12-02T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z",
+      "last_message_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-198f-4f59-b9e2-c0396f0f60c9",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "title": "Chat về Rau Muống Xào Tỏi",
+      "context_type": "recipe",
+      "context_id": "850e8400-0193-4584-9397-8d62e5036077",
+      "message_count": 6,
+      "created_at": "2024-11-23T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z",
+      "last_message_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-519e-4f62-98c5-426077c6799e",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "title": "Chat về Bún Riêu Cua",
+      "context_type": "recipe",
+      "context_id": "850e8400-f714-42dc-9caa-619087b887fa",
+      "message_count": 9,
+      "created_at": "2024-10-06T00:00:00Z",
+      "updated_at": "2024-12-08T00:00:00Z",
+      "last_message_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-8854-4c0f-a5c8-6b5ecaaecdeb",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "title": "Chat về Bún Đậu Mắm Tôm",
+      "context_type": "recipe",
+      "context_id": "850e8400-3aab-4687-b856-428794d42775",
+      "message_count": 9,
+      "created_at": "2024-11-15T00:00:00Z",
+      "updated_at": "2024-12-12T00:00:00Z",
+      "last_message_at": "2024-12-24T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-1395-4619-9190-e68b2867f979",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "title": "Chat về Nước Mía",
+      "context_type": "recipe",
+      "context_id": "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+      "message_count": 9,
+      "created_at": "2024-12-08T00:00:00Z",
+      "updated_at": "2024-12-12T00:00:00Z",
+      "last_message_at": "2024-12-07T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-c44d-43c2-b5f8-2971992ed16b",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "title": "Thay thế nguyên liệu",
+      "context_type": "general",
+      "context_id": null,
+      "message_count": 10,
+      "created_at": "2024-12-14T00:00:00Z",
+      "updated_at": "2024-12-12T00:00:00Z",
+      "last_message_at": "2024-12-21T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-78f6-4c19-aace-9e75e83793bd",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "title": "Hỏi về công thức nấu ăn",
+      "context_type": "general",
+      "context_id": null,
+      "message_count": 9,
+      "created_at": "2024-09-05T00:00:00Z",
+      "updated_at": "2024-12-19T00:00:00Z",
+      "last_message_at": "2024-12-24T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-da43-44f3-acdf-7a926921227b",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "title": "Meal planning",
+      "context_type": "general",
+      "context_id": null,
+      "message_count": 9,
+      "created_at": "2024-12-03T00:00:00Z",
+      "updated_at": "2024-12-15T00:00:00Z",
+      "last_message_at": "2024-12-27T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-00e7-43de-8287-39131bc0438d",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "title": "Thay thế nguyên liệu",
+      "context_type": "general",
+      "context_id": null,
+      "message_count": 8,
+      "created_at": "2024-12-26T00:00:00Z",
+      "updated_at": "2024-12-06T00:00:00Z",
+      "last_message_at": "2024-12-26T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-a6a3-434c-948b-32e7a8d92e98",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "title": "Thay thế nguyên liệu",
+      "context_type": "general",
+      "context_id": null,
+      "message_count": 9,
+      "created_at": "2024-10-07T00:00:00Z",
+      "updated_at": "2024-12-09T00:00:00Z",
+      "last_message_at": "2024-12-09T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-8912-4b06-9bd2-7123d98ada8a",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "title": "Chat về Hủ Tiếu Nam Vang",
+      "context_type": "recipe",
+      "context_id": "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+      "message_count": 7,
+      "created_at": "2024-12-29T00:00:00Z",
+      "updated_at": "2024-12-27T00:00:00Z",
+      "last_message_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-02db-4121-84cd-e4ae773a11fb",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "title": "Chat về Bún Bò Huế",
+      "context_type": "recipe",
+      "context_id": "850e8400-de65-4c05-b587-0e99674bb9d1",
+      "message_count": 4,
+      "created_at": "2024-10-01T00:00:00Z",
+      "updated_at": "2024-12-03T00:00:00Z",
+      "last_message_at": "2024-12-18T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-8e9f-4108-b162-77bb0b825928",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "title": "Meal planning",
+      "context_type": "general",
+      "context_id": null,
+      "message_count": 3,
+      "created_at": "2024-10-29T00:00:00Z",
+      "updated_at": "2024-12-25T00:00:00Z",
+      "last_message_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-db9b-46aa-977b-4f06bed21879",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "title": "Thay thế nguyên liệu",
+      "context_type": "general",
+      "context_id": null,
+      "message_count": 3,
+      "created_at": "2024-12-15T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "last_message_at": "2024-12-28T00:00:00Z"
+    },
+    {
+      "id": "d50e8400-15a0-4481-92da-cdc009005e15",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "title": "Hỏi về công thức nấu ăn",
+      "context_type": "general",
+      "context_id": null,
+      "message_count": 6,
+      "created_at": "2024-10-10T00:00:00Z",
+      "updated_at": "2024-12-16T00:00:00Z",
+      "last_message_at": "2024-12-28T00:00:00Z"
+    }
+  ]
+}

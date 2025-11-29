@@ -1,0 +1,310 @@
+{
+  "recipe_lists": [
+    {
+      "id": "i50e8400-5722-4382-81fc-b879a53b6aa0",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "name": "Món ăn cuối tuần",
+      "description": "Các món dễ làm cho bữa ăn gia đình cuối tuần",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+        "850e8400-0193-4584-9397-8d62e5036077",
+        "850e8400-5508-4005-809a-b7b5d969ba29",
+        "850e8400-ee15-4000-87d9-717756506057",
+        "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+        "850e8400-d084-4306-a24d-3c89589d4b02",
+        "850e8400-ad2e-4066-ac36-fca91405ed36",
+        "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+        "850e8400-aa29-42e7-b46f-1f4d8573177e"
+      ],
+      "recipe_count": 9,
+      "follower_count": 95,
+      "created_at": "2024-12-02T00:00:00Z",
+      "updated_at": "2024-12-28T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-7da0-4ab6-b2fa-182c49bf6ed4",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "name": "Healthy & Diet",
+      "description": "Món ăn healthy, ít calo",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-3aab-4687-b856-428794d42775",
+        "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+        "850e8400-1271-428b-9f63-ec0f757900a3",
+        "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+        "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+        "850e8400-4b04-4457-b9de-b61043d6087a",
+        "850e8400-1619-4a7f-b54b-7ab836cdf532",
+        "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+        "850e8400-bb9e-4bf3-83e3-e6ce8aa31805"
+      ],
+      "recipe_count": 9,
+      "follower_count": 66,
+      "created_at": "2024-09-07T00:00:00Z",
+      "updated_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-3209-4f16-a833-48bf506bf405",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "name": "Món nhanh 30 phút",
+      "description": "Các món có thể hoàn thành trong 30 phút",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+        "850e8400-0193-4584-9397-8d62e5036077",
+        "850e8400-14a6-4010-8b45-64f562582691",
+        "850e8400-4a40-4ad4-a5f5-5c5212168365",
+        "850e8400-35b8-4351-be8b-d8d6152b7dae",
+        "850e8400-a473-4d7b-b03c-3578144b90f0",
+        "850e8400-c8ef-4307-bb94-27dc01ef0722",
+        "850e8400-1619-4a7f-b54b-7ab836cdf532",
+        "850e8400-8eb6-4fee-b14e-25162e30502f",
+        "850e8400-f714-42dc-9caa-619087b887fa"
+      ],
+      "recipe_count": 10,
+      "follower_count": 34,
+      "created_at": "2024-11-29T00:00:00Z",
+      "updated_at": "2024-12-23T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-c1d6-4ec7-8f50-6153738c8c00",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "name": "Món truyền thống Việt Nam",
+      "description": "Những món ăn truyền thống đặc sắc",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-ad2e-4066-ac36-fca91405ed36",
+        "850e8400-2430-40dd-b89a-64070a6ac51d",
+        "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+        "850e8400-4b04-4457-b9de-b61043d6087a",
+        "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+        "850e8400-d2fd-4d8d-a426-04d051ec504b",
+        "850e8400-2664-4cc6-9108-1d69b6b6146f",
+        "850e8400-d532-4c6d-b2d0-818da06cf7aa"
+      ],
+      "recipe_count": 8,
+      "follower_count": 20,
+      "created_at": "2024-09-19T00:00:00Z",
+      "updated_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-1ff4-4d01-9b40-492d55df32d3",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "name": "Món ăn sáng yêu thích",
+      "description": "Bữa sáng ngon và dinh dưỡng",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-2b00-4da9-925b-a87e09f41e7f",
+        "850e8400-aa29-42e7-b46f-1f4d8573177e",
+        "850e8400-41e2-4498-a1a8-502a01c6396e",
+        "850e8400-2664-4cc6-9108-1d69b6b6146f",
+        "850e8400-0193-4584-9397-8d62e5036077",
+        "850e8400-4a40-4ad4-a5f5-5c5212168365"
+      ],
+      "recipe_count": 6,
+      "follower_count": 23,
+      "created_at": "2024-08-04T00:00:00Z",
+      "updated_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-d8e9-4fb0-b3d9-52cd8eb31894",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "name": "Món cho người mới học nấu ăn",
+      "description": "Công thức đơn giản, dễ làm",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-3e65-4304-88bd-17f366c537a7",
+        "850e8400-3aab-4687-b856-428794d42775",
+        "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+        "850e8400-aa29-42e7-b46f-1f4d8573177e",
+        "850e8400-4fb4-486b-87f2-13fdb06b35d8",
+        "850e8400-ad2e-4066-ac36-fca91405ed36",
+        "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+        "850e8400-4ecb-4736-924d-7fc3d7d76609"
+      ],
+      "recipe_count": 8,
+      "follower_count": 39,
+      "created_at": "2024-08-18T00:00:00Z",
+      "updated_at": "2024-12-07T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-1eec-4384-8b26-87dccffc6e51",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "name": "Món ăn chay",
+      "description": "Các món chay thanh đạm",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-d31f-44af-a75a-69210fd6e876",
+        "850e8400-bfa9-460b-a293-d725d09f56a7",
+        "850e8400-da65-494b-8a26-def5c1f4be65",
+        "850e8400-2b00-4da9-925b-a87e09f41e7f",
+        "850e8400-1271-428b-9f63-ec0f757900a3"
+      ],
+      "recipe_count": 5,
+      "follower_count": 82,
+      "created_at": "2024-08-22T00:00:00Z",
+      "updated_at": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-a502-49cc-9230-1e21e4f77699",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "name": "Ăn vặt & Snacks",
+      "description": "Món ăn nhẹ, ăn vặt",
+      "is_public": false,
+      "recipe_ids": [
+        "850e8400-4fb4-486b-87f2-13fdb06b35d8",
+        "850e8400-eabb-4400-9ac1-95cb1160381f",
+        "850e8400-d084-4306-a24d-3c89589d4b02",
+        "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+        "850e8400-c8ef-4307-bb94-27dc01ef0722",
+        "850e8400-1619-4a7f-b54b-7ab836cdf532",
+        "850e8400-5508-4005-809a-b7b5d969ba29",
+        "850e8400-0193-4584-9397-8d62e5036077",
+        "850e8400-b00f-4073-82a6-bf0ab768a7c6"
+      ],
+      "recipe_count": 9,
+      "follower_count": 0,
+      "created_at": "2024-11-13T00:00:00Z",
+      "updated_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-aa76-4e5b-aa8d-eebd082dbbe1",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "name": "Món mùa hè",
+      "description": "Món ăn mát lạnh cho mùa hè",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-4b04-4457-b9de-b61043d6087a",
+        "850e8400-d084-4306-a24d-3c89589d4b02",
+        "850e8400-2430-40dd-b89a-64070a6ac51d",
+        "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+        "850e8400-3aab-4687-b856-428794d42775"
+      ],
+      "recipe_count": 5,
+      "follower_count": 21,
+      "created_at": "2024-11-05T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-cdbf-4cec-8466-261d1cc42527",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "name": "Món đãi tiệc",
+      "description": "Các món ăn sang trọng cho tiệc",
+      "is_public": false,
+      "recipe_ids": [
+        "850e8400-d084-4306-a24d-3c89589d4b02",
+        "850e8400-35b8-4351-be8b-d8d6152b7dae",
+        "850e8400-ee15-4000-87d9-717756506057",
+        "850e8400-41e2-4498-a1a8-502a01c6396e",
+        "850e8400-1619-4a7f-b54b-7ab836cdf532"
+      ],
+      "recipe_count": 5,
+      "follower_count": 0,
+      "created_at": "2024-08-22T00:00:00Z",
+      "updated_at": "2024-12-23T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-649d-425c-9910-5e169f9da211",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "name": "Meal Prep cho tuần",
+      "description": "Món có thể chuẩn bị trước",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+        "850e8400-3e65-4304-88bd-17f366c537a7",
+        "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+        "850e8400-d2fd-4d8d-a426-04d051ec504b",
+        "850e8400-d562-4490-8610-98fdfb5657bc"
+      ],
+      "recipe_count": 5,
+      "follower_count": 21,
+      "created_at": "2024-07-10T00:00:00Z",
+      "updated_at": "2024-12-14T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-5ec5-46ed-b7c2-3421940e4a28",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "name": "Món ngọt & Tráng miệng",
+      "description": "Các loại chè, bánh ngọt",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-eabb-4400-9ac1-95cb1160381f",
+        "850e8400-4b04-4457-b9de-b61043d6087a",
+        "850e8400-41e2-4498-a1a8-502a01c6396e",
+        "850e8400-2664-4cc6-9108-1d69b6b6146f",
+        "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+        "850e8400-35b8-4351-be8b-d8d6152b7dae",
+        "850e8400-f3d1-4240-a310-97a6f0c9c2b6",
+        "850e8400-4a40-4ad4-a5f5-5c5212168365",
+        "850e8400-aa2d-4ed3-88f1-a0589c0d7625"
+      ],
+      "recipe_count": 9,
+      "follower_count": 44,
+      "created_at": "2024-10-08T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-7f61-44dd-af76-2363c6e88cae",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "name": "Comfort Food",
+      "description": "Món ăn gia đình ấm cúng",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+        "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+        "850e8400-aa29-42e7-b46f-1f4d8573177e",
+        "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+        "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+        "850e8400-d562-4490-8610-98fdfb5657bc",
+        "850e8400-14a6-4010-8b45-64f562582691"
+      ],
+      "recipe_count": 7,
+      "follower_count": 9,
+      "created_at": "2024-10-19T00:00:00Z",
+      "updated_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-b61d-4451-bba0-1f2b8747e37e",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "name": "Món nướng BBQ",
+      "description": "Các món nướng thơm ngon",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-35b8-4351-be8b-d8d6152b7dae",
+        "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+        "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+        "850e8400-c8ef-4307-bb94-27dc01ef0722",
+        "850e8400-1619-4a7f-b54b-7ab836cdf532",
+        "850e8400-1271-428b-9f63-ec0f757900a3",
+        "850e8400-6bb4-4b97-bdd1-000f1d934d37",
+        "850e8400-2b00-4da9-925b-a87e09f41e7f",
+        "850e8400-aa2d-4ed3-88f1-a0589c0d7625"
+      ],
+      "recipe_count": 9,
+      "follower_count": 54,
+      "created_at": "2024-11-01T00:00:00Z",
+      "updated_at": "2024-12-12T00:00:00Z"
+    },
+    {
+      "id": "i50e8400-43ec-41a6-b560-cafb848d33e2",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "name": "Đồ uống giải khát",
+      "description": "Nước uống, sinh tố",
+      "is_public": true,
+      "recipe_ids": [
+        "850e8400-e363-42b2-91f8-d88e044d1b23",
+        "850e8400-d562-4490-8610-98fdfb5657bc",
+        "850e8400-4fb4-486b-87f2-13fdb06b35d8",
+        "850e8400-aa29-42e7-b46f-1f4d8573177e",
+        "850e8400-bfa9-460b-a293-d725d09f56a7",
+        "850e8400-3b10-4bff-86b9-cd2908bba8a6",
+        "850e8400-d532-4c6d-b2d0-818da06cf7aa"
+      ],
+      "recipe_count": 7,
+      "follower_count": 18,
+      "created_at": "2024-10-12T00:00:00Z",
+      "updated_at": "2024-12-24T00:00:00Z"
+    }
+  ]
+}

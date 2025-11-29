@@ -1,0 +1,714 @@
+{
+  "search_queries": [
+    {
+      "id": "f50e8400-883e-4b9b-8a28-decfe6a9e677",
+      "user_id": null,
+      "query_text": "cơm tấm",
+      "filters": {
+        "difficulty": "easy",
+        "max_time": 45
+      },
+      "results_count": 12,
+      "clicked_recipe_ids": [
+        "850e8400-8694-4edc-92b5-1ad5cebb18d2"
+      ],
+      "created_at": "2024-10-21T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-5c33-4075-a983-3dff01d1c678",
+      "user_id": null,
+      "query_text": "cơm tấm",
+      "filters": {},
+      "results_count": 25,
+      "clicked_recipe_ids": [
+        "850e8400-bfa9-460b-a293-d725d09f56a7",
+        "850e8400-0193-4584-9397-8d62e5036077"
+      ],
+      "created_at": "2024-12-10T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-e426-4020-80d9-0f85e8d21058",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "query_text": "meal prep",
+      "filters": {
+        "difficulty": "easy",
+        "max_time": 45
+      },
+      "results_count": 27,
+      "clicked_recipe_ids": [
+        "850e8400-1619-4a7f-b54b-7ab836cdf532",
+        "850e8400-ad2e-4066-ac36-fca91405ed36",
+        "850e8400-eabb-4400-9ac1-95cb1160381f"
+      ],
+      "created_at": "2024-12-26T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-ba98-4500-be6b-c6dc343ad51e",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "query_text": "meal prep",
+      "filters": {},
+      "results_count": 45,
+      "clicked_recipe_ids": [
+        "850e8400-e363-42b2-91f8-d88e044d1b23"
+      ],
+      "created_at": "2024-12-14T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-fb66-4a0a-9329-d83eaac6ce97",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "query_text": "món chay",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 27,
+      "clicked_recipe_ids": [
+        "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+        "850e8400-5508-4005-809a-b7b5d969ba29",
+        "850e8400-bfa9-460b-a293-d725d09f56a7"
+      ],
+      "created_at": "2024-10-27T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-cc5b-45d6-abe3-07923a3a47ad",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "query_text": "low carb",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 5,
+      "clicked_recipe_ids": [
+        "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+        "850e8400-ee15-4000-87d9-717756506057",
+        "850e8400-5508-4005-809a-b7b5d969ba29"
+      ],
+      "created_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-c30d-4b8f-9149-02bd68db8b7e",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "query_text": "món Việt Nam",
+      "filters": {},
+      "results_count": 16,
+      "clicked_recipe_ids": [
+        "850e8400-a473-4d7b-b03c-3578144b90f0",
+        "850e8400-1271-428b-9f63-ec0f757900a3",
+        "850e8400-8694-4edc-92b5-1ad5cebb18d2"
+      ],
+      "created_at": "2024-10-19T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-f70f-407f-9fe4-07c40bf9e08a",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "query_text": "bún chả",
+      "filters": {
+        "difficulty": "easy",
+        "max_time": 45
+      },
+      "results_count": 22,
+      "clicked_recipe_ids": [
+        "850e8400-1271-428b-9f63-ec0f757900a3",
+        "850e8400-da65-494b-8a26-def5c1f4be65"
+      ],
+      "created_at": "2024-10-25T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-0880-482b-ae7d-7a617bfdf8d1",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "query_text": "món ăn sáng",
+      "filters": {},
+      "results_count": 17,
+      "clicked_recipe_ids": [
+        "850e8400-2664-4cc6-9108-1d69b6b6146f",
+        "850e8400-4ecb-4736-924d-7fc3d7d76609",
+        "850e8400-3e65-4304-88bd-17f366c537a7"
+      ],
+      "created_at": "2024-12-03T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-daa8-45a9-8a86-835ebfa39e9e",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "query_text": "dễ làm",
+      "filters": {
+        "dietary": [
+          "vegetarian"
+        ]
+      },
+      "results_count": 26,
+      "clicked_recipe_ids": [
+        "850e8400-e363-42b2-91f8-d88e044d1b23"
+      ],
+      "created_at": "2024-11-09T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-5333-4929-89b5-377ddeb62db3",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "query_text": "dễ làm",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 44,
+      "clicked_recipe_ids": [
+        "850e8400-8694-4edc-92b5-1ad5cebb18d2",
+        "850e8400-da65-494b-8a26-def5c1f4be65",
+        "850e8400-d31f-44af-a75a-69210fd6e876"
+      ],
+      "created_at": "2024-12-09T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-fcf6-492c-9720-6219766c0b23",
+      "user_id": null,
+      "query_text": "bún chả",
+      "filters": {
+        "dietary": [
+          "vegetarian"
+        ]
+      },
+      "results_count": 45,
+      "clicked_recipe_ids": [
+        "850e8400-4b04-4457-b9de-b61043d6087a"
+      ],
+      "created_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-8df3-47d1-b38f-a1b6114959d7",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "query_text": "món cho trẻ em",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 7,
+      "clicked_recipe_ids": [
+        "850e8400-d084-4306-a24d-3c89589d4b02"
+      ],
+      "created_at": "2024-12-25T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-df0e-4687-b8a4-3a9ec7ea320c",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "query_text": "món tráng miệng",
+      "filters": {
+        "dietary": [
+          "vegetarian"
+        ]
+      },
+      "results_count": 28,
+      "clicked_recipe_ids": [
+        "850e8400-4b04-4457-b9de-b61043d6087a",
+        "850e8400-a473-4d7b-b03c-3578144b90f0"
+      ],
+      "created_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-2b97-4df4-81a4-c9c48a6b1f2d",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "query_text": "meal prep",
+      "filters": {
+        "max_time": 30
+      },
+      "results_count": 29,
+      "clicked_recipe_ids": [
+        "850e8400-41e2-4498-a1a8-502a01c6396e",
+        "850e8400-ee15-4000-87d9-717756506057"
+      ],
+      "created_at": "2024-10-10T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-c8a4-44ab-8f08-fbf5571f357e",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "query_text": "cách nấu phở",
+      "filters": {
+        "difficulty": "easy",
+        "max_time": 45
+      },
+      "results_count": 33,
+      "clicked_recipe_ids": [
+        "850e8400-8eb6-4fee-b14e-25162e30502f",
+        "850e8400-3e65-4304-88bd-17f366c537a7",
+        "850e8400-d0dc-4563-aec2-b68baf0d7ab3"
+      ],
+      "created_at": "2024-10-08T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-ef32-471e-b811-21ae06807f23",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "query_text": "công thức bánh xèo",
+      "filters": {
+        "difficulty": "easy",
+        "max_time": 45
+      },
+      "results_count": 29,
+      "clicked_recipe_ids": [
+        "850e8400-14a6-4010-8b45-64f562582691",
+        "850e8400-3162-4cfc-94fb-6635630de168",
+        "850e8400-3e65-4304-88bd-17f366c537a7"
+      ],
+      "created_at": "2024-12-21T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-5fcf-4f86-9898-32e47ceacc46",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "query_text": "cách nấu phở",
+      "filters": {
+        "max_time": 30
+      },
+      "results_count": 33,
+      "clicked_recipe_ids": [
+        "850e8400-4a40-4ad4-a5f5-5c5212168365",
+        "850e8400-6bb4-4b97-bdd1-000f1d934d37"
+      ],
+      "created_at": "2024-12-11T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-e4f9-4bbc-aa42-88bb31bccd72",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "query_text": "món nướng",
+      "filters": {},
+      "results_count": 20,
+      "clicked_recipe_ids": [
+        "850e8400-f714-42dc-9caa-619087b887fa",
+        "850e8400-d0dc-4563-aec2-b68baf0d7ab3",
+        "850e8400-35b8-4351-be8b-d8d6152b7dae"
+      ],
+      "created_at": "2024-12-11T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-af53-414b-9dff-cdcfc2cfb394",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "query_text": "món ăn truyền thống",
+      "filters": {
+        "max_time": 30
+      },
+      "results_count": 39,
+      "clicked_recipe_ids": [
+        "850e8400-d084-4306-a24d-3c89589d4b02",
+        "850e8400-b73f-40ca-9130-a44d4cbcf71c"
+      ],
+      "created_at": "2024-10-19T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-59b3-4d67-bb1e-22378c73b91f",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "query_text": "thịt kho",
+      "filters": {
+        "category": "vietnamese"
+      },
+      "results_count": 17,
+      "clicked_recipe_ids": [
+        "850e8400-aa29-42e7-b46f-1f4d8573177e",
+        "850e8400-6bb4-4b97-bdd1-000f1d934d37"
+      ],
+      "created_at": "2024-10-17T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-0898-4f76-98f1-e84d5c9e8dd6",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "query_text": "cá kho tộ",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 36,
+      "clicked_recipe_ids": [
+        "850e8400-de65-4c05-b587-0e99674bb9d1",
+        "850e8400-f093-4541-83fe-ed8a7cf4b25b",
+        "850e8400-e66a-416d-834e-e493ae280292"
+      ],
+      "created_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-a2f4-4042-bbbe-6a58942d5ce5",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "query_text": "món chay",
+      "filters": {
+        "dietary": [
+          "vegetarian"
+        ]
+      },
+      "results_count": 50,
+      "clicked_recipe_ids": [
+        "850e8400-d2fd-4d8d-a426-04d051ec504b"
+      ],
+      "created_at": "2024-11-03T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-68ee-4e4e-9535-9b709bf8c25b",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "query_text": "món chay",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 14,
+      "clicked_recipe_ids": [
+        "850e8400-3e65-4304-88bd-17f366c537a7",
+        "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+        "850e8400-d2fd-4d8d-a426-04d051ec504b"
+      ],
+      "created_at": "2024-10-12T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-fbc9-44bd-9afa-cb724b5847fa",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "query_text": "nồi áp suất",
+      "filters": {
+        "category": "vietnamese"
+      },
+      "results_count": 14,
+      "clicked_recipe_ids": [
+        "850e8400-a473-4d7b-b03c-3578144b90f0",
+        "850e8400-d084-4306-a24d-3c89589d4b02"
+      ],
+      "created_at": "2024-11-11T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-60bc-4fcf-8cf8-63e46e71d4e0",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "query_text": "đồ uống",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 48,
+      "clicked_recipe_ids": [
+        "850e8400-1619-4a7f-b54b-7ab836cdf532",
+        "850e8400-3aab-4687-b856-428794d42775",
+        "850e8400-d31f-44af-a75a-69210fd6e876"
+      ],
+      "created_at": "2024-11-20T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-ed9b-4bb5-b329-66d21d0542aa",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "query_text": "món nhanh",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 13,
+      "clicked_recipe_ids": [
+        "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+        "850e8400-d532-4c6d-b2d0-818da06cf7aa"
+      ],
+      "created_at": "2024-10-25T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-65db-4522-b42c-06433a098e17",
+      "user_id": null,
+      "query_text": "cá kho tộ",
+      "filters": {
+        "difficulty": "easy",
+        "max_time": 45
+      },
+      "results_count": 10,
+      "clicked_recipe_ids": [
+        "850e8400-da65-494b-8a26-def5c1f4be65"
+      ],
+      "created_at": "2024-12-07T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-9a18-4880-a9c2-740ac2e65126",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "query_text": "cơm tấm",
+      "filters": {
+        "difficulty": "easy",
+        "max_time": 45
+      },
+      "results_count": 50,
+      "clicked_recipe_ids": [
+        "850e8400-8c5a-4632-b099-90b8dfdf42ba"
+      ],
+      "created_at": "2024-12-08T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-8e28-4546-95ff-c49fbd5f4d10",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "query_text": "chè",
+      "filters": {
+        "max_time": 30
+      },
+      "results_count": 18,
+      "clicked_recipe_ids": [
+        "850e8400-8c5a-4632-b099-90b8dfdf42ba",
+        "850e8400-b73f-40ca-9130-a44d4cbcf71c"
+      ],
+      "created_at": "2024-12-19T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-edb0-4b16-9046-acfb32e94646",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "query_text": "canh chua",
+      "filters": {
+        "dietary": [
+          "vegetarian"
+        ]
+      },
+      "results_count": 35,
+      "clicked_recipe_ids": [
+        "850e8400-35b8-4351-be8b-d8d6152b7dae",
+        "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+        "850e8400-d532-4c6d-b2d0-818da06cf7aa"
+      ],
+      "created_at": "2024-12-23T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-0877-4e8f-919f-6e7ada5f07f0",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "query_text": "ăn kiêng",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 12,
+      "clicked_recipe_ids": [
+        "850e8400-25d5-4cfe-99b7-dde2d76de834"
+      ],
+      "created_at": "2024-10-31T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-5cdc-451c-b220-8a784a6d8b37",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "query_text": "món ăn sáng",
+      "filters": {
+        "category": "vietnamese"
+      },
+      "results_count": 20,
+      "clicked_recipe_ids": [
+        "850e8400-41e2-4498-a1a8-502a01c6396e"
+      ],
+      "created_at": "2024-12-14T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-ee08-4d2b-ad15-8dca5ab7594e",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "query_text": "bún chả",
+      "filters": {
+        "dietary": [
+          "vegetarian"
+        ]
+      },
+      "results_count": 29,
+      "clicked_recipe_ids": [
+        "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+        "850e8400-d0dc-4563-aec2-b68baf0d7ab3",
+        "850e8400-35b8-4351-be8b-d8d6152b7dae"
+      ],
+      "created_at": "2024-12-04T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-eae6-4345-9ac8-7003f54223a0",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "query_text": "thịt kho",
+      "filters": {
+        "category": "vietnamese"
+      },
+      "results_count": 17,
+      "clicked_recipe_ids": [
+        "850e8400-bb9e-4bf3-83e3-e6ce8aa31805",
+        "850e8400-3e65-4304-88bd-17f366c537a7",
+        "850e8400-4fb4-486b-87f2-13fdb06b35d8"
+      ],
+      "created_at": "2024-11-17T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-bffc-48fa-b558-7f3df0e9623b",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "query_text": "món cho trẻ em",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 44,
+      "clicked_recipe_ids": [
+        "850e8400-14a6-4010-8b45-64f562582691",
+        "850e8400-a473-4d7b-b03c-3578144b90f0",
+        "850e8400-f093-4541-83fe-ed8a7cf4b25b"
+      ],
+      "created_at": "2024-10-24T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-e206-487d-bfe6-33a1c091ee5a",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "query_text": "món nướng",
+      "filters": {},
+      "results_count": 22,
+      "clicked_recipe_ids": [
+        "850e8400-f714-42dc-9caa-619087b887fa",
+        "850e8400-d6b0-4816-8b84-c899a0cbbd63"
+      ],
+      "created_at": "2024-12-15T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-c07b-4ec4-9a9b-22cb5b3a4f32",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "query_text": "30 phút",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 38,
+      "clicked_recipe_ids": [
+        "850e8400-2430-40dd-b89a-64070a6ac51d"
+      ],
+      "created_at": "2024-10-12T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-79d9-4248-8842-4a7146dfbbf4",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "query_text": "nồi áp suất",
+      "filters": {},
+      "results_count": 29,
+      "clicked_recipe_ids": [
+        "850e8400-e66a-416d-834e-e493ae280292",
+        "850e8400-e363-42b2-91f8-d88e044d1b23"
+      ],
+      "created_at": "2024-10-18T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-dccc-4004-a710-4ad296a37ca3",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "query_text": "gỏi cuốn",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 7,
+      "clicked_recipe_ids": [
+        "850e8400-d2fd-4d8d-a426-04d051ec504b"
+      ],
+      "created_at": "2024-10-13T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-c92d-451d-b0dd-38cb617c67f2",
+      "user_id": null,
+      "query_text": "món nhanh",
+      "filters": {
+        "category": "vietnamese"
+      },
+      "results_count": 40,
+      "clicked_recipe_ids": [
+        "850e8400-41e2-4498-a1a8-502a01c6396e",
+        "850e8400-b73f-40ca-9130-a44d4cbcf71c"
+      ],
+      "created_at": "2024-11-27T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-fb2e-48a8-9645-12c11c6ce30b",
+      "user_id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "query_text": "canh chua",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 50,
+      "clicked_recipe_ids": [
+        "850e8400-35b8-4351-be8b-d8d6152b7dae",
+        "850e8400-d532-4c6d-b2d0-818da06cf7aa",
+        "850e8400-2664-4cc6-9108-1d69b6b6146f"
+      ],
+      "created_at": "2024-10-06T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-c44b-41ed-953c-453a560bdcb2",
+      "user_id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "query_text": "công thức bánh xèo",
+      "filters": {
+        "difficulty": "easy"
+      },
+      "results_count": 24,
+      "clicked_recipe_ids": [
+        "850e8400-41e2-4498-a1a8-502a01c6396e",
+        "850e8400-8c5a-4632-b099-90b8dfdf42ba"
+      ],
+      "created_at": "2024-11-05T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-52d3-4aa1-829c-9c03bfdc30a4",
+      "user_id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "query_text": "món Việt Nam",
+      "filters": {
+        "difficulty": "easy",
+        "max_time": 45
+      },
+      "results_count": 26,
+      "clicked_recipe_ids": [
+        "850e8400-b00f-4073-82a6-bf0ab768a7c6",
+        "850e8400-aa2d-4ed3-88f1-a0589c0d7625"
+      ],
+      "created_at": "2024-10-27T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-70e9-497d-a52f-a5c29e3faa74",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "query_text": "món Việt Nam",
+      "filters": {
+        "dietary": [
+          "vegetarian"
+        ]
+      },
+      "results_count": 43,
+      "clicked_recipe_ids": [
+        "850e8400-35b8-4351-be8b-d8d6152b7dae"
+      ],
+      "created_at": "2024-11-22T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-a700-4042-bb6d-580362c933a9",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "query_text": "phở bò",
+      "filters": {
+        "category": "vietnamese"
+      },
+      "results_count": 43,
+      "clicked_recipe_ids": [
+        "850e8400-aa2d-4ed3-88f1-a0589c0d7625",
+        "850e8400-ad2e-4066-ac36-fca91405ed36",
+        "850e8400-3e65-4304-88bd-17f366c537a7"
+      ],
+      "created_at": "2024-11-04T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-5447-49a7-aedb-9dccb4013a97",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "query_text": "chè",
+      "filters": {},
+      "results_count": 14,
+      "clicked_recipe_ids": [
+        "850e8400-1271-428b-9f63-ec0f757900a3",
+        "850e8400-35b8-4351-be8b-d8d6152b7dae"
+      ],
+      "created_at": "2024-12-22T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-f849-408d-9eed-a484b92eba7f",
+      "user_id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "query_text": "thịt kho",
+      "filters": {
+        "max_time": 30
+      },
+      "results_count": 30,
+      "clicked_recipe_ids": [
+        "850e8400-1619-4a7f-b54b-7ab836cdf532",
+        "850e8400-b73f-40ca-9130-a44d4cbcf71c"
+      ],
+      "created_at": "2024-10-15T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-b619-4537-bb13-2b63675360d5",
+      "user_id": null,
+      "query_text": "bún chả",
+      "filters": {
+        "difficulty": "easy",
+        "max_time": 45
+      },
+      "results_count": 15,
+      "clicked_recipe_ids": [
+        "850e8400-0175-45d5-bb15-9c0d4faad3d3",
+        "850e8400-41e2-4498-a1a8-502a01c6396e",
+        "850e8400-3aab-4687-b856-428794d42775"
+      ],
+      "created_at": "2024-10-05T00:00:00Z"
+    },
+    {
+      "id": "f50e8400-c686-4a0e-9a95-bfe834d8be4b",
+      "user_id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "query_text": "làm bún bò huế",
+      "filters": {},
+      "results_count": 25,
+      "clicked_recipe_ids": [
+        "850e8400-d2fd-4d8d-a426-04d051ec504b"
+      ],
+      "created_at": "2024-11-16T00:00:00Z"
+    }
+  ]
+}

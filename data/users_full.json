@@ -1,0 +1,182 @@
+{
+  "users": [
+    {
+      "id": "750e8400-820e-4627-8e98-315eafb8b217",
+      "email": "admin@cooking.app",
+      "password_hash": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewY5lW.2E2H8RQW2",
+      "full_name": "Nguyễn Văn Admin",
+      "display_name": "Admin",
+      "avatar_url": "https://storage.cooking.app/avatars/admin.jpg",
+      "bio": "Admin của hệ thống, chuyên gia ẩm thực Việt Nam",
+      "oauth_provider": null,
+      "oauth_id": null,
+      "ai_personality": "professional",
+      "language": "vi",
+      "dietary_preferences": [],
+      "allergies": [],
+      "default_servings": 4,
+      "voice_enabled": true,
+      "wake_word_enabled": false,
+      "tts_voice": "vi-VN-Standard-A",
+      "notification_settings": {
+        "email": true,
+        "push": true,
+        "chat": true
+      },
+      "total_recipes": 15,
+      "total_favorites": 8,
+      "total_cooking_sessions": 25,
+      "total_chats": 10,
+      "is_admin": true,
+      "is_active": true,
+      "created_at": "2024-07-05T00:00:00Z",
+      "updated_at": "2024-12-31T00:00:00Z",
+      "last_login_at": "2024-12-31T22:00:00Z"
+    },
+    {
+      "id": "750e8400-94c4-4213-bf61-832493c9740f",
+      "email": "user1@example.com",
+      "password_hash": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewY5lW.2E2H8RQW2",
+      "full_name": "Trần Thị Minh",
+      "display_name": "Minh",
+      "avatar_url": "https://storage.cooking.app/avatars/user1.jpg",
+      "bio": "Yêu thích nấu ăn và chia sẻ công thức",
+      "oauth_provider": null,
+      "oauth_id": null,
+      "ai_personality": "friendly",
+      "language": "vi",
+      "dietary_preferences": [
+        "healthy",
+        "low-carb"
+      ],
+      "allergies": [
+        "đậu nành"
+      ],
+      "default_servings": 2,
+      "voice_enabled": true,
+      "wake_word_enabled": true,
+      "tts_voice": "vi-VN-Standard-B",
+      "notification_settings": {
+        "email": true,
+        "push": true,
+        "chat": false
+      },
+      "total_recipes": 5,
+      "total_favorites": 20,
+      "total_cooking_sessions": 15,
+      "total_chats": 8,
+      "is_admin": false,
+      "is_active": true,
+      "created_at": "2024-10-03T00:00:00Z",
+      "updated_at": "2024-12-30T00:00:00Z",
+      "last_login_at": "2024-12-31T19:00:00Z"
+    },
+    {
+      "id": "750e8400-1ed1-4fc8-9c02-ec5fe9941d13",
+      "email": "chef.john@example.com",
+      "password_hash": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewY5lW.2E2H8RQW2",
+      "full_name": "John Smith",
+      "display_name": "Chef John",
+      "avatar_url": "https://storage.cooking.app/avatars/user2.jpg",
+      "bio": "Professional chef, Vietnamese cuisine enthusiast",
+      "oauth_provider": "google",
+      "oauth_id": "google_12345",
+      "ai_personality": "professional",
+      "language": "en",
+      "dietary_preferences": [],
+      "allergies": [],
+      "default_servings": 4,
+      "voice_enabled": false,
+      "wake_word_enabled": false,
+      "tts_voice": "en-US-Standard-D",
+      "notification_settings": {
+        "email": true,
+        "push": false,
+        "chat": true
+      },
+      "total_recipes": 12,
+      "total_favorites": 15,
+      "total_cooking_sessions": 30,
+      "total_chats": 5,
+      "is_admin": false,
+      "is_active": true,
+      "created_at": "2024-09-03T00:00:00Z",
+      "updated_at": "2024-12-29T00:00:00Z",
+      "last_login_at": "2024-12-31T00:00:00Z"
+    },
+    {
+      "id": "750e8400-737a-42d6-98d5-721f4a0f68be",
+      "email": "veganlover@example.com",
+      "password_hash": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewY5lW.2E2H8RQW2",
+      "full_name": "Lê Hoàng Mai",
+      "display_name": "Mai Vegan",
+      "avatar_url": "https://storage.cooking.app/avatars/user3.jpg",
+      "bio": "Ăn chay trường, chia sẻ món chay ngon",
+      "oauth_provider": "facebook",
+      "oauth_id": "fb_67890",
+      "ai_personality": "friendly",
+      "language": "vi",
+      "dietary_preferences": [
+        "vegan",
+        "plant-based"
+      ],
+      "allergies": [],
+      "default_servings": 3,
+      "voice_enabled": true,
+      "wake_word_enabled": false,
+      "tts_voice": "vi-VN-Standard-C",
+      "notification_settings": {
+        "email": false,
+        "push": true,
+        "chat": true
+      },
+      "total_recipes": 8,
+      "total_favorites": 25,
+      "total_cooking_sessions": 20,
+      "total_chats": 12,
+      "is_admin": false,
+      "is_active": true,
+      "created_at": "2024-11-02T00:00:00Z",
+      "updated_at": "2024-12-31T14:00:00Z",
+      "last_login_at": "2024-12-31T21:00:00Z"
+    },
+    {
+      "id": "750e8400-d89a-4cdd-a140-d4636b0178c1",
+      "email": "student@example.com",
+      "password_hash": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewY5lW.2E2H8RQW2",
+      "full_name": "Phạm Minh Tuấn",
+      "display_name": "Tuấn SV",
+      "avatar_url": "https://storage.cooking.app/avatars/user4.jpg",
+      "bio": "Sinh viên, học nấu ăn cơ bản",
+      "oauth_provider": null,
+      "oauth_id": null,
+      "ai_personality": "humorous",
+      "language": "vi",
+      "dietary_preferences": [
+        "quick-easy",
+        "budget-friendly"
+      ],
+      "allergies": [
+        "hải sản"
+      ],
+      "default_servings": 1,
+      "voice_enabled": false,
+      "wake_word_enabled": false,
+      "tts_voice": "vi-VN-Standard-D",
+      "notification_settings": {
+        "email": false,
+        "push": false,
+        "chat": true
+      },
+      "total_recipes": 2,
+      "total_favorites": 10,
+      "total_cooking_sessions": 5,
+      "total_chats": 15,
+      "is_admin": false,
+      "is_active": true,
+      "created_at": "2024-12-02T00:00:00Z",
+      "updated_at": "2024-12-31T00:00:00Z",
+      "last_login_at": "2024-12-31T23:00:00Z"
+    }
+  ]
+}
