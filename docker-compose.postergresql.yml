@@ -1,28 +1,19 @@
-version: '3.8'
-
 services:
-  postgres-pgvector:
-    # Sử dụng image có sẵn pgvector - KHÔNG cần build Dockerfile
-    image: pgvector/pgvector:pg16
-    container_name: food-app-postgres-pgvector
+  postgres:
+    image: postgres:16
+    container_name: food-app-postgres
     restart: unless-stopped
     
     environment:
-      # ⚠️ QUAN TRỌNG: Set user/pass RÕ RÀNG
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: secure_pass_123
       POSTGRES_DB: food_app_db
-      
-      # Optional: Tăng performance
-      POSTGRES_SHARED_BUFFERS: 256MB
-      POSTGRES_EFFECTIVE_CACHE_SIZE: 1GB
     
     ports:
       - "5432:5432"
     
     volumes:
-      # ⚠️ Named volume - Sẽ xóa bằng lệnh -v
-      - pgvector_data:/var/lib/postgresql/data
+      - postgres_data:/var/lib/postgresql/data
     
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U admin -d food_app_db"]
@@ -34,8 +25,7 @@ services:
       - food-app-network
 
 volumes:
-  pgvector_data:
-    # Named volume để dễ quản lý và xóa
+  postgres_data:
 
 networks:
   food-app-network:

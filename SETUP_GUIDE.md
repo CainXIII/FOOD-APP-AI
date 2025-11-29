@@ -50,10 +50,10 @@ Tạo file `.env` trong thư mục `backend/`:
 
 ```env
 # Database
-DATABASE_URL=postgresql://postgres:password@localhost:5432/food_app
-POSTGRES_USER=postgres
-POSTGRES_PASSWORD=password
-POSTGRES_DB=food_app
+DATABASE_URL=postgresql://admin:secure_pass_123@localhost:5432/food_app_db
+POSTGRES_USER=admin
+POSTGRES_PASSWORD=secure_pass_123
+POSTGRES_DB=food_app_db
 
 # Qdrant Vector Database
 QDRANT_URL=http://localhost:6333
@@ -90,7 +90,7 @@ MAX_FILE_SIZE=10485760  # 10MB
 cd /path/to/FOOD-APP-AI-app_v0_1
 
 # Khởi động tất cả services
-docker-compose up -d
+docker-compose -f docker-compose.postergresql.yml -f docker-compose.qdrant.yml up -d
 
 # Xem logs
 docker-compose logs -f
@@ -101,7 +101,7 @@ docker-compose ps
 
 ### 2.3 Docker Services
 
-File `docker-compose.yml` sẽ khởi động:
+File `docker-compose.postgresql.yml` và `docker-compose.qdrant.yml` sẽ khởi động:
 
 - **PostgreSQL Database**: `localhost:5432`
 - **Qdrant Vector Database**: `localhost:6333`
@@ -111,7 +111,7 @@ File `docker-compose.yml` sẽ khởi động:
 
 ```bash
 # Kiểm tra PostgreSQL
-psql -h localhost -p 5432 -U postgres -d food_app
+$env:PGPASSWORD="secure_pass_123"; psql -h localhost -p 5432 -U admin -d food_app_db -c "SELECT version();"
 
 # Kiểm tra Qdrant
 curl http://localhost:6333/collections

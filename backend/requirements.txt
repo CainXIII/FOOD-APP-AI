@@ -1,53 +1,53 @@
 # Core FastAPI
-fastapi==0.109.0
-uvicorn[standard]==0.27.0
-pydantic==2.5.0
-pydantic-settings==2.1.0
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
 
 # Database - SQLite (built-in Python)
-sqlalchemy==2.0.25
-alembic==1.13.1
+sqlalchemy
+alembic
 
 # Redis (optional for caching)
-redis[hiredis]==5.0.1
+redis[hiredis]
 
 # Authentication
-python-jose[cryptography]==3.3.0
-passlib[bcrypt]==1.7.4
-python-multipart==0.0.6
-authlib==1.3.0
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+authlib
 
 # OpenAI & LangChain
-openai==1.7.0
-langchain==0.1.0
-langchain-openai==0.0.2
-tiktoken==0.5.2
+openai
+langchain
+langchain-openai
+tiktoken
 
 # Image processing
-pillow==10.2.0
-pillow-avif-plugin==1.4.1
+pillow
+pillow-avif-plugin
 
 # Utilities
-python-dotenv==1.0.0
-httpx==0.26.0
-aiofiles==23.2.1
-email-validator==2.1.0
-bleach==6.1.0
-numpy==1.26.2
+python-dotenv
+httpx
+aiofiles
+email-validator
+bleach
+numpy
 
 # Monitoring & Logging
-prometheus-client==0.19.0
-python-json-logger==2.0.7
+prometheus-client
+python-json-logger
 
 # Rate limiting
-slowapi==0.1.9
+slowapi
 
 # Caching
-cachetools==5.3.2
+cachetools
 
 # Development dependencies (optional)
-# pytest==7.4.3
-# black==23.12.1
-# isort==5.13.2
-# flake8==6.1.0
-# mypy==1.7.1
+# pytest
+# black
+# isort
+# flake8
+# mypy
